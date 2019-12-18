@@ -1,0 +1,11 @@
+# OS generated files #
+.DS_Store
+
+# Project Files
+/gems.locked
+
+# Data Dictionary folders
+/coverage
+/csvs
+/exports
+/graphs
