@@ -2,6 +2,5 @@
   "id": "publicid",
   "display_name": "Public nuMoM2b ID",
   "description": "",
-  "type": "identifier",
-  "commonly_used": true
+  "type": "identifier"
 }
