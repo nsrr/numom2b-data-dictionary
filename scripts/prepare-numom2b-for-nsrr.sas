@@ -92,13 +92,6 @@
     *censor variables;
   run;
 
-  data numom_nsrr_visit1 numom_nsrr_visit3;
-    set numom_nsrr_censored;
-
-    if stdyvis = 1 then output numom_nsrr_visit1;
-    else if stdyvis = 3 then output numom_nsrr_visit3;
-  run;
-
 *******************************************************************************;
 * make all variable names lowercase ;
 *******************************************************************************;
@@ -117,8 +110,24 @@
     run;
   %mend lowcase;
 
-  %lowcase(numom_nsrr_visit1);
-  %lowcase(numom_nsrr_visit3);
+  %lowcase(numom_nsrr_censored);
+
+  /*
+
+  proc contents data=numom_nsrr_censored out=numom_nsrr_contents;
+  run;
+
+  */
+
+*******************************************************************************;
+* create separate datasets for each visit ;
+*******************************************************************************;
+  data numom_nsrr_visit1 numom_nsrr_visit3;
+    set numom_nsrr_censored;
+
+    if stdyvis = 1 then output numom_nsrr_visit1;
+    else if stdyvis = 3 then output numom_nsrr_visit3;
+  run;
 
 *******************************************************************************;
 * create permanent sas datasets ;
