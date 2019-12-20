@@ -90,6 +90,32 @@
     set numom_nsrr;
 
     *censor variables;
+    drop
+      SDB_StudyID /* private identifier */
+      StudyID /* private identifier */
+      stdydt /* date of psg recording - no dates */
+      V1AF05 -- V1AF07g /* individual race categories - only keep combined race variable */
+      pptid /* private identifier */
+      siteid /* private identifier */
+      rcvddt /* date received - no dates */
+      staendt /* date week ending - no dates */
+      reviewdt /* date of review - no dates */
+      techid /* private identifier */
+      status /* only passed studies kept */
+      rsnco /* failure reason - all missing since only passed studies kept */
+      pfcomm /* free text comments about sleep study */
+      scordt /* date scored - no dates */
+      scordtwkend /* date scored week ending - no dates */
+      urgalert_notifydt /* date urgent alert notified - no dates */
+      urgalert_replydt /* date urgent alert acknowledged - no dates */
+      overall_comments /* free text comments about sleep study */
+      STDATEP /* date of psg study - no dates */
+      SCOREDT /* date psg scored - no dates */
+      ;
+  run;
+
+  proc sort data=numom_nsrr_censored nodupkey;
+    by PublicID stdyvis;
   run;
 
 *******************************************************************************;
