@@ -2,5 +2,6 @@
   "id": "abdoqual",
   "display_name": "B10b. Abdomen (quality code)",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "signalquality"
 }
