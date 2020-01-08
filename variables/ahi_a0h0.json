@@ -2,5 +2,6 @@
   "id": "ahi_a0h0",
   "display_name": "AHI: All apneas and hypopneas per hour of sleep.",
   "description": "",
-  "type": null
+  "type": "numeric",
+  "units": "events per hour"
 }

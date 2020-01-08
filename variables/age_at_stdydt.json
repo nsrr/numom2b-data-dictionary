@@ -2,5 +2,6 @@
   "id": "age_at_stdydt",
   "display_name": "Age (years) at sleep study visit date",
   "description": "",
-  "type": null
+  "type": "integer",
+  "units": "years"
 }
