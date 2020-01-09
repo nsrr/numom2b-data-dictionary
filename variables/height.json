@@ -2,5 +2,5 @@
   "id": "height",
   "display_name": "Height (cm) measured at study visit 1",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

@@ -2,5 +2,5 @@
   "id": "ahi_a2h2",
   "display_name": "AHI: Apneas and hypopneas with >=2% oxygen desaturation per hour of sleep.",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

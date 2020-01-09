@@ -2,5 +2,5 @@
   "id": "soundi",
   "display_name": "Number of sound events per hr (Sleep)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

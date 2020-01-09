@@ -2,5 +2,5 @@
   "id": "weight",
   "display_name": "Weight (kg) measured at study visit (1 or 3)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

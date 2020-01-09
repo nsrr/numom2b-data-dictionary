@@ -2,5 +2,5 @@
   "id": "avdnop2",
   "display_name": "Average desaturation (Non-Supine, >=2% desaturation)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

@@ -2,5 +2,5 @@
   "id": "avoanbp2",
   "display_name": "Average Obstructive Apnea length (Supine, >=2% desaturation) (seconds)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

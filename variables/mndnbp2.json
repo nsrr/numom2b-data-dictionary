@@ -2,5 +2,5 @@
   "id": "mndnbp2",
   "display_name": "Minimum oxygen saturation (Supine, >=2% desaturation) (%)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

@@ -2,5 +2,5 @@
   "id": "saondoaslp",
   "display_name": "Average oxygen saturation% Nadir assoc. w/ Obstructive Apnea (Sleep)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

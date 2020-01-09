@@ -2,5 +2,5 @@
   "id": "mxoanbp5",
   "display_name": "Maximum Obstructive Apnea length (Supine, >=5% desaturation) (seconds)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

@@ -2,5 +2,5 @@
   "id": "unitid",
   "display_name": "A5. Unit ID",
   "description": "",
-  "type": null
+  "type": "integer"
 }

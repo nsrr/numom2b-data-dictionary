@@ -2,5 +2,5 @@
   "id": "ahis_a0h0",
   "display_name": "AHI in Supine: All apneas and hypopneas per hour of sleep.",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

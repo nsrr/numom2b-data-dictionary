@@ -2,5 +2,5 @@
   "id": "havbnoh",
   "display_name": "Average Heart Rate (Non-Supine, >=3% desaturation) (bpm)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

@@ -2,5 +2,5 @@
   "id": "cannqual",
   "display_name": "B8b. Cannula Flow (quality code)",
   "description": "",
-  "type": null
+  "type": "choices"
 }

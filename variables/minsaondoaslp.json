@@ -2,5 +2,5 @@
   "id": "minsaondoaslp",
   "display_name": "Minimum oxygen saturation% Nadir assoc. w/ Obstructive Apnea (Sleep)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

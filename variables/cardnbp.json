@@ -2,5 +2,5 @@
   "id": "cardnbp",
   "display_name": "Central Apnea per hour (Supine, all desaturations)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

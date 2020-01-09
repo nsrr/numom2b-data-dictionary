@@ -2,5 +2,5 @@
   "id": "pdb5slp",
   "display_name": "% Snore time in sleep (dB level 5)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

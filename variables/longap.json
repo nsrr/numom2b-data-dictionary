@@ -2,5 +2,5 @@
   "id": "longap",
   "display_name": "Longest Apnea (seconds)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

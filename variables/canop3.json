@@ -2,5 +2,5 @@
   "id": "canop3",
   "display_name": "Number of Central Apnea (Non-Supine, >=3% desaturation)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

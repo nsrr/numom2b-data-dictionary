@@ -2,5 +2,5 @@
   "id": "rdinbp4",
   "display_name": "30% Hypopnea per hour (Supine, >=4% desaturation)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

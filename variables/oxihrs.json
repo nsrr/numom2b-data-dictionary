@@ -2,5 +2,5 @@
   "id": "oxihrs",
   "display_name": "B11a. Oximetry (hours usable)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

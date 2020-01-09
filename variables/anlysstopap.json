@@ -2,5 +2,5 @@
   "id": "anlysstopap",
   "display_name": "B5a. AM/PM",
   "description": "",
-  "type": null
+  "type": "choices"
 }

@@ -2,5 +2,5 @@
   "id": "ahi_a0t4f3",
   "display_name": "AHI: All obstructive apneas, all central apneas, 30% reduction hypopneas with >=4% oxygen desaturation, and 50% reduction hypopneas with >=3% oxygen desaturation per hour of sleep.",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

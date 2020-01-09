@@ -2,5 +2,5 @@
   "id": "slpprdm",
   "display_name": "Sleep Period (minutes)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

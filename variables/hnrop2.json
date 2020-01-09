@@ -2,5 +2,5 @@
   "id": "hnrop2",
   "display_name": "Number of 30% Hypopnea (Non-Supine, >=2% desaturation)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

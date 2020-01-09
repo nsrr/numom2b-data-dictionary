@@ -2,5 +2,5 @@
   "id": "wasom",
   "display_name": "Wake time during sleep period (minutes .5)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

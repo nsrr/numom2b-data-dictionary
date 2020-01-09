@@ -2,5 +2,5 @@
   "id": "thorhrs",
   "display_name": "B9a. Thoracic (hours usable)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

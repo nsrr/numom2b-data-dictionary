@@ -2,5 +2,5 @@
   "id": "apntdur",
   "display_name": "Total Apnea Length (minutes)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

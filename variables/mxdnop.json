@@ -2,5 +2,5 @@
   "id": "mxdnop",
   "display_name": "Maximum desaturation (Non-Supine, all desaturations)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

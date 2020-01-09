@@ -2,5 +2,5 @@
   "id": "savbnbh",
   "display_name": "Average Heart Rate (Supine, all desaturations) (bpm)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

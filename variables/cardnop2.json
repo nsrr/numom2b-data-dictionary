@@ -2,5 +2,5 @@
   "id": "cardnop2",
   "display_name": "Central Apnea per hour (Non-Supine, >=2% desaturation)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

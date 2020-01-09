@@ -2,5 +2,5 @@
   "id": "hypai",
   "display_name": "50% Hypopnea Index (Number of Unsure per hour of sleep)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

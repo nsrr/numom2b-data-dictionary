@@ -2,5 +2,5 @@
   "id": "supinep",
   "display_name": "Percentage of sleep time in supine position",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

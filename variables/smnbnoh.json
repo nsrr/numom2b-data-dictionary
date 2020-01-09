@@ -2,5 +2,5 @@
   "id": "smnbnoh",
   "display_name": "Minimum Heart Rate (Non-Supine, all desaturations) (bpm)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

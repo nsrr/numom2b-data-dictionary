@@ -2,5 +2,5 @@
   "id": "ekghrs",
   "display_name": "B7a. EKG (hours usable)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

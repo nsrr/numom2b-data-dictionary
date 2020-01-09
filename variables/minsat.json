@@ -2,5 +2,5 @@
   "id": "minsat",
   "display_name": "Minimum Oxygen Saturation During Sleep",
   "description": "",
-  "type": null
+  "type": "integer"
 }

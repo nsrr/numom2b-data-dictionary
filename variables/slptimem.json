@@ -2,5 +2,5 @@
   "id": "slptimem",
   "display_name": "Sleep Time (minutes .5)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

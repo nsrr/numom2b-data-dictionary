@@ -2,5 +2,5 @@
   "id": "totalhrs",
   "display_name": "B6. Total Recording Time (hours)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

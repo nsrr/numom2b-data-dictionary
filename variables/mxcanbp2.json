@@ -2,5 +2,5 @@
   "id": "mxcanbp2",
   "display_name": "Maximum Central Apnea length (Supine, >=2% desaturation) (seconds)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

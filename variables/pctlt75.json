@@ -2,5 +2,5 @@
   "id": "pctlt75",
   "display_name": "Percentage of sleep time spent below 75% oxygen saturation",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

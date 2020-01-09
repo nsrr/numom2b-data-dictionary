@@ -2,5 +2,5 @@
   "id": "ndesat3",
   "display_name": "Number of desaturations >=3% in Sleep Time",
   "description": "",
-  "type": null
+  "type": "integer"
 }

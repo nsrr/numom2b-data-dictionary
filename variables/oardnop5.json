@@ -2,5 +2,5 @@
   "id": "oardnop5",
   "display_name": "Obstructive Apnea per hour (Non-Supine, >=5% desaturation)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

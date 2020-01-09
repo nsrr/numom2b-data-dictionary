@@ -2,5 +2,5 @@
   "id": "hnrbp4",
   "display_name": "Number of 30% Hypopnea (Supine, >=4% desaturation)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

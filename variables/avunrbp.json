@@ -2,5 +2,5 @@
   "id": "avunrbp",
   "display_name": "Average 50% Hypopnea length (Supine, all desaturations) (seconds)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

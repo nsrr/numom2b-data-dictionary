@@ -2,5 +2,5 @@
   "id": "waso",
   "display_name": "Wake after sleep onset",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

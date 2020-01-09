@@ -2,5 +2,5 @@
   "id": "consentflag",
   "display_name": "Participant and guardian (if applicable) agreed to nuMoM2b and SDB substudy data being shared in a NIH public database",
   "description": "",
-  "type": null
+  "type": "choices"
 }

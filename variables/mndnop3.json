@@ -2,5 +2,5 @@
   "id": "mndnop3",
   "display_name": "Minimum oxygen saturation (Non-Supine, >=3% desaturation) (%)",
   "description": "",
-  "type": null
+  "type": "integer"
 }

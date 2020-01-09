@@ -2,5 +2,5 @@
   "id": "hypi",
   "display_name": "Hypopnea Index (Number of hypopnea per hr of sleep)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

@@ -2,5 +2,5 @@
   "id": "alertahi50",
   "display_name": "C1b1. Apnea-hypopnea index (AHI) > 50 (No/Yes)",
   "description": "",
-  "type": null
+  "type": "choices"
 }

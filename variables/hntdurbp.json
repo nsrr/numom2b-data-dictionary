@@ -2,5 +2,5 @@
   "id": "hntdurbp",
   "display_name": "Total 30% Hypopnea Length (Supine) (minutes)",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

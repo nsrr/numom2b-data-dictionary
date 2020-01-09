@@ -2,5 +2,5 @@
   "id": "phbslp",
   "display_name": "Percentage of sleep time in 30% and 50% hypopneas",
   "description": "",
-  "type": null
+  "type": "numeric"
 }

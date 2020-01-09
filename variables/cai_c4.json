@@ -2,5 +2,5 @@
   "id": "cai_c4",
   "display_name": "CAI: Central apneas with >=4% oxygen desaturation per hour of sleep.",
   "description": "",
-  "type": null
+  "type": "numeric"
 }
