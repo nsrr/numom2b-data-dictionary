@@ -2,5 +2,6 @@
   "id": "mxcanop",
   "display_name": "Maximum Central Apnea length (Non-Supine all desaturations) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds"
 }

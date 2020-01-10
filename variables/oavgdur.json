@@ -2,5 +2,6 @@
   "id": "oavgdur",
   "display_name": "Average Obstructive Apnea Length (seconds)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "seconds"
 }

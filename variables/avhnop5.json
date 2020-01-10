@@ -2,5 +2,6 @@
   "id": "avhnop5",
   "display_name": "Average 30% Hypopnea length (Non-Supine, >=5% desaturation) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds"
 }

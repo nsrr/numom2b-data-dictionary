@@ -2,5 +2,6 @@
   "id": "nremepbp",
   "display_name": "Sleep Time (Supine) (minutes)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes"
 }

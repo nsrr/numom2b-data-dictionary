@@ -2,5 +2,6 @@
   "id": "hunrbp4",
   "display_name": "Number of 50% Hypopnea per hour (Supine, >=4% desaturation)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "events per hour"
 }

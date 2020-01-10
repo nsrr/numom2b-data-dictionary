@@ -2,5 +2,6 @@
   "id": "otdur",
   "display_name": "Total Obstructive Apnea Length (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

@@ -2,5 +2,6 @@
   "id": "dsnr5",
   "display_name": "Number of desaturations per hour (>= 5%) during sleep",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "events per hour"
 }

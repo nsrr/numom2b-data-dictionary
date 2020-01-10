@@ -2,5 +2,6 @@
   "id": "cavgdur",
   "display_name": "Average Central Apnea Length (seconds)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "seconds"
 }

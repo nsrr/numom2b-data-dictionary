@@ -2,5 +2,6 @@
   "id": "cntdurop",
   "display_name": "Total Central Apnea Length (Non-Supine) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

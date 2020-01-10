@@ -2,5 +2,6 @@
   "id": "anlysstart",
   "display_name": "B4. Analysis Start (0-1159)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "hh:mm"
 }

@@ -2,5 +2,6 @@
   "id": "ontdurbp",
   "display_name": "Total Obstructive Apnea Length (Supine) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

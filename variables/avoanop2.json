@@ -2,5 +2,6 @@
   "id": "avoanop2",
   "display_name": "Average Obstructive Apnea length (Non-Supine, >=2% desaturation) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds"
 }

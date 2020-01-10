@@ -2,5 +2,6 @@
   "id": "aptdur",
   "display_name": "Total Mixed Apnea Length (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

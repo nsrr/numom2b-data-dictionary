@@ -2,5 +2,6 @@
   "id": "apntdurbp",
   "display_name": "Total Apnea Length (Supine) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

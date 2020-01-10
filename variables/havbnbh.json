@@ -2,5 +2,6 @@
   "id": "havbnbh",
   "display_name": "Average Heart Rate (Supine, >=3% desaturation) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)"
 }

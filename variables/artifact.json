@@ -2,5 +2,6 @@
   "id": "artifact",
   "display_name": "Total Artifact Time (Unscorable) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

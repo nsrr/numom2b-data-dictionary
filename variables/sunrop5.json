@@ -2,5 +2,6 @@
   "id": "sunrop5",
   "display_name": "Minimum 50% Hypopnea length (Non-Supine, >=5% desaturation) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds"
 }

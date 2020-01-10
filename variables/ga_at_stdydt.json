@@ -2,5 +2,6 @@
   "id": "ga_at_stdydt",
   "display_name": "Gestational age (weeks) at sleep study visit date",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "weeks"
 }

@@ -2,5 +2,6 @@
   "id": "ctdur",
   "display_name": "Total Central Apnea Length (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

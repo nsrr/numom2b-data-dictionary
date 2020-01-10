@@ -2,5 +2,6 @@
   "id": "mncanbp5",
   "display_name": "Minimum Central Apnea length (Supine, >=5% desaturation) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds"
 }

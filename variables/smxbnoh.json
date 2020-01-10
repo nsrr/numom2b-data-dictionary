@@ -2,5 +2,6 @@
   "id": "smxbnoh",
   "display_name": "Maximum Heart Rate (Non-Supine, all desaturations) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)"
 }

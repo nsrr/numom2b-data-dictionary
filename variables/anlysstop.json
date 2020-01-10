@@ -2,5 +2,6 @@
   "id": "anlysstop",
   "display_name": "B5. Analysis Stop (0-1159)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "hh:mm"
 }

@@ -2,5 +2,6 @@
   "id": "cardnbp3",
   "display_name": "Central Apnea per hour (Supine, >=3% desaturation)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "events per hour"
 }

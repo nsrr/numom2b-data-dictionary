@@ -2,5 +2,6 @@
   "id": "weight",
   "display_name": "Weight (kg) measured at study visit (1 or 3)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "kilograms (kg)"
 }
