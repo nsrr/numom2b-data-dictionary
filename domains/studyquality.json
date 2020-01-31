@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Fail. Less than 2 hours of oximetry and nasal pressure or one band",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Poor. Oximetry and either nasal pressure or one band useable for >= 2 hours but less than 4 hours",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Fair. Oximetry and either nasal pressure or one band useable for >= 4 hours",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Good. At least nasal pressure, one band, and oximetry or both bands and oximetry useable for >= 4 hours",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Excellent. All channels are useable for >= 4 hours but < 6 hours",
+    "description": ""
+  },
+{
+    "value": "6",
+    "display_name": "Outstanding. All channels are good for >= 6 hours",
+    "description": ""
+  }
+]

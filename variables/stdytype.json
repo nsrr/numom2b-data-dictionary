@@ -2,5 +2,6 @@
   "id": "stdytype",
   "display_name": "A4a. Type of Sleep Study",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "studytype"
 }

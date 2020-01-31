@@ -2,5 +2,6 @@
   "id": "alertecgyn",
   "display_name": "b3. Specific heart rate and/or ECG finding (No/Yes)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes"
 }

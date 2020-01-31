@@ -2,5 +2,6 @@
   "id": "ekgqual",
   "display_name": "B7b. EKG (quality code)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "signalquality"
 }

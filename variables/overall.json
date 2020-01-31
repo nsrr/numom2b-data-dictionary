@@ -2,5 +2,6 @@
   "id": "overall",
   "display_name": "B12. Overall Study Quality",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "studyquality"
 }

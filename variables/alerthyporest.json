@@ -2,5 +2,6 @@
   "id": "alerthyporest",
   "display_name": "b2a. Baseline O2 sat < 88%",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes"
 }

@@ -2,5 +2,6 @@
   "id": "alertecgafib",
   "display_name": "b3f. Atrial fibrillation and/or flutter",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes"
 }

@@ -2,5 +2,6 @@
   "id": "alertecghr150",
   "display_name": "b3b. HR for >2 continuous minutes is >150 bpm",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes"
 }

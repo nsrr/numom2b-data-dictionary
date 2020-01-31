@@ -2,5 +2,6 @@
   "id": "oxiqual",
   "display_name": "B11b. Oximetry (quality code)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "signalquality"
 }
