@@ -2,5 +2,6 @@
   "id": "reviewerid",
   "display_name": "Reviewer ID",
   "description": "",
-  "type": "numeric"
+  "type": "choices",
+  "domain": "scorer"
 }
