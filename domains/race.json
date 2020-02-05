@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Non-Hispanic White",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Non-Hispanic Black",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Hispanic",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Asian",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  }
+]

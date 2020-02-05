@@ -111,6 +111,7 @@
       overall_comments /* free text comments about sleep study */
       STDATEP /* date of psg study - no dates */
       SCOREDT /* date psg scored - no dates */
+      consentflag /* all subjects retained have consentflag = 1 */
       ;
   run;
 

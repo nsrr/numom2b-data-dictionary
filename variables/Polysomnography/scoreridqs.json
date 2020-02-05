@@ -2,5 +2,6 @@
   "id": "scoreridqs",
   "display_name": "Scorer ID",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "scorer"
 }
