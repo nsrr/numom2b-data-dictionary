@@ -1,0 +1,10 @@
+{
+  "id": "adurca_pb_ca3u",
+  "display_name": "Average Central Apnea length (Supine, >=3% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "avcanbp3"
+  ]
+}

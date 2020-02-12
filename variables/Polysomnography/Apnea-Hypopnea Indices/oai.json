@@ -2,5 +2,8 @@
   "id": "oai",
   "display_name": "Obstructive Apnea Index (all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "oai"
+  ]
 }

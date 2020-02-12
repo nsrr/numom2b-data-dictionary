@@ -1,0 +1,9 @@
+{
+  "id": "nphrap_ap3u",
+  "display_name": "Number of Apnea events with >= 3% desaturation",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "apnea3"
+  ]
+}

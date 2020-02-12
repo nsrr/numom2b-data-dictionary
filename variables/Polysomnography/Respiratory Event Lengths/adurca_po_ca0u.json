@@ -1,0 +1,10 @@
+{
+  "id": "adurca_po_ca0u",
+  "display_name": "Average Central Apnea length (Non-Supine, all desaturations) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "avcanop"
+  ]
+}

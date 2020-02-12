@@ -1,0 +1,10 @@
+{
+  "id": "adurhp_po_hp5x4u",
+  "display_name": "Average 50% Hypopnea length (Non-Supine, >=4% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "avunrop4"
+  ]
+}

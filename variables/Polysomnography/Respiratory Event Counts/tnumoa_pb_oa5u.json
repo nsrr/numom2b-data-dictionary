@@ -1,0 +1,9 @@
+{
+  "id": "tnumoa_pb_oa5u",
+  "display_name": "Number of Obstructive Apnea (Supine, >=5% desaturation)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "oanbp5"
+  ]
+}

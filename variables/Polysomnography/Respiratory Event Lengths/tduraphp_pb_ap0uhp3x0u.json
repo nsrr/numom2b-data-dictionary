@@ -1,0 +1,10 @@
+{
+  "id": "tduraphp_pb_ap0uhp3x0u",
+  "display_name": "Total Apnea and 30% Hypopnea Length (Supine) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ahntdurbp"
+  ]
+}

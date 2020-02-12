@@ -1,0 +1,10 @@
+{
+  "id": "adurca_ca0u",
+  "display_name": "Average Central Apnea Length (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "cavgdur"
+  ]
+}

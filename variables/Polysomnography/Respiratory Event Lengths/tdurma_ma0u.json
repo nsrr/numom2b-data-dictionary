@@ -1,0 +1,10 @@
+{
+  "id": "tdurma_ma0u",
+  "display_name": "Total Mixed Apnea Length (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "aptdur"
+  ]
+}

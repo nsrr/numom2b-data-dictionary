@@ -1,0 +1,10 @@
+{
+  "id": "nphrca_pb_ca0u",
+  "display_name": "Central Apnea per hour (Supine, all desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cardnbp"
+  ]
+}

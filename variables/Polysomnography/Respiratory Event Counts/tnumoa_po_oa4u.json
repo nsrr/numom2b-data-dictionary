@@ -1,0 +1,9 @@
+{
+  "id": "tnumoa_po_oa4u",
+  "display_name": "Number of Obstructive Apnea (Non-Supine, >=4% desaturation)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "oanop4"
+  ]
+}

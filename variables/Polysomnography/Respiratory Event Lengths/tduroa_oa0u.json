@@ -1,0 +1,10 @@
+{
+  "id": "tduroa_oa0u",
+  "display_name": "Total Obstructive Apnea Length (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ontdur"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "adurap_ap0u",
+  "display_name": "Average Apnea Length (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "apavgdur"
+  ]
+}

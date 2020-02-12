@@ -2,5 +2,8 @@
   "id": "cai",
   "display_name": "Central Apnea Index (all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "cai"
+  ]
 }

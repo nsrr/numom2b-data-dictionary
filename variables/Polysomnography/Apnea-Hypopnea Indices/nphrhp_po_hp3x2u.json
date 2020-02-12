@@ -1,0 +1,10 @@
+{
+  "id": "nphrhp_po_hp3x2u",
+  "display_name": "30% Hypopnea per hour (Non-Supine, >=2% desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "rdinop2"
+  ]
+}

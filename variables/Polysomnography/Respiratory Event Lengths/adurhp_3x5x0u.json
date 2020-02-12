@@ -1,0 +1,9 @@
+{
+  "id": "adurhp_3x5x0u",
+  "display_name": "Average 30% and 50% hypopnea length",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "hbavgdur"
+  ]
+}

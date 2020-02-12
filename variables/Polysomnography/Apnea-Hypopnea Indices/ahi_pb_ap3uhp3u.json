@@ -1,0 +1,10 @@
+{
+  "id": "ahi_pb_ap3uhp3u",
+  "display_name": "AHI in Supine: Apneas and hypopneas with >=3% oxygen desaturation per hour of sleep.",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahis_a3h3"
+  ]
+}

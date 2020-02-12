@@ -1,0 +1,10 @@
+{
+  "id": "ahi_po_ap5uhp5u",
+  "display_name": "AHI in Non-Supine: Apneas and hypopneas with >=5% oxygen desaturation per hour of sleep.",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahins_a5h5"
+  ]
+}

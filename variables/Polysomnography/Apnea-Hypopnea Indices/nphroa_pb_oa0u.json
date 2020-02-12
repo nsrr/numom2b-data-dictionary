@@ -1,0 +1,10 @@
+{
+  "id": "nphroa_pb_oa0u",
+  "display_name": "Obstructive Apnea per hour (Supine, all desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oardnbp"
+  ]
+}

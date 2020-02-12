@@ -1,0 +1,10 @@
+{
+  "id": "oai_oa4u",
+  "display_name": "OAI: Obstructive apneas with >=4% oxygen desaturation per hour of sleep.",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oai_o4"
+  ]
+}

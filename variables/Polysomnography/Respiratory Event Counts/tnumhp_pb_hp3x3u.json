@@ -1,0 +1,9 @@
+{
+  "id": "tnumhp_pb_hp3x3u",
+  "display_name": "Number of 30% Hypopnea (Supine, >=3% desaturation)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "hnrbp3"
+  ]
+}

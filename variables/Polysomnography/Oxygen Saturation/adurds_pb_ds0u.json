@@ -1,0 +1,9 @@
+{
+  "id": "adurds_pb_ds0u",
+  "display_name": "Average desaturation (Supine, all desaturations)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "avdnbp"
+  ]
+}

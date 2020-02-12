@@ -1,0 +1,10 @@
+{
+  "id": "cai_ca0u",
+  "display_name": "CAI: All central apneas per hour of sleep.",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cai_c0"
+  ]
+}

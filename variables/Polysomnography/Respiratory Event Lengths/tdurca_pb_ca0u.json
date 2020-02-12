@@ -1,0 +1,10 @@
+{
+  "id": "tdurca_pb_ca0u",
+  "display_name": "Total Central Apnea Length (Supine) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "cntdurbp"
+  ]
+}

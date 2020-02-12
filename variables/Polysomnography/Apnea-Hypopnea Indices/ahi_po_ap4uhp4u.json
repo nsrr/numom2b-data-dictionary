@@ -1,0 +1,10 @@
+{
+  "id": "ahi_po_ap4uhp4u",
+  "display_name": "AHI in Non-Supine: Apneas and hypopneas with >=4% oxygen desaturation per hour of sleep.",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahins_a4h4"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "4di",
+  "display_name": "4% desaturation Index (Number of desaturation >=4% per hour-Sleep)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "desati4"
+  ]
+}
