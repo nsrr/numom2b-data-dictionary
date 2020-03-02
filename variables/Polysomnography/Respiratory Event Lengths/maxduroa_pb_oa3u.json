@@ -1,0 +1,10 @@
+{
+  "id": "maxduroa_pb_oa3u",
+  "display_name": "Maximum Obstructive Apnea length (Supine, >=3% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mxoanbp3"
+  ]
+}

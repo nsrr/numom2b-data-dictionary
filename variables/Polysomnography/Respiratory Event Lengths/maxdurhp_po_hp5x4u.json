@@ -1,0 +1,10 @@
+{
+  "id": "maxdurhp_po_hp5x4u",
+  "display_name": "Maximum 50% Hypopnea length (Non-Supine, >=4% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "lunrop4"
+  ]
+}

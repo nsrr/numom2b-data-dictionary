@@ -1,0 +1,10 @@
+{
+  "id": "maxdurap_ap0u",
+  "display_name": "Longest Apnea (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "longap"
+  ]
+}

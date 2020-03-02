@@ -1,0 +1,10 @@
+{
+  "id": "minduroa_pb_oa2u",
+  "display_name": "Minimum Obstructive Apnea length (Supine, >=2% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mnoanbp2"
+  ]
+}

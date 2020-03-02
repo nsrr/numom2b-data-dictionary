@@ -1,0 +1,10 @@
+{
+  "id": "maxdurhp_pb_hp3x0u",
+  "display_name": "Maximum 30% Hypopnea length (Supine, all desaturations) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mxhnbp"
+  ]
+}

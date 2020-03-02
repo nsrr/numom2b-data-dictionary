@@ -1,0 +1,9 @@
+{
+  "id": "minsat_pbd2",
+  "display_name": "Minimum oxygen saturation (Supine, >=2% desaturation) (%)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "mndnbp2"
+  ]
+}

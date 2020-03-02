@@ -1,0 +1,10 @@
+{
+  "id": "avghr_pod0",
+  "display_name": "Average Heart Rate (Non-Supine, all desaturations) (bpm)",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "savbnoh"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "maxhr_ap0uhp3x0u",
+  "display_name": "Maximum Heart Rate assoc. w/ Apnea and 30% Hypopnea (Sleep time onset)",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "mxhrahslp"
+  ]
+}

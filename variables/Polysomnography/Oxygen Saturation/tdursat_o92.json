@@ -1,0 +1,10 @@
+{
+  "id": "tdursat_o92",
+  "display_name": "Total time oxygen saturation > 92 in sleep (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "sao92slp"
+  ]
+}

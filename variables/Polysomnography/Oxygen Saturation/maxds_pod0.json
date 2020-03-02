@@ -1,0 +1,9 @@
+{
+  "id": "maxds_pod0",
+  "display_name": "Maximum desaturation (Non-Supine, all desaturations)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "mxdnop"
+  ]
+}

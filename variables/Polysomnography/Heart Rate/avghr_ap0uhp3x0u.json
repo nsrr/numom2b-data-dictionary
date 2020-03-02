@@ -1,0 +1,10 @@
+{
+  "id": "avghr_ap0uhp3x0u",
+  "display_name": "Average Heart Rate assoc. w/ Apnea and 30% Hypopnea (Sleep time onset)",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avghrahslp"
+  ]
+}

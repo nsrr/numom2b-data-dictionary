@@ -1,0 +1,10 @@
+{
+  "id": "maxdurca_po_ca4u",
+  "display_name": "Maximum Central Apnea length (Non-Supine 4% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mxcanop4"
+  ]
+}

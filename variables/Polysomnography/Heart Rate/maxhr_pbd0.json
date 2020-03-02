@@ -1,0 +1,10 @@
+{
+  "id": "maxhr_pbd0",
+  "display_name": "Maximum Heart Rate (Supine, all desaturations) (bpm)",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "smxbnbh"
+  ]
+}

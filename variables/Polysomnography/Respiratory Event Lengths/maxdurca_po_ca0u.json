@@ -1,0 +1,10 @@
+{
+  "id": "maxdurca_po_ca0u",
+  "display_name": "Maximum Central Apnea length (Non-Supine all desaturations) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mxcanop"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "minduroa_po_oa3u",
+  "display_name": "Minimum Obstructive Apnea length (Non-Supine, >=3% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mnoanop3"
+  ]
+}

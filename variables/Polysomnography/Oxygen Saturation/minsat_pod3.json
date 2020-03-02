@@ -1,0 +1,9 @@
+{
+  "id": "minsat_pod3",
+  "display_name": "Minimum oxygen saturation (Non-Supine, >=3% desaturation) (%)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "mndnop3"
+  ]
+}

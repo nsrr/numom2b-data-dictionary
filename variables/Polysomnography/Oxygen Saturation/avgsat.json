@@ -1,6 +1,9 @@
 {
   "id": "avgsat",
-  "display_name": "Average Oxygen Saturation During Sleep",
+  "display_name": "Average oxygen saturation% Nadir",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "labels": [
+    "saondnrem"
+  ]
 }

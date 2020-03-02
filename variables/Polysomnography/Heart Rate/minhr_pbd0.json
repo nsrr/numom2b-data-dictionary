@@ -1,0 +1,10 @@
+{
+  "id": "minhr_pbd0",
+  "display_name": "Minimum Heart Rate (Supine, all desaturations) (bpm)",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "smnbnbh"
+  ]
+}

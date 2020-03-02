@@ -1,0 +1,10 @@
+{
+  "id": "mindurhp_pb_hp5x3u",
+  "display_name": "Minimum 50% Hypopnea length (Supine, >=3% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "sunrbp3"
+  ]
+}

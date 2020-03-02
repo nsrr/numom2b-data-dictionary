@@ -1,0 +1,10 @@
+{
+  "id": "mindurca_pb_ca2u",
+  "display_name": "Minimum Central Apnea length (Supine, >=2% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mncanbp2"
+  ]
+}

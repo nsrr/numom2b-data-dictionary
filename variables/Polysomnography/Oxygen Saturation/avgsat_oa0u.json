@@ -1,0 +1,9 @@
+{
+  "id": "avgsat_oa0u",
+  "display_name": "Average oxygen saturation% Nadir assoc. w/ Obstructive Apnea (Sleep)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "saondoaslp"
+  ]
+}

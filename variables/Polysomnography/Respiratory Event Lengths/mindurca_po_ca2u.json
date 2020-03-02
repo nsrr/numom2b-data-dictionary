@@ -1,0 +1,10 @@
+{
+  "id": "mindurca_po_ca2u",
+  "display_name": "Minimum Central Apnea length (Non-Supine, >=2% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mncanop2"
+  ]
+}

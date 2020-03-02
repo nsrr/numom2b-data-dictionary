@@ -1,0 +1,10 @@
+{
+  "id": "minhr_pod3",
+  "display_name": "Minimum Heart Rate (Non-Supine, >=3% desaturation) (bpm)",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "hmnbnoh"
+  ]
+}

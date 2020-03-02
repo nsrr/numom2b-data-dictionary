@@ -1,0 +1,9 @@
+{
+  "id": "maxds_pbd0",
+  "display_name": "Maximum desaturation (Supine, all desaturations)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "mxdnbp"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "minsat_pod2",
+  "display_name": "Minimum oxygen saturation (Non-Supine, >=2% desaturation) (%)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "mndnop2"
+  ]
+}

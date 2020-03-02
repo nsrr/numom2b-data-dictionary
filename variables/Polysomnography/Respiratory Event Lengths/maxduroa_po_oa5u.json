@@ -1,0 +1,10 @@
+{
+  "id": "maxduroa_po_oa5u",
+  "display_name": "Maximum Obstructive Apnea length (Non-Supine, >=5% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mxoanop5"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "maxdurap_hp3x5x0u",
+  "display_name": "Longest 30% or 50% hypopnea",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "longhypb"
+  ]
+}

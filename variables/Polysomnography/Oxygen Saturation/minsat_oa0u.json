@@ -1,0 +1,9 @@
+{
+  "id": "minsat_oa0u",
+  "display_name": "Minimum oxygen saturation% Nadir assoc. w/ Obstructive Apnea (Sleep)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "minsaondoaslp"
+  ]
+}

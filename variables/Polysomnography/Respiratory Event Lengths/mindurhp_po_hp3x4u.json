@@ -1,0 +1,10 @@
+{
+  "id": "mindurhp_po_hp3x4u",
+  "display_name": "Minimum 30% Hypopnea length (Non-Supine, >=4% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mnhnop4"
+  ]
+}
