@@ -1,0 +1,9 @@
+{
+  "id": "endbd",
+  "display_name": "Clock time when the participant is out of bed or lights are on",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "stlonp"
+  ]
+}

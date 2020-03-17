@@ -1,0 +1,10 @@
+{
+  "id": "tprdrd",
+  "display_name": "Total recording time: the interval between recording start and end time.",
+  "description": "Conventionally this variable would be called recording time",
+  "type": "integer",
+  "units": "minutes",
+  "labels": [
+    "totalmin, period, study time"
+  ]
+}

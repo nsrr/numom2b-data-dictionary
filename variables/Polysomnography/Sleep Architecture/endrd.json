@@ -1,0 +1,9 @@
+{
+  "id": "endrd",
+  "display_name": "Clock time when the recording (study) ends",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "stendp"
+  ]
+}

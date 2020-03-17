@@ -1,6 +1,9 @@
 {
   "id": "waso",
-  "display_name": "Wake after sleep onset",
+  "display_name": "Wake after sleep onset (WASO): the total duration between sleep onset and lights-on/out-bed time while being awake.",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "duration"
+  ]
 }
