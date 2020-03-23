@@ -1,0 +1,10 @@
+{
+  "id": "numphrds_ds3u",
+  "display_name": "Number of desaturations: >=3% oxygen desaturations / hour of sleep",
+  "description": "",
+  "type": "integer",
+  "units": "events per hour",
+  "labels": [
+    "dsnr3"
+  ]
+}

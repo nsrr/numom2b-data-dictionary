@@ -1,7 +1,0 @@
-{
-  "id": "longap",
-  "display_name": "Longest Apnea (seconds)",
-  "description": "",
-  "type": "numeric",
-  "units": "seconds"
-}

@@ -1,0 +1,10 @@
+{
+  "id": "numphrds_ds2u",
+  "display_name": "Number of desaturations: >=2% oxygen desaturations / hour of sleep",
+  "description": "",
+  "type": "integer",
+  "units": "events per hour",
+  "labels": [
+    "dsnr2"
+  ]
+}

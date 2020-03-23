@@ -1,8 +1,9 @@
 {
   "id": "minsat_pod3",
-  "display_name": "Minimum oxygen saturation (Non-Supine, >=3% desaturation) (%)",
+  "display_name": "Minimum value of oxygen saturation (Non-Supine): >=3% desaturation during sleep",
   "description": "",
   "type": "integer",
+  "units": "percentage",
   "labels": [
     "mndnop3"
   ]

@@ -1,7 +1,0 @@
-{
-  "id": "sao90awk",
-  "display_name": "Total time oxygen saturation < 90 in awake (minutes)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

@@ -1,6 +1,6 @@
 {
   "id": "3di",
-  "display_name": "3% desaturation Index (Number of desaturation >=3% per hour-Sleep)",
+  "display_name": "3% desaturation Index: number of >=3% oxygen desaturations / hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

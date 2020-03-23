@@ -1,8 +1,9 @@
 {
   "id": "minsat_pod5",
-  "display_name": "Minimum oxygen saturation (Non-Supine, >=5% desaturation) (%)",
+  "display_name": "Minimum value of oxygen saturation (Non-Supine): >=5% desaturation during sleep",
   "description": "",
   "type": "integer",
+  "units": "percentage",
   "labels": [
     "mndnop5"
   ]

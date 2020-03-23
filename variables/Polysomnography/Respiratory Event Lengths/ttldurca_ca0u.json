@@ -1,0 +1,10 @@
+{
+  "id": "ttldurca_ca0u",
+  "display_name": "Total Central Apnea Length (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ctdur"
+  ]
+}

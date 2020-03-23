@@ -1,7 +1,0 @@
-{
-  "id": "cardnop",
-  "display_name": "Central Apnea per hour (Non-Supine, all desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

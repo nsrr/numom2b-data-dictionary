@@ -1,9 +1,0 @@
-{
-  "id": "adurds_po_ds2u",
-  "display_name": "Average desaturation (Non-Supine, >=2% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "avdnop2"
-  ]
-}

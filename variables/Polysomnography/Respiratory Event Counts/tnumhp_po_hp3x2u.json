@@ -1,9 +1,0 @@
-{
-  "id": "tnumhp_po_hp3x2u",
-  "display_name": "Number of 30% Hypopnea (Non-Supine, >=2% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "hnrop2"
-  ]
-}

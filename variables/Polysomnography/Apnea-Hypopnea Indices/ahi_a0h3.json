@@ -1,7 +1,0 @@
-{
-  "id": "ahi_a0h3",
-  "display_name": "AHI: All apneas, all hypopneas with >=3% oxygen desaturation per hour of sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

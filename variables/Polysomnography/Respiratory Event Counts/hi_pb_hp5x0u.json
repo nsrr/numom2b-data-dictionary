@@ -1,0 +1,10 @@
+{
+  "id": "hi_pb_hp5x0u",
+  "display_name": "Hypopnea Index (Supine): hypopneas with >50% airflow reduction and with no oxygen desaturation threshold used and with or witout arousal / hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "hunrbp"
+  ]
+}

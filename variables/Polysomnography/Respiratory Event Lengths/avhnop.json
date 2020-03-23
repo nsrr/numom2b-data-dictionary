@@ -1,7 +1,0 @@
-{
-  "id": "avhnop",
-  "display_name": "Average 30% Hypopnea length (Non-Supine, all desaturations) (seconds)",
-  "description": "",
-  "type": "integer",
-  "units": "seconds"
-}

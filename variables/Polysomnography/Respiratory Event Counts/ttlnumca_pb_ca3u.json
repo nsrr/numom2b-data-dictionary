@@ -1,0 +1,9 @@
+{
+  "id": "ttlnumca_pb_ca3u",
+  "display_name": "Number of Central Apnea (Supine): central apneas with >=3% oxygen desaturation and with or wihtout arousal",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "canbp3"
+  ]
+}

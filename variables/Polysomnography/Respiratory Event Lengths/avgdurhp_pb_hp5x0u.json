@@ -1,0 +1,10 @@
+{
+  "id": "avgdurhp_pb_hp5x0u",
+  "display_name": "Average 50% Hypopnea length (Supine, all desaturations) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "avunrbp"
+  ]
+}

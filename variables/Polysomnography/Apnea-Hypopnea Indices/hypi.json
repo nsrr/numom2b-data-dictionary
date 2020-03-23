@@ -1,7 +1,0 @@
-{
-  "id": "hypi",
-  "display_name": "Hypopnea Index (Number of hypopnea per hr of sleep)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

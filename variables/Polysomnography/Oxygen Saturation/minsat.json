@@ -1,8 +1,9 @@
 {
   "id": "minsat",
-  "display_name": "Minimum oxygen saturation % during sleep",
+  "display_name": "Minimum oxygen saturation during sleep",
   "description": "",
   "type": "integer",
+  "units": "percentage",
   "labels": [
     "mnsao2nh"
   ]

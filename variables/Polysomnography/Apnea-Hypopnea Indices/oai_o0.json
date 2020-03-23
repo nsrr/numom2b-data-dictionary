@@ -1,7 +1,0 @@
-{
-  "id": "oai_o0",
-  "display_name": "OAI: All obstructive apneas per hour of sleep.",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

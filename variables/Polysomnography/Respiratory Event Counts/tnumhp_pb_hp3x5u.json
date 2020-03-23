@@ -1,9 +1,0 @@
-{
-  "id": "tnumhp_pb_hp3x5u",
-  "display_name": "Number of 30% Hypopnea (Supine, >=5% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "hnrbp5"
-  ]
-}

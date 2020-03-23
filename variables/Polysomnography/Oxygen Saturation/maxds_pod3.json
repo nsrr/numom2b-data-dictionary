@@ -1,6 +1,6 @@
 {
   "id": "maxds_pod3",
-  "display_name": "Maximum desaturation (Non-Supine, >=3% desaturation)",
+  "display_name": "Maximum value of desaturation (Non-Supine): >=3% desaturation during sleep",
   "description": "",
   "type": "integer",
   "labels": [

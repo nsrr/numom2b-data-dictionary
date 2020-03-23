@@ -1,7 +1,0 @@
-{
-  "id": "mnhnbp3",
-  "display_name": "Minimum 30% Hypopnea length (Supine, >=3% desaturation) (seconds)",
-  "description": "",
-  "type": "integer",
-  "units": "seconds"
-}

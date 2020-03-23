@@ -1,7 +1,0 @@
-{
-  "id": "dsnr3",
-  "display_name": "Number of desaturations per hour (>= 3%) during sleep",
-  "description": "",
-  "type": "integer",
-  "units": "events per hour"
-}

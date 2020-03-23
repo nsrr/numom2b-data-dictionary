@@ -1,0 +1,10 @@
+{
+  "id": "oai_pb_oa0u",
+  "display_name": "Obstructive Apnea Index (Supine): obstructive apneas with no oxygen desaturation threshold used and with or without arousal / hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oardnbp"
+  ]
+}

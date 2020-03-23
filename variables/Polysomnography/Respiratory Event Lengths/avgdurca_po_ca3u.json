@@ -1,0 +1,10 @@
+{
+  "id": "avgdurca_po_ca3u",
+  "display_name": "Average Central Apnea length (Non-Supine, >=3% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "avcanop3"
+  ]
+}

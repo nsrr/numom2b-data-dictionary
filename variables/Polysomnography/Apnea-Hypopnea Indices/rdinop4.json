@@ -1,7 +1,0 @@
-{
-  "id": "rdinop4",
-  "display_name": "30% Hypopnea per hour (Non-Supine, >=4% desaturation)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

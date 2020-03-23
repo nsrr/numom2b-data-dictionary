@@ -1,9 +1,0 @@
-{
-  "id": "tnumhp_pb_hp5x4u",
-  "display_name": "Number of 50% Hypopnea (Supine, >=4% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "unrbp4"
-  ]
-}

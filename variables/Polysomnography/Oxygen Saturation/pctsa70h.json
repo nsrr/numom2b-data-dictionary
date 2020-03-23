@@ -2,5 +2,6 @@
   "id": "pctsa70h",
   "display_name": "% sleep time oxygen saturation is < 70%",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percentage"
 }

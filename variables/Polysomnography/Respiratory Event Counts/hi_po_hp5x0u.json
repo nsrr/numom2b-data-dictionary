@@ -1,0 +1,10 @@
+{
+  "id": "hi_po_hp5x0u",
+  "display_name": "Hypopnea Index (Non-Supine): hypopneas with >50% airflow reduction and no oxygen desaturation threshold used and with or witout arousal / hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "hunrop"
+  ]
+}

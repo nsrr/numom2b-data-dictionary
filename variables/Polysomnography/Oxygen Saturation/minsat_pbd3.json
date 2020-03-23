@@ -1,8 +1,9 @@
 {
   "id": "minsat_pbd3",
-  "display_name": "Minimum oxygen saturation (Supine, >=3% desaturation) (%)",
+  "display_name": "Minimum value of oxygen saturation (Supine): >=3% desaturation during sleep",
   "description": "",
   "type": "integer",
+  "units": "percentage",
   "labels": [
     "mndnbp3"
   ]

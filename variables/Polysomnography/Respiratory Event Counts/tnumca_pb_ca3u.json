@@ -1,9 +1,0 @@
-{
-  "id": "tnumca_pb_ca3u",
-  "display_name": "Number of Central Apnea (Supine, >=3% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "canbp3"
-  ]
-}

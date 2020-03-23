@@ -1,0 +1,10 @@
+{
+  "id": "avgdurca_pb_ca2u",
+  "display_name": "Average Central Apnea length (Supine, >=2% desaturation) (seconds)",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "avcanbp2"
+  ]
+}

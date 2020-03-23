@@ -1,7 +1,0 @@
-{
-  "id": "rdinbp",
-  "display_name": "30% Hypopnea per hour (Supine, all desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

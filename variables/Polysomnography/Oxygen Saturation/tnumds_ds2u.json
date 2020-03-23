@@ -1,9 +1,0 @@
-{
-  "id": "tnumds_ds2u",
-  "display_name": "Number of desaturation with >= 2% desaturation in recording time",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "ndes2ph"
-  ]
-}

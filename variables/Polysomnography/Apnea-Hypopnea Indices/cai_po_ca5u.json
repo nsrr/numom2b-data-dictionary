@@ -1,0 +1,10 @@
+{
+  "id": "cai_po_ca5u",
+  "display_name": "Central Apnea Index (Non-Supine): (central apneas with >=5% oxygen desaturation and with or without arousal) / hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cardnop5"
+  ]
+}

@@ -1,8 +1,9 @@
 {
   "id": "maxsat",
-  "display_name": "Maximum oxygen saturation % during sleep",
+  "display_name": "Maximum value of oxygen saturation during sleep",
   "description": "",
   "type": "integer",
+  "units": "percentage",
   "labels": [
     "mxsao2nh"
   ]

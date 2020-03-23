@@ -1,7 +1,7 @@
 {
   "id": "minhr_pod3",
-  "display_name": "Minimum Heart Rate (Non-Supine, >=3% desaturation) (bpm)",
-  "description": "",
+  "display_name": "Minimum Heart Rate (Non-Supine) associated with >=3% oxygen desaturation during total sleep duration",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
   "type": "integer",
   "units": "beats per minute (bpm)",
   "labels": [

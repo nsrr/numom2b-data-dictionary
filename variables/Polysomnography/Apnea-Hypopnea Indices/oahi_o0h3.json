@@ -1,7 +1,0 @@
-{
-  "id": "oahi_o0h3",
-  "display_name": "OAHI: All obstructive apneas and hypopneas with >=3% oxygen desaturation per hour of sleep.",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

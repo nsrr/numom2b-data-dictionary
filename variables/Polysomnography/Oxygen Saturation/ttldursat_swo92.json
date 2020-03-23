@@ -1,0 +1,10 @@
+{
+  "id": "ttldursat_swo92",
+  "display_name": "Total time oxygen saturation > 92 in awake (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "sao92awk"
+  ]
+}

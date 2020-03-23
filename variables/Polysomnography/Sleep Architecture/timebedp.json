@@ -1,7 +1,0 @@
-{
-  "id": "timebedp",
-  "display_name": "Time in bed (minutes)",
-  "description": "",
-  "type": "integer",
-  "units": "minutes"
-}

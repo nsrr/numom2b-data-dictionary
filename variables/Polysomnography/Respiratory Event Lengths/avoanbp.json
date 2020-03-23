@@ -1,7 +1,0 @@
-{
-  "id": "avoanbp",
-  "display_name": "Average Obstructive Apnea length (Supine, all desaturations) (seconds)",
-  "description": "",
-  "type": "integer",
-  "units": "seconds"
-}

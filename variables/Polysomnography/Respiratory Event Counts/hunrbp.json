@@ -1,7 +1,0 @@
-{
-  "id": "hunrbp",
-  "display_name": "Number of 50% Hypopnea per hour (Supine, all desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

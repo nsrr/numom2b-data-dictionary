@@ -1,0 +1,10 @@
+{
+  "id": "ttldurap_pb_ap0u",
+  "display_name": "Total Apnea Length (Supine) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "apntdurbp"
+  ]
+}

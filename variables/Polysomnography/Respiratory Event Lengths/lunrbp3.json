@@ -1,7 +1,0 @@
-{
-  "id": "lunrbp3",
-  "display_name": "Maximum 50% Hypopnea length (Supine, >=3% desaturation) (seconds)",
-  "description": "",
-  "type": "integer",
-  "units": "seconds"
-}

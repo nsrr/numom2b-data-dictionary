@@ -1,0 +1,9 @@
+{
+  "id": "ttlnumhp_po_hp5x5u",
+  "display_name": "Number of Hypopnea (Non-Supine): hypopneas with >50% airflow reduction and >=5% oxygen desaturation and with or without arousal",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "unrop5"
+  ]
+}

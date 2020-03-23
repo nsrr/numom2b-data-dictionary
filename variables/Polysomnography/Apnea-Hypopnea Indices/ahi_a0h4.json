@@ -1,7 +1,0 @@
-{
-  "id": "ahi_a0h4",
-  "display_name": "AHI: All apneas, all hypopneas with >=4% oxygen desaturation per hour of sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

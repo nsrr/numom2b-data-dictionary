@@ -1,9 +1,0 @@
-{
-  "id": "tnumca_po_ca4u",
-  "display_name": "Number of Central Apnea (Non-Supine, >=4% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "canop4"
-  ]
-}

@@ -1,8 +1,9 @@
 {
   "id": "ahi_ap3uhp3x5x3u",
-  "display_name": "Apneas (Central and Obstructive) with >= 3% desaturation and Hypopneas (50% and 30%) with >= 3% desaturation. This AHIU3 is what was used on Sleep Reports generated for Abnormal and Urgent reports sent to sites.",
+  "display_name": "Apnea-Hypopnea Index: (all apneas with >=3% oxygen desaturation and with or without arousal + hypopneas with 30-50% airflow reduction and with >=3% oxygen desaturation and with or without arousal) / hour of sleep",
   "description": "",
   "type": "numeric",
+  "units": "events per hour",
   "labels": [
     "ahiu3"
   ]

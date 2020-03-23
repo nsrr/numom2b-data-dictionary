@@ -1,9 +1,0 @@
-{
-  "id": "ndesat4",
-  "display_name": "Number of desaturations >=4% in Sleep Time",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "ndesat4"
-  ]
-}

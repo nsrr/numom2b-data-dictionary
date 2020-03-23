@@ -1,7 +1,0 @@
-{
-  "id": "mnoanbp4",
-  "display_name": "Minimum Obstructive Apnea length (Supine, >=4% desaturation) (seconds)",
-  "description": "",
-  "type": "integer",
-  "units": "seconds"
-}

@@ -1,0 +1,9 @@
+{
+  "id": "ttlnumoa_po_oa5u",
+  "display_name": "Number of Obstructive Apnea (Non-Supine): obstructive apneas with >=5% oxygen desaturation and with or without arousal",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "oanop5"
+  ]
+}

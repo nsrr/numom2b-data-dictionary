@@ -2,5 +2,6 @@
   "id": "pctsa95h",
   "display_name": "% sleep time oxygen saturation is < 95%",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percentage"
 }

@@ -1,7 +1,0 @@
-{
-  "id": "avcanop4",
-  "display_name": "Average Central Apnea length (Non-Supine, >=4% desaturation) (seconds)",
-  "description": "",
-  "type": "integer",
-  "units": "seconds"
-}
