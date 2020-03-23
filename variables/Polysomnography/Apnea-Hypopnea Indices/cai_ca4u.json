@@ -1,7 +1,7 @@
 {
   "id": "cai_ca4u",
   "display_name": "Central Apnea Index: (central apneas with >=4% oxygen desaturation and with or without arousal) / hour of sleep",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

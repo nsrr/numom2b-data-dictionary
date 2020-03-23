@@ -1,7 +1,7 @@
 {
   "id": "oai_oa0u",
   "display_name": "Obstructive Apnea Index: obstructive apneas with no oxygen desaturation threshold used and with or without arousal / hour of sleep",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

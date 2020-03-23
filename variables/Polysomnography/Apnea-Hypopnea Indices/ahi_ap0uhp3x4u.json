@@ -1,10 +1,11 @@
 {
   "id": "ahi_ap0uhp3x4u",
   "display_name": "Apnea-Hypopnea Index: (all apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with >30% airflow reduction and with >=4% oxygen desaturation and with or without arousal) / hour of sleep",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events. Hypopneas are defined based on American Academy of Sleep Medicine (AASM) 2007 recommended standard.[Iber C et al. The AASM manual for the scoring of sleep and associated events: rules, terminology and technical specifications. Vol. 1. Westchester, IL: American Academy of Sleep Medicine, 2007] [All variables consistent with the guideline AASM 2007 recommended] (https://sleepdata.org/search?search=aasm07_recommended)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "ahi_a0h4"
-  ]
+    "ahi_a0h4, aasm07_recommended"
+  ],
+  "commonly_used": true
 }

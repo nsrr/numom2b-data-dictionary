@@ -1,7 +1,0 @@
-{
-  "id": "pctsa80h",
-  "display_name": "% sleep time oxygen saturation is < 80%",
-  "description": "",
-  "type": "numeric",
-  "units": "percentage"
-}
