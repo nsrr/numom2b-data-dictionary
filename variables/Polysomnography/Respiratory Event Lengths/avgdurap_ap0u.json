@@ -1,6 +1,6 @@
 {
   "id": "avgdurap_ap0u",
-  "display_name": "Average Apnea Length (seconds)",
+  "display_name": "Average Apnea Length: apneas with no oxygen desaturation threshold used and with or without arousal",
   "description": "",
   "type": "numeric",
   "units": "seconds",

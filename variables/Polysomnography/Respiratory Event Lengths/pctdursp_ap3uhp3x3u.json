@@ -1,0 +1,9 @@
+{
+  "id": "pctdursp_ap3uhp3x3u",
+  "display_name": "Percentage of sleep duration in central and obstructive apneas with >=3% oxygen desaturation or hypopneas with >30% airflow reduction and with >=3% oxygen desaturation and with or without arousal",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "pcohb3slp"
+  ]
+}

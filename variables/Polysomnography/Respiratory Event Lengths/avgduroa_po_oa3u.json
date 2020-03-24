@@ -1,6 +1,6 @@
 {
   "id": "avgduroa_po_oa3u",
-  "display_name": "Average Obstructive Apnea length (Non-Supine, >=3% desaturation) (seconds)",
+  "display_name": "Average Obstructive Apnea length (Non-Supine): obstructive apneas with >=3% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

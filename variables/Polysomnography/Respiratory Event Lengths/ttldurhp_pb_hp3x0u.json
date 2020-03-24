@@ -1,6 +1,6 @@
 {
   "id": "ttldurhp_pb_hp3x0u",
-  "display_name": "Total 30% Hypopnea Length (Supine) (minutes)",
+  "display_name": "Total length of hypopneas (Supine): hypopneas with >30% airflow reduction and no oxygen desaturation threshold used and with or without arousal ",
   "description": "",
   "type": "numeric",
   "units": "minutes",

@@ -1,0 +1,9 @@
+{
+  "id": "ttlnumsd",
+  "display_name": "Number of sound events",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "nsound"
+  ]
+}

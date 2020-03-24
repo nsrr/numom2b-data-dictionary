@@ -1,0 +1,9 @@
+{
+  "id": "pctdursp_ap0u",
+  "display_name": "Percentage of sleep duration in central and obstructive apneas",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "pcoslp"
+  ]
+}

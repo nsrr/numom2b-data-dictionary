@@ -1,6 +1,6 @@
 {
   "id": "ttlnumds_ds4u",
-  "display_name": "Number of desaturation with >= 4% oxygen desaturation in recording time",
+  "display_name": "Number of desaturation with >= 4% oxygen desaturation in recording period",
   "description": "",
   "type": "integer",
   "labels": [

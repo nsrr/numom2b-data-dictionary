@@ -1,6 +1,6 @@
 {
   "id": "ttldurca_pb_ca0u",
-  "display_name": "Total Central Apnea Length (Supine) (minutes)",
+  "display_name": "Total Central Apnea Length (Supine): central apneas with no oxygen desaturation threshold used and with or without arousal",
   "description": "",
   "type": "numeric",
   "units": "minutes",

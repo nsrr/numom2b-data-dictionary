@@ -1,7 +1,0 @@
-{
-  "id": "slpprdm",
-  "display_name": "Sleep Period (minutes)",
-  "description": "",
-  "type": "integer",
-  "units": "minutes"
-}

@@ -1,6 +1,6 @@
 {
   "id": "avgdurca_po_ca2u",
-  "display_name": "Average Central Apnea length (Non-Supine, >=2% desaturation) (seconds)",
+  "display_name": "Average Central Apnea Length (Non-Supine): central apneas with >=2% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

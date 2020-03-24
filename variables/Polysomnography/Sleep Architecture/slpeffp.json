@@ -1,9 +1,0 @@
-{
-  "id": "slpeffp",
-  "display_name": "Sleep efficiency (%): the proportion of sleep duration in in-bed period",
-  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep, while in-bed period is the interval between lights off/in-bed time and lights on/out-bed time. Conventionally, this variable could be described as the ratio between total sleep time (TST) and time in bed (TIB). ",
-  "type": "numeric",
-  "labels": [
-    "slpeff"
-  ]
-}

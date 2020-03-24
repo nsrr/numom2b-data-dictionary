@@ -1,9 +1,0 @@
-{
-  "id": "maxds_pod0",
-  "display_name": "Maximum value of desaturation (Non-Supine): >0% desaturation during sleep",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "mxdnop"
-  ]
-}

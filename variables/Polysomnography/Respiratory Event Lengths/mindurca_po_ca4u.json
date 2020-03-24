@@ -1,6 +1,6 @@
 {
   "id": "mindurca_po_ca4u",
-  "display_name": "Minimum Central Apnea length (Non-Supine, >=4% desaturation) (seconds)",
+  "display_name": "Minimum Central Apnea length (Non-Supine): central apneas with >=4% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

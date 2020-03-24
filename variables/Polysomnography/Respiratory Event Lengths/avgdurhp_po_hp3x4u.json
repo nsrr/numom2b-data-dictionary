@@ -1,6 +1,6 @@
 {
   "id": "avgdurhp_po_hp3x4u",
-  "display_name": "Average 30% Hypopnea length (Non-Supine, >=4% desaturation) (seconds)",
+  "display_name": "Average length of hypopneas (Non-Supine) : hypopneas with >30% airflow reduction and with >=4% oxygen desaturation threshold used and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

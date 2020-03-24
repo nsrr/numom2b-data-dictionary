@@ -1,6 +1,6 @@
 {
   "id": "maxdurca_po_ca3u",
-  "display_name": "Maximum Central Apnea length (Non-Supine 3% desaturation) (seconds)",
+  "display_name": "Maximum Central Apnea length (Non-Supine): central apneas with >=3% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

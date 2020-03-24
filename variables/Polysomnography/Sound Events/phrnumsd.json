@@ -1,0 +1,10 @@
+{
+  "id": "phrnumsd",
+  "display_name": "Number of sound events per hr (Sleep)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "soundi"
+  ]
+}

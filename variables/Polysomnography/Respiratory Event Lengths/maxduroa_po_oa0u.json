@@ -1,6 +1,6 @@
 {
   "id": "maxduroa_po_oa0u",
-  "display_name": "Maximum Obstructive Apnea length (Non-Supine all desaturations) (seconds)",
+  "display_name": "Maximun Obstructive Apnea length (Non-Supine): obstructive apneas with no oxygen desaturation theshold used and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

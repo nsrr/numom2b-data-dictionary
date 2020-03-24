@@ -1,6 +1,6 @@
 {
   "id": "avgdurca_pb_ca4u",
-  "display_name": "Average Central Apnea length (Supine, >=4% desaturation) (seconds)",
+  "display_name": "Average Central Apnea Length (Supine): central apneas with >=4% oxygen desaturation and with or without arousal ",
   "description": "",
   "type": "integer",
   "units": "seconds",

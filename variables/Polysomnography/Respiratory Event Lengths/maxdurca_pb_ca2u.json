@@ -1,6 +1,6 @@
 {
   "id": "maxdurca_pb_ca2u",
-  "display_name": "Maximum Central Apnea length (Supine, >=2% desaturation) (seconds)",
+  "display_name": "Maximum Central Apnea length (Supine): central apneas with >=2% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

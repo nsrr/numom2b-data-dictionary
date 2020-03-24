@@ -1,0 +1,10 @@
+{
+  "id": "maxdurap_hp3x0u",
+  "display_name": "Longest hypopnea: hypopneas with >30% airflow reduction and with no oxygen desaturation threshold used and with or without arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "longhypb"
+  ]
+}

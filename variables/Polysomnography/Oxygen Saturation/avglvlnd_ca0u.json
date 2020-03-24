@@ -1,0 +1,9 @@
+{
+  "id": "avglvlnd_ca0u",
+  "display_name": "Average oxygen saturation (nadir) associated with central apneas: central apneas with no oxygen desaturation threshold used and with or without arousal",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "saondcaslp"
+  ]
+}

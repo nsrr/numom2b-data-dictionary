@@ -1,0 +1,9 @@
+{
+  "id": "avglvlds",
+  "display_name": "Average level of desaturation in total sleep duration",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "avgdsslp"
+  ]
+}

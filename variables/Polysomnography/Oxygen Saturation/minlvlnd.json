@@ -1,0 +1,10 @@
+{
+  "id": "minlvlnd",
+  "display_name": "Minimum oxygen saturation (nadir) in total sleep duration",
+  "description": "\"Nadir\" refers to the lowest oxygen saturation reading",
+  "type": "integer",
+  "units": "percentage",
+  "labels": [
+    "minsaondnrem"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "minlvlsa",
+  "display_name": "Minimum oxygen saturation in total sleep duration",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "lowsaoslp"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "mindurhp_po_hp3x5u",
-  "display_name": "Minimum 30% Hypopnea length (Non-Supine, >=5% desaturation) (seconds)",
+  "display_name": "Minimum length of hypopneas (Non-Supine): hypopneas with >30% airflow reduction and with>=5% oxygen desaturation threshold used and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

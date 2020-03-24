@@ -1,6 +1,6 @@
 {
   "id": "ttlduroa_pb_oa0u",
-  "display_name": "Total Obstructive Apnea Length (Supine) (minutes)",
+  "display_name": "Total Obstructive Apnea Length (Supine): obstructive apneas with no oxygen desaturation threshold used and with or without arousal ",
   "description": "",
   "type": "numeric",
   "units": "minutes",

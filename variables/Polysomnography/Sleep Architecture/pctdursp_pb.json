@@ -1,0 +1,9 @@
+{
+  "id": "pctdursp_pb",
+  "display_name": "Percentage of sleep duration in supine position",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "supinep"
+  ]
+}

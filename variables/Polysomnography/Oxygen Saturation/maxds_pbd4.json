@@ -1,9 +1,0 @@
-{
-  "id": "maxds_pbd4",
-  "display_name": "Maximum value of desaturation (Supine): >=4% desaturation during sleep",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "mxdnbp4"
-  ]
-}

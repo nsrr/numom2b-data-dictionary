@@ -1,0 +1,10 @@
+{
+  "id": "minlvlsa_pod4",
+  "display_name": "Minimum level of oxygen saturation (Non-Supine): >=4% desaturation in total sleep duration",
+  "description": "",
+  "type": "integer",
+  "units": "percentage",
+  "labels": [
+    "mndnop4"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "minlvlnd_oa0u",
+  "display_name": "Minimum oxygen saturation (nadir) associated with obstructive apneas in total sleep duration",
+  "description": "\"Nadir\" refers to the lowest oxygen saturation reading",
+  "type": "integer",
+  "units": "percentage",
+  "labels": [
+    "minsaondoaslp"
+  ]
+}

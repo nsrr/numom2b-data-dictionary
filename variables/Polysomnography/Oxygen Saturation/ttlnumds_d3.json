@@ -1,6 +1,6 @@
 {
   "id": "ttlnumds_d3",
-  "display_name": "Number of desaturations >=3% in Sleep Time",
+  "display_name": "Number of desaturations >=3% in total sleep duration",
   "description": "",
   "type": "integer",
   "labels": [

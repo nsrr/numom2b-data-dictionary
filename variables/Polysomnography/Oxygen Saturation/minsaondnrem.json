@@ -1,7 +1,0 @@
-{
-  "id": "minsaondnrem",
-  "display_name": "Minimum oxygen saturation% Nadir",
-  "description": "\"Nadir\" refers to the lowest oxygen saturation reading",
-  "type": "integer",
-  "units": "percentage"
-}

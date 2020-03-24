@@ -1,0 +1,10 @@
+{
+  "id": "phrnumsf",
+  "display_name": "Number of sleep to awake shifts per hour",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "hslptawp"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "slpmaineff",
+  "display_name": "Sleep maintenance efficiency (%): the proportion of sleep duration in sleep period ",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep, while sleep period is the interval between sleep onset time and lights on/out-bed time. Conventionally this variable would be described as the ratio between total sleep time (TST) and the sum of TST and wake after sleep onset (WASO).",
+  "type": "numeric",
+  "labels": [
+    "slp_maint_eff"
+  ]
+}

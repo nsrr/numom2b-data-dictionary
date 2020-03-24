@@ -1,0 +1,9 @@
+{
+  "id": "maxlvlds_pod2",
+  "display_name": "Maximum level of desaturation (Non-Supine): >=2% desaturation in total sleep duration",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "mxdnop2"
+  ]
+}

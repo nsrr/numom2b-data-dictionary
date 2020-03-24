@@ -1,0 +1,9 @@
+{
+  "id": "avglvlsa",
+  "display_name": "Average oxygen saturation during sleep",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "avsao2nh"
+  ]
+}

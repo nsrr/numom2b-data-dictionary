@@ -1,0 +1,10 @@
+{
+  "id": "maxlvlsa",
+  "display_name": "Maximum level of oxygen saturation in total sleep duration",
+  "description": "",
+  "type": "integer",
+  "units": "percentage",
+  "labels": [
+    "mxsao2nh"
+  ]
+}

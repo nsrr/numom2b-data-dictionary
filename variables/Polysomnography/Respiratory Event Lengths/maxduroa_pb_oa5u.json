@@ -1,6 +1,6 @@
 {
   "id": "maxduroa_pb_oa5u",
-  "display_name": "Maximum Obstructive Apnea length (Supine, >=5% desaturation) (seconds)",
+  "display_name": "Maximun Obstructive Apnea length (Supine): obstructive apneas with >=5% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

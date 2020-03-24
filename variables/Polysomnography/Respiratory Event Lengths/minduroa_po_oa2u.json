@@ -1,6 +1,6 @@
 {
   "id": "minduroa_po_oa2u",
-  "display_name": "Minimum Obstructive Apnea length (Non-Supine, >=2% desaturation) (seconds)",
+  "display_name": "Minimum Obstructive Apnea length (Non-Supine): obstructive apneas with >=2% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

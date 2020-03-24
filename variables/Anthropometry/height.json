@@ -1,6 +1,6 @@
 {
   "id": "height",
-  "display_name": "Height (cm) measured at study visit 1",
+  "display_name": "Height (cm) measured at study visit",
   "description": "",
   "type": "numeric",
   "units": "centimeters (cm)"

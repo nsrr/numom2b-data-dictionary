@@ -1,0 +1,10 @@
+{
+  "id": "ttldursp_po",
+  "display_name": "Total sleep duration (Non-Supine) ",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
+  "type": "integer",
+  "units": "minutes",
+  "labels": [
+    "nremepop, duration"
+  ]
+}

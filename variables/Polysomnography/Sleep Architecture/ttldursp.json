@@ -1,0 +1,10 @@
+{
+  "id": "ttldursp",
+  "display_name": "Total sleep duration: the interval between sleep onset time and lights on/out-bed time while the participant is asleep.",
+  "description": "Total sleep duration does not include wake after sleep onset.",
+  "type": "integer",
+  "units": "minutes",
+  "labels": [
+    "duration, tst, slpprdp"
+  ]
+}
