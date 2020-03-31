@@ -3,5 +3,6 @@
   "display_name": "Age (years) at sleep study visit date",
   "description": "",
   "type": "integer",
-  "units": "years"
+  "units": "years",
+  "commonly_used": true
 }

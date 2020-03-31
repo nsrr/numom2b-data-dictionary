@@ -5,5 +5,6 @@
   "type": "integer",
   "labels": [
     "avsao2nh"
-  ]
+  ],
+  "commonly_used": true
 }

@@ -1,10 +1,11 @@
 {
   "id": "pctdursp_o90",
-  "display_name": "Percentage of total sleep duration with below 90% oxygen saturation",
+  "display_name": "Percentage of total sleep duration with < 90% oxygen saturation",
   "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
   "type": "numeric",
   "units": "percentage",
   "labels": [
     "pctlt90"
-  ]
+  ],
+  "commonly_used": true
 }

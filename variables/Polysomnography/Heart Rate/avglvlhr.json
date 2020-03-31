@@ -6,5 +6,6 @@
   "units": "beats per minute (bpm)",
   "labels": [
     "bpmavg"
-  ]
+  ],
+  "commonly_used": true
 }

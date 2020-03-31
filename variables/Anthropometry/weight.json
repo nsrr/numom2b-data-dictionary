@@ -3,5 +3,6 @@
   "display_name": "Weight (kg) measured at study visit (1 or 3)",
   "description": "",
   "type": "numeric",
-  "units": "kilograms (kg)"
+  "units": "kilograms (kg)",
+  "commonly_used": true
 }

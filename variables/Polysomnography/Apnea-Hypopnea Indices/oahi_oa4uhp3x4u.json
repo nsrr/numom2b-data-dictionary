@@ -6,5 +6,6 @@
   "units": "events per hour",
   "labels": [
     "oahi_o0h4, aasm_hp3x4u"
-  ]
+  ],
+  "commonly_used": true
 }

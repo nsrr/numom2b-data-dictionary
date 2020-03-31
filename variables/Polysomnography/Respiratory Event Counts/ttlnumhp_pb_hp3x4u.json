@@ -1,9 +1,0 @@
-{
-  "id": "ttlnumhp_pb_hp3x4u",
-  "display_name": "Number of Hypopnea (Supine): hypopneas with >30% airflow reduction and >=4% oxygen desaturation and with or without arousal",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "hnrbp4"
-  ]
-}

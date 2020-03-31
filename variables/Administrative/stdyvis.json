@@ -3,5 +3,6 @@
   "display_name": "A4b. Visit of Sleep Study",
   "description": "",
   "type": "choices",
-  "domain": "visit"
+  "domain": "visit",
+  "commonly_used": true
 }

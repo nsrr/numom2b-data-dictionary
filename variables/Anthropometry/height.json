@@ -3,5 +3,6 @@
   "display_name": "Height (cm) measured at study visit",
   "description": "",
   "type": "numeric",
-  "units": "centimeters (cm)"
+  "units": "centimeters (cm)",
+  "commonly_used": true
 }
