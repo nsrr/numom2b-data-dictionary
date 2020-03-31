@@ -1,6 +1,6 @@
 {
   "id": "maxduroa_pb_oa4u",
-  "display_name": "Maximun Obstructive Apnea length (Supine): obstructive apneas with >=4% oxygen desaturation and with or without arousal",
+  "display_name": "Maximun Obstructive Apnea length (Supine): obstructive apneas with >= 4% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

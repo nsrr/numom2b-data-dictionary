@@ -1,6 +1,6 @@
 {
   "id": "maxlvlds_pbd3",
-  "display_name": "Maximum level of desaturation (Supine): >=3% desaturation in total sleep duration",
+  "display_name": "Maximum level of desaturation (Supine): >= 3% desaturation in total sleep duration",
   "description": "",
   "type": "integer",
   "labels": [

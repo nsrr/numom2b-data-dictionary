@@ -1,6 +1,6 @@
 {
   "id": "avgdurds_pb_ds3u",
-  "display_name": "Average level of desaturation (Supine, >=3% desaturation)",
+  "display_name": "Average level of desaturation (Supine, >= 3% desaturation)",
   "description": "",
   "type": "integer",
   "labels": [

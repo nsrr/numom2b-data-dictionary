@@ -1,6 +1,6 @@
 {
   "id": "maxlvlds_pod5",
-  "display_name": "Maximum level of desaturation (Non-Supine): >=5% desaturation in total sleep duration",
+  "display_name": "Maximum level of desaturation (Non-Supine): >= 5% desaturation in total sleep duration",
   "description": "",
   "type": "integer",
   "labels": [

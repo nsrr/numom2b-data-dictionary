@@ -1,6 +1,6 @@
 {
   "id": "ttldurah_pb_ap0uhp3x0u",
-  "display_name": "Total length of apneas and hypopneas (Supine): apneas with no oxygen desaturation threshold used and hypopneas with >30% airflow reduction and no oxygen desaturation threshold used and with or without arousal ",
+  "display_name": "Total length of apneas and hypopneas (Supine): apneas with no oxygen desaturation threshold used and hypopneas with > 30% airflow reduction and no oxygen desaturation threshold used and with or without arousal ",
   "description": "",
   "type": "numeric",
   "units": "minutes",

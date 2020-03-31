@@ -1,6 +1,6 @@
 {
   "id": "mindurca_po_ca3u",
-  "display_name": "Minimum Central Apnea length (Non-Supine): central apneas with >=3% oxygen desaturation and with or without arousal",
+  "display_name": "Minimum Central Apnea length (Non-Supine): central apneas with >= 3% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

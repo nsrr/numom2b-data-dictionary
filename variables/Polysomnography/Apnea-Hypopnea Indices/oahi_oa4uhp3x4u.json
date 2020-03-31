@@ -1,6 +1,6 @@
 {
   "id": "oahi_oa4uhp3x4u",
-  "display_name": "Obstructive Apnea-Hypopnea Index: (obstrcutive apneas with >=4% oxygen desaturation and with or without arousal + hypopneas with >30% airflow reduction and >=4% oxygen desaturation and with or without arousal) / hour of sleep",
+  "display_name": "Obstructive Apnea-Hypopnea Index: (obstrcutive apneas with >= 4% oxygen desaturation and with or without arousal + hypopneas with > 30% airflow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of sleep",
   "description": "Calculated - Summary metric of sleep disordered breathing events. The definition of hypopnea events is consistent with the following clinical guidelines: (1) AASM 2007 recommended [Iber C et al. The AASM manual for the scoring of sleep and associated events: rules, terminology and technical specifications. Vol. 1. Westchester, IL: American Academy of Sleep Medicine, 2007], (2) AASM 2012 update recommended [Berry RB et al. 2012 (PubMed ID:23066376)] (https://www.ncbi.nlm.nih.gov/pubmed/23066376), and (3) AASM 2015 acceptable [Berry RB et al. The AASM Manual for the Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications, Version 2.2. American Academy of Sleep Medicine, Darien, IL, 2015.]. [Search for all AHIs variables across NSRR studies consistent with the clinical guidelines] (https://sleepdata.org/search?search=aasm_hp3x4u)",
   "type": "numeric",
   "units": "events per hour",

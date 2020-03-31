@@ -1,6 +1,6 @@
 {
   "id": "oai_po_oa2u",
-  "display_name": "Obstructive Apnea Index (Non-Supine): (obstructive apneas with >=2% oxygen desaturation and with or without arousal) / hour of sleep",
+  "display_name": "Obstructive Apnea Index (Non-Supine): (obstructive apneas with >= 2% oxygen desaturation and with or without arousal) / hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

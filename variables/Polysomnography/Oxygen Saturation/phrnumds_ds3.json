@@ -1,6 +1,6 @@
 {
   "id": "phrnumds_ds3",
-  "display_name": "Number of desaturations: >=3% oxygen desaturations / hour of sleep",
+  "display_name": "Number of desaturations: >= 3% oxygen desaturations / hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

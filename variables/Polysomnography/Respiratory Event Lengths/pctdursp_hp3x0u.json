@@ -1,6 +1,6 @@
 {
   "id": "pctdursp_hp3x0u",
-  "display_name": "Percentage of sleep duration in hypopneas with >30% airflow reduction and no oxygen desaturation threshold used and with or without arousal",
+  "display_name": "Percentage of sleep duration in hypopneas with > 30% airflow reduction and no oxygen desaturation threshold used and with or without arousal",
   "description": "",
   "type": "numeric",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "ttlnumoa_po_oa3u",
-  "display_name": "Number of Obstructive Apnea (Non-Supine): obstructive apneas with >=3% oxygen desaturation and with or without arousal",
+  "display_name": "Number of Obstructive Apnea (Non-Supine): obstructive apneas with >= 3% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "labels": [
