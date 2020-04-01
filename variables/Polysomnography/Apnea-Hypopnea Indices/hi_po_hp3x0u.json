@@ -1,7 +1,7 @@
 {
   "id": "hi_po_hp3x0u",
-  "display_name": "Hypopnea Index (Non-Supine): (hypopneas with > 30% airflow reduction and no oxygen desaturation threshold used and with or without arousal) / hour of sleep",
-  "description": "",
+  "display_name": "Hypopnea Index (Non-Supine): (hypopneas with > 30% flow reduction and no oxygen desaturation threshold used and with or without arousal) / hour of sleep",
+  "description": "Calculated",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "ttlnumds_o90",
-  "display_name": "Number of desaturations that drop below 90% oxygen saturation in sleep",
+  "display_name": "Number of desaturations that drop below 90% oxygen saturation in total sleep duration",
   "description": "",
   "type": "integer",
   "labels": [

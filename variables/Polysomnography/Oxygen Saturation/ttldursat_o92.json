@@ -1,6 +1,6 @@
 {
   "id": "ttldursat_o92",
-  "display_name": "Total duration when oxygen saturation > 92 in sleep ",
+  "display_name": "Total duration when oxygen saturation > 92% in sleep ",
   "description": "",
   "type": "numeric",
   "units": "minutes",

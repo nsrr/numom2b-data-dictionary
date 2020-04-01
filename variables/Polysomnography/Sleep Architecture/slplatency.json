@@ -1,6 +1,6 @@
 {
   "id": "slplatency",
-  "display_name": "Sleep latency: the interval between lights-out/in-bed time and sleep onset time.",
+  "display_name": "Sleep Latency: the interval between lights-out/in-bed time and sleep onset time.",
   "description": "",
   "type": "integer",
   "units": "minutes",

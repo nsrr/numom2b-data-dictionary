@@ -1,6 +1,6 @@
 {
   "id": "avglvlsa",
-  "display_name": "Average oxygen saturation during sleep",
+  "display_name": "Average oxygen saturation during in total sleep duration",
   "description": "",
   "type": "integer",
   "labels": [

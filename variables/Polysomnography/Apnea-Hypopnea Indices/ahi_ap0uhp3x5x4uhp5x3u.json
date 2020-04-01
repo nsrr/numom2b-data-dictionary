@@ -1,7 +1,7 @@
 {
   "id": "ahi_ap0uhp3x5x4uhp5x3u",
-  "display_name": "Apnea-Hypopnea Index: (all apneas with or without arousal, hypopneas with 30%-50% airflow reduction and with >= 4% oxygen desaturation, and hypopneas with > 50% airflow reduction with >= 3% oxygen desaturation) / hour of sleep",
-  "description": "",
+  "display_name": "Apnea-Hypopnea Index: (all apneas with or without arousal, hypopneas with 30%-50% flow reduction and with >= 4% oxygen desaturation, and hypopneas with > 50% flow reduction with >= 3% oxygen desaturation) / hour of sleep",
+  "description": "Calculated",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

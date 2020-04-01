@@ -1,6 +1,6 @@
 {
   "id": "minlvlnd_ca0u",
-  "display_name": "Minimum oxygen saturation (nadir) associated with central apneas in total sleep duration",
+  "display_name": "Minimum level of oxygen saturation (nadir) associated with central apneas in total sleep duration",
   "description": "\"Nadir\" refers to the lowest oxygen saturation reading",
   "type": "integer",
   "units": "percentage",

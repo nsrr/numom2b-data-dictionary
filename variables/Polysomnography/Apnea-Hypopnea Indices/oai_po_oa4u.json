@@ -1,7 +1,7 @@
 {
   "id": "oai_po_oa4u",
   "display_name": "Obstructive Apnea Index (Non-Supine): (obstructive apneas with >= 4% oxygen desaturation and with or without arousal) / hour of sleep",
-  "description": "",
+  "description": "Calculated",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "ttlprdbd",
-  "display_name": "Total in-bed period: the interval between lights out/in-bed time and lights off/out-bed time.",
+  "display_name": "Total In-Bed Period: the interval between lights out/in-bed time and lights off/out-bed time.",
   "description": "Conventionally this variable would be called time in bed",
   "type": "integer",
   "units": "minutes",

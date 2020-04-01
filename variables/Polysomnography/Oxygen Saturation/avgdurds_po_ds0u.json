@@ -1,6 +1,6 @@
 {
   "id": "avgdurds_po_ds0u",
-  "display_name": "Average level of desaturation (Non-Supine, all desaturations)",
+  "display_name": "Average level of desaturation (non-supine, all desaturations)",
   "description": "",
   "type": "integer",
   "labels": [

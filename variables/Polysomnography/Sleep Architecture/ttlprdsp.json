@@ -1,6 +1,6 @@
 {
   "id": "ttlprdsp",
-  "display_name": "Total sleep period: the interval between sleep onset time and lights on/out-bed time",
+  "display_name": "Total Sleep Period: the interval between sleep onset time and lights on/out-bed time",
   "description": "Total sleep period = total sleep duration + wake after sleep onset",
   "type": "integer",
   "units": "minutes",

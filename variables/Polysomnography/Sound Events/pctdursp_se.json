@@ -1,6 +1,6 @@
 {
   "id": "pctdursp_se",
-  "display_name": "% Snore time in sleep (dB level 5)",
+  "display_name": "Percentage of sleep duration with snore events (dB level 5)",
   "description": "",
   "type": "numeric",
   "labels": [

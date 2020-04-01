@@ -1,6 +1,6 @@
 {
   "id": "avgdurhp_po_hp3x5x0u",
-  "display_name": "Average length of hypopneas (Non-Supine): hypopneas with 30 - 50% airflow reduction and no oxygen desaturation threshold used and with or without arousal ",
+  "display_name": "Average Length of Hypopneas (Non-Supine): hypopneas with 30 - 50% flow reduction and no oxygen desaturation threshold used and with or without arousal ",
   "description": "",
   "type": "integer",
   "units": "seconds",

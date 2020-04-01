@@ -1,7 +1,7 @@
 {
   "id": "cai_pb_ca0u",
   "display_name": "Central Apnea Index (Supine): (central apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep",
-  "description": "",
+  "description": "Calculated",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

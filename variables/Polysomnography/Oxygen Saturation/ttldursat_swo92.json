@@ -1,6 +1,6 @@
 {
   "id": "ttldursat_swo92",
-  "display_name": "Total duration when oxygen saturation > 92 in awake ",
+  "display_name": "Total duration when oxygen saturation > 92% in awake ",
   "description": "",
   "type": "numeric",
   "units": "minutes",
