@@ -1,7 +1,7 @@
 {
   "id": "ttlnumds_ds5u",
-  "display_name": "Number of desaturation with >= 5% oxygen desaturation in recording period",
-  "description": "",
+  "display_name": "Number of desaturation with >= 5% oxygen desaturation in total sleep period",
+  "description": "Sleep period is defined as lights-out to lights-on regardless of whether the event occurs during a sleep or wake epoch.",
   "type": "integer",
   "labels": [
     "ndes5ph"
