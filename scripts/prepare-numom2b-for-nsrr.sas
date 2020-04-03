@@ -25,7 +25,7 @@
   libname numomi "\\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_ids";
 
   *set data dictionary version;
-  %let version = 0.1.0.beta1;
+  %let version = 0.1.0.beta2;
 
   *set nsrr csv release path;
   %let releasepath = \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases;
@@ -152,16 +152,16 @@
       hmnbnbh = minlvlhr_pbd3
       smnbnoh = minlvlhr_pod0
       hmnbnoh = minlvlhr_pod3
-      avdnbp = avgdurds_pb_ds0u
-      avdnbp2 = avgdurds_pb_ds2u
-      avdnbp3 = avgdurds_pb_ds3u
-      avdnbp4 = avgdurds_pb_ds4u
-      avdnbp5 = avgdurds_pb_ds5u
-      avdnop = avgdurds_po_ds0u
-      avdnop2 = avgdurds_po_ds2u
-      avdnop3 = avgdurds_po_ds3u
-      avdnop4 = avgdurds_po_ds4u
-      avdnop5 = avgdurds_po_ds5u
+      avdnbp = avgdurds_pbd0
+      avdnbp2 = avgdurds_pbd2
+      avdnbp3 = avgdurds_pbd3
+      avdnbp4 = avgdurds_pbd4
+      avdnbp5 = avgdurds_pbd5
+      avdnop = avgdurds_pod0
+      avdnop2 = avgdurds_pod2
+      avdnop3 = avgdurds_pod3
+      avdnop4 = avgdurds_pod4
+      avdnop5 = avgdurds_pod5
       avgdsslp = avglvlds
       avgdsevent = avglvlds_ap0uhp3x0u
       saondnrem = avglvlnd
@@ -197,17 +197,17 @@
       pctlt80 = pctdursp_o80
       pctlt85 = pctdursp_o85
       pctlt90 = pctdursp_o90
-      desati3 = phrnumds_ds3
-      desati4 = phrnumds_ds4
+      desati3 = phrnumds_d3
+      desati4 = phrnumds_d4
       sao92slp = ttldursat_o92
       sao90awk = ttldursat_swo90
       sao92awk = ttldursat_swo92
       ndesat3 = ttlnumds_d3
       ndesat4 = ttlnumds_d4
-      ndes2ph = ttlnumds_ds2u
-      ndes3ph = ttlnumds_ds3u
-      ndes4ph = ttlnumds_ds4u
-      ndes5ph = ttlnumds_ds5u
+      ndes2ph = ttlnumds_d2prd
+      ndes3ph = ttlnumds_d3prd
+      ndes4ph = ttlnumds_d4prd
+      ndes5ph = ttlnumds_d5prd
       dssao90 = ttlnumds_o90
       hunrbp = hi_pb_hp5x0u
       hunrbp2 = hi_pb_hp5x2u
@@ -403,17 +403,17 @@
       ontdur = ttlduroa_oa0u
       ontdurbp = ttlduroa_pb_oa0u
       ontdurop = ttlduroa_po_oa0u
-      stlonp = endbd
-      stendp = endrd
+      stlonp = endtimbd
+      stendp = endtimrd
       supinep = pctdursp_pb
       nsupinep = pctdursp_po
       hslptawp = phrnumsf
       slp_eff = slpeff
       slplatp = slplatency
       slp_maint_eff = slpmaineff
-      stloutp = startbd
-      ststartp = startrd
-      stonsetp = startsp
+      stloutp = begtimbd
+      ststartp = begtimrd
+      stonsetp = begtimsp
       slpprdp = ttldursp
       nremepbp = ttldursp_pb
       nremepop = ttldursp_po
