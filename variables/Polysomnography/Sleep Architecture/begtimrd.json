@@ -1,9 +1,11 @@
 {
-  "id": "startrd",
+  "id": "begtimrd",
   "display_name": "Clock time when the recording (study) starts",
   "description": "",
   "type": "time",
   "labels": [
-    "ststartp, time"
+    "ststartp",
+    "startrd",
+    "time"
   ]
 }

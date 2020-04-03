@@ -1,9 +1,10 @@
 {
-  "id": "avgdurds_po_ds3u",
+  "id": "avgdurds_pod3",
   "display_name": "Average level of desaturation (non-supine, >= 3% desaturation)",
   "description": "",
   "type": "integer",
   "labels": [
-    "avdnop3"
+    "avdnop3",
+    "avgdurds_po_ds3u"
   ]
 }

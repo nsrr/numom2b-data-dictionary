@@ -1,9 +1,11 @@
 {
-  "id": "startbd",
+  "id": "begtimbd",
   "display_name": "Clock time when the participant is in bed or lights are out",
   "description": "",
   "type": "time",
   "labels": [
-    "stloutp, time"
+    "stloutp",
+    "startbd",
+    "time"
   ]
 }

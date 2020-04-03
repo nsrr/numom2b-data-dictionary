@@ -1,10 +1,11 @@
 {
-  "id": "phrnumds_ds4",
+  "id": "phrnumds_d4",
   "display_name": "Number of desaturations: >= 4% oxygen desaturations / hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "desati4"
+    "desati4",
+    "phrnumds_ds4"
   ]
 }

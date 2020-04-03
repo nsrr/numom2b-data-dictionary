@@ -1,9 +1,10 @@
 {
-  "id": "avgdurds_pb_ds5u",
+  "id": "avgdurds_pbd5",
   "display_name": "Average level of desaturation (supine, >= 5% desaturation)",
   "description": "",
   "type": "integer",
   "labels": [
-    "avdnbp5"
+    "avdnbp5",
+    "avgdurds_pb_ds5u"
   ]
 }

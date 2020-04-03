@@ -1,9 +1,11 @@
 {
-  "id": "startsp",
+  "id": "begtimsp",
   "display_name": "Sleep Onset: clock time when the participant falls asleep",
   "description": "",
   "type": "time",
   "labels": [
-    "stonsetp, time"
+    "stonsetp",
+    "startsp",
+    "time"
   ]
 }
