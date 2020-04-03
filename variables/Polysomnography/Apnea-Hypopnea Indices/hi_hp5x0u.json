@@ -1,7 +1,7 @@
 {
   "id": "hi_hp5x0u",
   "display_name": "Hypopnea Index: (hypopneas with > 50% flow reduction and no oxygen desaturation threshold used and with or without arousal) / hour of sleep",
-  "description": "Calculated - Summary metric of sleep disordered breathing events. Hypopneas are defined based on American Academy of Sleep Medicine (AASM) Chicago 1999 standard. [Sleep 1999 (PubMed ID:10450601)]( https://www.ncbi.nlm.nih.gov/pubmed/10450601) [All variables consistent with the guideline Chicago 1999] (https://sleepdata.org/search?search=chicago1999)",
+  "description": "Calculated - Summary metric of sleep disordered breathing events. Hypopneas are defined based on American Academy of Sleep Medicine (AASM) Chicago 1999 standard. [Sleep 1999 (PubMed ID:10450601)]( https://www.ncbi.nlm.nih.gov/pubmed/10450601) [Search for all AHI variables consistent with the same clinical guidelines within this dataset](https://sleepdata.org/datasets/numom2b/variables?search=chicago1999)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
