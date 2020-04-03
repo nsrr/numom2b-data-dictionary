@@ -1,10 +1,11 @@
 {
-  "id": "ttldursat_swo90",
+  "id": "ttldursa_swo90",
   "display_name": "Total duration when oxygen saturation < 90% in awake ",
   "description": "",
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "sao90awk"
+    "sao90awk",
+    "ttldursat_swo90"
   ]
 }
