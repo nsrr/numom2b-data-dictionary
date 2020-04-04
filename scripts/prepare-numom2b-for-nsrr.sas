@@ -199,9 +199,9 @@
       pctlt90 = pctdursp_o90
       desati3 = phrnumds_d3
       desati4 = phrnumds_d4
-      sao92slp = ttldursat_o92
-      sao90awk = ttldursat_swo90
-      sao92awk = ttldursat_swo92
+      sao92slp = ttldursa_o92
+      sao90awk = ttldursa_swo90
+      sao92awk = ttldursa_swo92
       ndesat3 = ttlnumds_d3
       ndesat4 = ttlnumds_d4
       ndes2ph = ttlnumds_d2prd
