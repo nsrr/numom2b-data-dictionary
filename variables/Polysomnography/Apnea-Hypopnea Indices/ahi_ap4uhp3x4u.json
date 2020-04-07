@@ -6,6 +6,6 @@
   "units": "events per hour",
   "labels": [
     "ahi_a4h4",
-    " aasm15_recommended"
+    "aasm15_recommended"
   ]
 }

@@ -6,7 +6,7 @@
   "units": "minutes",
   "labels": [
     " time_bed",
-    " tib"
+    "tib"
   ],
   "commonly_used": true
 }
