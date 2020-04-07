@@ -1,6 +1,6 @@
 {
   "id": "maxdurca_pb_ca0u",
-  "display_name": "Maximum Central Apnea length (Supine): central apneas with no oxygen desaturation theshold used and with or without arousal",
+  "display_name": "Maximum Central Apnea length (Supine): Central apneas with no oxygen desaturation theshold used and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

@@ -5,6 +5,6 @@
   "type": "integer",
   "units": "minutes",
   "labels": [
-    "nremepbp, duration"
+    "nremepbp"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "hi_po_hp5x5u",
-  "display_name": "Hypopnea Index (Non-Supine): (hypopneas with > 50% flow reduction and >= 5% oxygen desaturation and with or without arousal) / hour of sleep",
+  "display_name": "Hypopnea Index (Non-Supine): (Hypopneas with > 50% flow reduction and >= 5% oxygen desaturation and with or without arousal) / hour of sleep",
   "description": "Calculated",
   "type": "numeric",
   "units": "events per hour",

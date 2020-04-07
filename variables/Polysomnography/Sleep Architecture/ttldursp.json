@@ -5,7 +5,8 @@
   "type": "integer",
   "units": "minutes",
   "labels": [
-    "duration, tst, slpprdp"
+    "tst",
+    " slpprdp"
   ],
   "commonly_used": true
 }

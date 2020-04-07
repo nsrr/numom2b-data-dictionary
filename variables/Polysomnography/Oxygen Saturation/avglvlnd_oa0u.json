@@ -1,6 +1,6 @@
 {
   "id": "avglvlnd_oa0u",
-  "display_name": "Average oxygen saturation (nadir) associated with obstructive apneas: obstructive apneas with no oxygen desaturation threshold used and with or without arousal",
+  "display_name": "Average Oxygen Saturation (Nadir) Associated with Obstructive Apneas: Obstructive apneas with no oxygen desaturation threshold used and with or without arousal",
   "description": "",
   "type": "integer",
   "labels": [

@@ -5,7 +5,6 @@
   "type": "time",
   "labels": [
     "stloutp",
-    "startbd",
-    "time"
+    "startbd"
   ]
 }

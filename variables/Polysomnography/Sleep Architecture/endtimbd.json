@@ -5,7 +5,6 @@
   "type": "time",
   "labels": [
     "stlonp",
-    "endbd",
-    "time"
+    "endbd"
   ]
 }

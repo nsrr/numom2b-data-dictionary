@@ -5,7 +5,6 @@
   "type": "time",
   "labels": [
     "ststartp",
-    "startrd",
-    "time"
+    "startrd"
   ]
 }

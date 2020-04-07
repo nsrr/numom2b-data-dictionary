@@ -5,7 +5,6 @@
   "type": "time",
   "labels": [
     "stendp",
-    "endrd",
-    "time"
+    "endrd"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "maxdurhp_pb_hp5x3u",
-  "display_name": "Maximum Length of Hypopneas (Supine): hypopneas with > 50% flow reduction and with >= 3% oxygen desaturation threshold used and with or without arousal ",
+  "display_name": "Maximum Length of Hypopneas (Supine): Hypopneas with > 50% flow reduction and with >= 3% oxygen desaturation threshold used and with or without arousal ",
   "description": "",
   "type": "integer",
   "units": "seconds",

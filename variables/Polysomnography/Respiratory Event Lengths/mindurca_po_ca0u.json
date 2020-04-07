@@ -1,6 +1,6 @@
 {
   "id": "mindurca_po_ca0u",
-  "display_name": "Minimum Central Apnea length (Non-Supine): central apneas with no oxygen desaturation theshold used and with or without arousal",
+  "display_name": "Minimum Central Apnea length (Non-Supine): Central apneas with no oxygen desaturation theshold used and with or without arousal",
   "description": "",
   "type": "integer",
   "units": "seconds",

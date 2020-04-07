@@ -1,6 +1,6 @@
 {
   "id": "ttlnumhp_pb_hp5x5u",
-  "display_name": "Number of Hypopnea (Supine): hypopneas with > 50% flow reduction and >= 5% oxygen desaturation and with or without arousal",
+  "display_name": "Number of Hypopnea (Supine): Hypopneas with > 50% flow reduction and >= 5% oxygen desaturation and with or without arousal",
   "description": "",
   "type": "integer",
   "labels": [
