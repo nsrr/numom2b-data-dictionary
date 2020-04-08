@@ -25,7 +25,7 @@
   libname numomi "\\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_ids";
 
   *set data dictionary version;
-  %let version = 0.1.0.beta2;
+  %let version = 0.1.0.rc;
 
   *set nsrr csv release path;
   %let releasepath = \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases;
@@ -82,12 +82,12 @@
   proc sort data=numom_nsrr nodupkey;
     by PublicID stdyvis;
   run;
-  
+
   data numom_nsrr_censored;
     set numom_nsrr;
 
     *rename variables;
-    rename 
+    rename
       ahi_a0h0 = ahi_ap0uhp3x0u
       ahi_a0h3 = ahi_ap0uhp3x3u
       ahi_a0h4 = ahi_ap0uhp3x4u
