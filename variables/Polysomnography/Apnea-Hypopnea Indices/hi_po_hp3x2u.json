@@ -1,7 +1,7 @@
 {
   "id": "hi_po_hp3x2u",
   "display_name": "Hypopnea Index (Non-Supine): (Hypopneas with > 30% flow reduction and >= 2% oxygen desaturation and with or without arousal) / hour of sleep",
-  "description": "Calculated",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

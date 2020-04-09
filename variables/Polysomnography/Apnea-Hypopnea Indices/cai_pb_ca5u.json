@@ -1,7 +1,7 @@
 {
   "id": "cai_pb_ca5u",
   "display_name": "Central Apnea Index (Supine): (Central apneas with >= 5% oxygen desaturation and with or without arousal) / hour of sleep",
-  "description": "Calculated",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

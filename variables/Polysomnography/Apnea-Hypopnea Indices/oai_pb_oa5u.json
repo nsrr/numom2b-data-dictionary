@@ -1,7 +1,7 @@
 {
   "id": "oai_pb_oa5u",
   "display_name": "Obstructive Apnea Index (Supine): (Obstructive apneas with >= 5% oxygen desaturation and with or without arousal) / hour of sleep",
-  "description": "Calculated",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
