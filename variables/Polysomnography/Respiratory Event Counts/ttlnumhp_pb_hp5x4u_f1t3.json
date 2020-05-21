@@ -1,0 +1,10 @@
+{
+  "id": "ttlnumhp_pb_hp5x4u_f1t3",
+  "display_name": "Number of Hypopnea (Supine): Hypopneas with > 50% flow reduction and >= 4% oxygen desaturation and with or without arousal  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "ttlnumhp_pb_hp5x4u",
+    "unrbp4"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pctdursp_ap0u_f1t3",
+  "display_name": "Percentage of sleep duration in central and obstructive apneas  from type III home sleep test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "pctdursp_ap0u",
+    "pcoslp"
+  ]
+}

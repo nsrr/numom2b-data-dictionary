@@ -1,0 +1,10 @@
+{
+  "id": "ttlnumhp_po_hp3x5x0u_f1t3",
+  "display_name": "Number of Hypopnea (Non-Supine): Hypopneas with 30 - 50% flow reduction and no oxygen desaturation threshold used and with or without arousal  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "ttlnumhp_po_hp3x5x0u",
+    "hnrop"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "maxlvlds_pbd5_f1t3",
+  "display_name": "Maximum level of desaturation (supine, >= 5% desaturation)  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "maxlvlds_pbd5",
+    "mxdnbp5"
+  ]
+}

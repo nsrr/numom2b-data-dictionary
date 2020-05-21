@@ -1,9 +1,0 @@
-{
-  "id": "pctdursp_po",
-  "display_name": "Percentage of sleep duration in non-supine position",
-  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
-  "type": "numeric",
-  "labels": [
-    "nsupinep"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "maxlvlds_pbd5",
-  "display_name": "Maximum level of desaturation (supine, >= 5% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "mxdnbp5"
-  ]
-}

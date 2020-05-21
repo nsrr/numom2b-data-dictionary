@@ -1,0 +1,11 @@
+{
+  "id": "begtimrd_f1t3",
+  "display_name": "Clock time when the recording (study) starts based on type III home sleep test",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "ststartp",
+    "startrd",
+    "begtimrd"
+  ]
+}

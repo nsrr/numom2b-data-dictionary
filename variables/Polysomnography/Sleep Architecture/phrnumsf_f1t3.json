@@ -1,0 +1,10 @@
+{
+  "id": "phrnumsf_f1t3",
+  "display_name": "Number of sleep to awake shifts per hour based on type III home sleep test",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "hslptawp"
+  ]
+}

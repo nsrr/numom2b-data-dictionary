@@ -1,0 +1,11 @@
+{
+  "id": "ahi_ap2uhp3x2u_f1t3",
+  "display_name": "Apnea-Hypopnea Index: (All apneas with >= 2% oxygen desaturation and with or without arousal + hypopneas with > 30% flow reduction and with >= 2% oxygen desaturation and with or without arousal) / hour of sleep  from type III home sleep test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_ap2uhp3x2u",
+    "ahi_a2h2"
+  ]
+}

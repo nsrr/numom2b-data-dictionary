@@ -1,9 +1,0 @@
-{
-  "id": "ttlnumhp_po_hp5x0u",
-  "display_name": "Number of Hypopnea (Non-Supine): Hypopneas with > 50% flow reduction and no oxygen desaturation threshold used and with or without arousal",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "unrop"
-  ]
-}

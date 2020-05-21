@@ -1,0 +1,11 @@
+{
+  "id": "avgduroa_pb_oa4u_f1t3",
+  "display_name": "Average Obstructive Apnea length (Supine): Obstructive apneas with >= 4% oxygen desaturation and with or without arousal  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "avgduroa_pb_oa4u",
+    "avoanbp4"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "maxlvlds_pod0",
-  "display_name": "Maximum level of desaturation (non-supine, > 0% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "mxdnop"
-  ]
-}

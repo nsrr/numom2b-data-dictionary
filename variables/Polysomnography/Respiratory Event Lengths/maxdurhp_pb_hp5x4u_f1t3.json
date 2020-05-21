@@ -1,0 +1,11 @@
+{
+  "id": "maxdurhp_pb_hp5x4u_f1t3",
+  "display_name": "Maximum Length of Hypopneas (Supine): Hypopneas with > 50% flow reduction and with >= 3% oxygen desaturation threshold used and with or without arousal   from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "maxdurhp_pb_hp5x4u",
+    "lunrbp4"
+  ]
+}

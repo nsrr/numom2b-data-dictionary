@@ -1,9 +1,0 @@
-{
-  "id": "ttlnumoa_pb_oa2u",
-  "display_name": "Number of Obstructive Apnea (Supine): Obstructive apneas with >= 2% oxygen desaturation and with or without arousal",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "oanbp2"
-  ]
-}

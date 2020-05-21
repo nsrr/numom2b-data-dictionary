@@ -1,0 +1,10 @@
+{
+  "id": "pctdursp_se_f1t3",
+  "display_name": "Percentage of sleep duration with snore events (dB level 5)  from type III home sleep test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "pctdursp_se",
+    "pdb5slp"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "ttlnumds_d4",
-  "display_name": "Number of desaturations with >= 4% oxygen desaturation in total sleep duration",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "ndesat4"
-  ]
-}

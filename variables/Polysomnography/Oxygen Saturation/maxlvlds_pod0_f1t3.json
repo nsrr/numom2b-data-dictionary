@@ -1,0 +1,10 @@
+{
+  "id": "maxlvlds_pod0_f1t3",
+  "display_name": "Maximum level of desaturation (non-supine, > 0% desaturation)  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "maxlvlds_pod0",
+    "mxdnop"
+  ]
+}

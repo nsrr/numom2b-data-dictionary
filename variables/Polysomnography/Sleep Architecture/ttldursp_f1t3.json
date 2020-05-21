@@ -1,0 +1,13 @@
+{
+  "id": "ttldursp_f1t3",
+  "display_name": "Total Sleep Duration: the interval between sleep onset time and lights on/out-bed time while the participant is asleep based on type III home sleep test",
+  "description": "Conventionally this variable would be called total sleep time (TST).",
+  "type": "integer",
+  "units": "minutes",
+  "labels": [
+    "tst",
+    "slpprdp",
+    "ttldursp"
+  ],
+  "commonly_used": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "begtimsp_f1t3",
+  "display_name": "Sleep Onset: Clock time when the participant falls asleep based on type III home sleep test",
+  "description": "Conventionally this variable would be called the start of total sleep time (TST).",
+  "type": "time",
+  "labels": [
+    "stonsetp",
+    "startsp",
+    "begtimsp"
+  ]
+}

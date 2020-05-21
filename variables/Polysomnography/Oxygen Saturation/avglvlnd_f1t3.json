@@ -1,0 +1,10 @@
+{
+  "id": "avglvlnd_f1t3",
+  "display_name": "Average oxygen saturation (nadir) in total sleep duration  from type III home sleep test",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
+  "type": "integer",
+  "labels": [
+    "avglvlnd",
+    "saondnrem"
+  ]
+}

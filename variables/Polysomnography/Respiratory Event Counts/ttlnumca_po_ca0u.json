@@ -1,9 +1,0 @@
-{
-  "id": "ttlnumca_po_ca0u",
-  "display_name": "Number of Central Apnea (Non-Supine): Central apneas with no oxygen desaturation threshold used and with or without arousal",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "canop"
-  ]
-}

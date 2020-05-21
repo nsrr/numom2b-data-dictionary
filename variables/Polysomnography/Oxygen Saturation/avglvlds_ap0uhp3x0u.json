@@ -1,9 +1,0 @@
-{
-  "id": "avglvlds_ap0uhp3x0u",
-  "display_name": "Average Level of Desaturation Associated with Respiratory Events: All apneas with no oxygen desaturation threshold used and hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "avgdsevent"
-  ]
-}

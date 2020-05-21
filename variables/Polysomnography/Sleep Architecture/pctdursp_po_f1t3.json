@@ -1,0 +1,10 @@
+{
+  "id": "pctdursp_po_f1t3",
+  "display_name": "Percentage of sleep duration in non-supine position based on type III home sleep test",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
+  "type": "numeric",
+  "labels": [
+    "nsupinep",
+    "pctdursp_po"
+  ]
+}

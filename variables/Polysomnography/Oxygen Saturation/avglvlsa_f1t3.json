@@ -1,0 +1,11 @@
+{
+  "id": "avglvlsa_f1t3",
+  "display_name": "Average oxygen saturation during in total sleep duration  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "avglvlsa",
+    "avsao2nh"
+  ],
+  "commonly_used": true
+}

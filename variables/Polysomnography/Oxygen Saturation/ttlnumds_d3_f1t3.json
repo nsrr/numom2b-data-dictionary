@@ -1,0 +1,10 @@
+{
+  "id": "ttlnumds_d3_f1t3",
+  "display_name": "Number of desaturations with >= 3% oxygen desaturation in total sleep duration  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "ttlnumds_d3",
+    "ndesat3"
+  ]
+}

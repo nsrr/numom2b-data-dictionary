@@ -1,0 +1,10 @@
+{
+  "id": "pctdursp_pb_f1t3",
+  "display_name": "Percentage of sleep duration in supine position based on type III home sleep test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "supinep",
+    "pctdursp_pb"
+  ]
+}

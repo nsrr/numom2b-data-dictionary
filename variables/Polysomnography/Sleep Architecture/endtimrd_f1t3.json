@@ -1,0 +1,11 @@
+{
+  "id": "endtimrd_f1t3",
+  "display_name": "Clock time when the recording (study) ends based on type III home sleep test",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "stendp",
+    "endrd",
+    "endtimrd"
+  ]
+}

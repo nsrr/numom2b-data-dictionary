@@ -1,9 +1,0 @@
-{
-  "id": "ttlnumoa_po_oa0u",
-  "display_name": "Number of Obstructive Apnea (Non-Supine): Obstructive apneas with no oxygen desaturation theshold used and with or without arousal",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "oanop"
-  ]
-}

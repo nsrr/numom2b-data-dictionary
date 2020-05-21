@@ -1,0 +1,13 @@
+{
+  "id": "ttlprdbd_f1t3",
+  "display_name": "Total In-Bed Period: the interval between lights out/in-bed time and lights off/out-bed time based on type III home sleep test",
+  "description": "Conventionally this variable would be called time in bed (TIB).",
+  "type": "integer",
+  "units": "minutes",
+  "labels": [
+    " time_bed",
+    "tib",
+    "ttlprdbd"
+  ],
+  "commonly_used": true
+}

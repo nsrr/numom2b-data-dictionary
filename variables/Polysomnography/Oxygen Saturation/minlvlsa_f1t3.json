@@ -1,0 +1,11 @@
+{
+  "id": "minlvlsa_f1t3",
+  "display_name": "Minimum level of oxygen saturation in total sleep duration  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "minlvlsa",
+    "lowsaoslp"
+  ],
+  "commonly_used": true
+}

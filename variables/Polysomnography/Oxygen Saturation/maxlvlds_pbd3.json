@@ -1,9 +1,0 @@
-{
-  "id": "maxlvlds_pbd3",
-  "display_name": "Maximum level of desaturation (supine, >= 3% desaturation)",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "mxdnbp3"
-  ]
-}

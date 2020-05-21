@@ -1,0 +1,11 @@
+{
+  "id": "endtimbd_f1t3",
+  "display_name": "Clock time when the participant is out of bed or lights are on based on type III home sleep test",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "stlonp",
+    "endbd",
+    "endtimbd"
+  ]
+}

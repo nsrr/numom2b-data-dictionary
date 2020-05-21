@@ -1,0 +1,11 @@
+{
+  "id": "ttlnumds_d2prd_f1t3",
+  "display_name": "Number of desaturation with >= 2% oxygen desaturation in total sleep period  from type III home sleep test",
+  "description": "Sleep period is defined as lights-out to lights-on regardless of whether the event occurs during a sleep or wake epoch.",
+  "type": "integer",
+  "labels": [
+    "ttlnumds_d2prd",
+    "ndes2ph",
+    "ttlnumds_ds2u"
+  ]
+}

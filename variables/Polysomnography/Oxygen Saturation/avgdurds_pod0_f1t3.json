@@ -1,0 +1,11 @@
+{
+  "id": "avgdurds_pod0_f1t3",
+  "display_name": "Average level of desaturation (non-supine, all desaturations)  from type III home sleep test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "avgdurds_pod0",
+    "avdnop",
+    "avgdurds_po_ds0u"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "pctdursp_se",
-  "display_name": "Percentage of sleep duration with snore events (dB level 5)",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "pdb5slp"
-  ]
-}
