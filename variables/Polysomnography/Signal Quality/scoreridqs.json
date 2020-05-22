@@ -1,7 +1,0 @@
-{
-  "id": "scoreridqs",
-  "display_name": "Scorer ID",
-  "description": "",
-  "type": "choices",
-  "domain": "scorer"
-}

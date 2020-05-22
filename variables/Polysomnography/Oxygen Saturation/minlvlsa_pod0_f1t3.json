@@ -1,6 +1,6 @@
 {
   "id": "minlvlsa_pod0_f1t3",
-  "display_name": "Minimum level of oxygen saturation (non-supine, > 0% desaturation)  from type III home sleep test",
+  "display_name": "Minimum level of oxygen saturation (non-supine, > 0% desaturation)  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "units": "percentage",

@@ -1,7 +1,0 @@
-{
-  "id": "thorqual",
-  "display_name": "B9b. Thoracic (quality code)",
-  "description": "",
-  "type": "choices",
-  "domain": "signalquality"
-}

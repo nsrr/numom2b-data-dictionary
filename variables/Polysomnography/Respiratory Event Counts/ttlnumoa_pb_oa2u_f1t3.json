@@ -1,6 +1,6 @@
 {
   "id": "ttlnumoa_pb_oa2u_f1t3",
-  "display_name": "Number of Obstructive Apnea (Supine): Obstructive apneas with >= 2% oxygen desaturation and with or without arousal  from type III home sleep test",
+  "display_name": "Number of Obstructive Apnea (Supine): Obstructive apneas with >= 2% oxygen desaturation and with or without arousal  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "labels": [

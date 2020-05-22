@@ -1,0 +1,10 @@
+{
+  "id": "totalhrs_f1t3",
+  "display_name": "B6. Total recording period (hours)  from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "units": "hours",
+  "labels": [
+    "totalhrs"
+  ]
+}

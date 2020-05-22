@@ -1,6 +1,6 @@
 {
   "id": "ttllatsp_f1t3",
-  "display_name": "Sleep Latency: the interval between lights-out/in-bed time and sleep onset based on type III home sleep test",
+  "display_name": "Sleep Latency: the interval between lights-out/in-bed time and sleep onset  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "units": "minutes",

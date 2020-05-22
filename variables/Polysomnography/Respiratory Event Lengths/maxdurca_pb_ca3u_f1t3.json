@@ -1,6 +1,6 @@
 {
   "id": "maxdurca_pb_ca3u_f1t3",
-  "display_name": "Maximum Central Apnea length (Supine): Central apneas with >= 3% oxygen desaturation and with or without arousal  from type III home sleep test",
+  "display_name": "Maximum Central Apnea length (Supine): Central apneas with >= 3% oxygen desaturation and with or without arousal  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "units": "seconds",

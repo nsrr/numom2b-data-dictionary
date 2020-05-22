@@ -1,0 +1,10 @@
+{
+  "id": "thorqual_f1t3",
+  "display_name": "B9b. Thoracic (quality code)  from type III home sleep apnea test",
+  "description": "",
+  "type": "choices",
+  "domain": "signalquality",
+  "labels": [
+    "thorqual"
+  ]
+}

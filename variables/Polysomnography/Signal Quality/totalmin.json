@@ -1,7 +1,0 @@
-{
-  "id": "totalmin",
-  "display_name": "B6. Total Recording Time (minutes)",
-  "description": "Total analysis period: from \"analysis starts\" to \"analysis ends\"",
-  "type": "integer",
-  "units": "minutes"
-}

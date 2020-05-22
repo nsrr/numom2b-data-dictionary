@@ -1,6 +1,6 @@
 {
   "id": "ttldurws_f1t3",
-  "display_name": "Wake After Sleep Onset: the total duration between sleep onset and lights-on/out-bed time while being awake based on type III home sleep test",
+  "display_name": "Wake After Sleep Onset: the total duration between sleep onset and lights-on/out-bed time while being awake  from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "minlvlhr_f1t3",
-  "display_name": "Minimum heart rate during the total sleep duration  from type III home sleep test",
+  "display_name": "Minimum heart rate during the total sleep duration  from type III home sleep apnea test",
   "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
   "type": "integer",
   "units": "beats per minute (bpm)",

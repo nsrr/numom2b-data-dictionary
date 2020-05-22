@@ -1,0 +1,10 @@
+{
+  "id": "alertecghr40_f1t3",
+  "display_name": "b3a. HR for >2 continuous minutes is <40 bpm  from type III home sleep apnea test",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "alertecghr40"
+  ]
+}

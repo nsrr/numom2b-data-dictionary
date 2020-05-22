@@ -1,6 +1,6 @@
 {
   "id": "ttldursa_swo90_f1t3",
-  "display_name": "Total duration when oxygen saturation < 90% in awake   from type III home sleep test",
+  "display_name": "Total duration when oxygen saturation < 90% in awake   from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "minutes",

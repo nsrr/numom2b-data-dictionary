@@ -1,6 +1,6 @@
 {
   "id": "phrnumsd_f1t3",
-  "display_name": "Number of sound events per hour of sleep  from type III home sleep test",
+  "display_name": "Number of sound events per hour of sleep  from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

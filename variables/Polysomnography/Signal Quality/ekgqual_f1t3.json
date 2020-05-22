@@ -1,0 +1,10 @@
+{
+  "id": "ekgqual_f1t3",
+  "display_name": "B7b. EKG (quality code)  from type III home sleep apnea test",
+  "description": "",
+  "type": "choices",
+  "domain": "signalquality",
+  "labels": [
+    "ekgqual"
+  ]
+}

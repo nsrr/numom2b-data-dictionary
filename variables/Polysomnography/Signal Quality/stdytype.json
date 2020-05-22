@@ -1,7 +1,0 @@
-{
-  "id": "stdytype",
-  "display_name": "A4a. Type of Sleep Study",
-  "description": "",
-  "type": "choices",
-  "domain": "studytype"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "alerthyposleep",
-  "display_name": "b2b. O2 sat during sleep <90% for >10% of sleep time",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes"
-}

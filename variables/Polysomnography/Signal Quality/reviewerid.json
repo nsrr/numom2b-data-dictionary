@@ -1,7 +1,0 @@
-{
-  "id": "reviewerid",
-  "display_name": "Reviewer ID",
-  "description": "",
-  "type": "choices",
-  "domain": "scorer"
-}

@@ -1,0 +1,10 @@
+{
+  "id": "abdohrs_f1t3",
+  "display_name": "B10a. Abdomen (hours usable)  from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "units": "hours",
+  "labels": [
+    "abdohrs"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "oxihrs_f1t3",
+  "display_name": "B11a. Oximetry (hours usable)  from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "units": "hours",
+  "labels": [
+    "oxihrs"
+  ]
+}

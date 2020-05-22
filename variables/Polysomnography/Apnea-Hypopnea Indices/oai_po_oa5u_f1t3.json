@@ -1,6 +1,6 @@
 {
   "id": "oai_po_oa5u_f1t3",
-  "display_name": "Obstructive Apnea Index (Non-Supine): (Obstructive apneas with >= 5% oxygen desaturation and with or without arousal) / hour of sleep  from type III home sleep test",
+  "display_name": "Obstructive Apnea Index (Non-Supine): (Obstructive apneas with >= 5% oxygen desaturation and with or without arousal) / hour of sleep  from type III home sleep apnea test",
   "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",

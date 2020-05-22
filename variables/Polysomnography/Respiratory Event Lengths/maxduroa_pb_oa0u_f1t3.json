@@ -1,6 +1,6 @@
 {
   "id": "maxduroa_pb_oa0u_f1t3",
-  "display_name": "Maximun Obstructive Apnea length (Supine): Obstructive apneas with no oxygen desaturation theshold used and with or without arousal  from type III home sleep test",
+  "display_name": "Maximun Obstructive Apnea length (Supine): Obstructive apneas with no oxygen desaturation theshold used and with or without arousal  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "units": "seconds",

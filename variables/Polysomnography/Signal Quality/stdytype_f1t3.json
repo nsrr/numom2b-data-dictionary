@@ -1,0 +1,10 @@
+{
+  "id": "stdytype_f1t3",
+  "display_name": "A4a. Type of Sleep Study  from type III home sleep apnea test",
+  "description": "",
+  "type": "choices",
+  "domain": "studytype",
+  "labels": [
+    "stdytype"
+  ]
+}

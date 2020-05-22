@@ -1,7 +1,0 @@
-{
-  "id": "alertecghr40",
-  "display_name": "b3a. HR for >2 continuous minutes is <40 bpm",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes"
-}
