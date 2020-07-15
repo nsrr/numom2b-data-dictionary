@@ -1,0 +1,13 @@
+{
+  "id": "phrnumds_dsge3_f1t3",
+  "display_name": "Number of Desaturations: >= 3% oxygen desaturations / hour of sleep  from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumds_d3_f1t3",
+    "phrnumds_d3",
+    "desati3",
+    "phrnumds_ds3"
+  ]
+}
