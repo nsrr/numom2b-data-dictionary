@@ -1,6 +1,6 @@
 {
   "id": "ttldursa_sw_sagt92_f1t3",
-  "display_name": "Total duration when oxygen saturation > 92% in awake   from type III home sleep apnea test",
+  "display_name": "Total duration when oxygen saturation > 92% in awake from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "minutes",

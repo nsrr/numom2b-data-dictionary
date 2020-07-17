@@ -1,6 +1,6 @@
 {
   "id": "maxlvlds_pb_dsgt0_f1t3",
-  "display_name": "Maximum level of desaturation (supine, all desaturations)  from type III home sleep apnea test",
+  "display_name": "Maximum level of desaturation of all oxygen desaturations in supine position  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "labels": [
