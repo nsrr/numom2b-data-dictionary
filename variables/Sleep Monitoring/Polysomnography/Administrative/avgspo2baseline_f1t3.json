@@ -1,0 +1,6 @@
+{
+  "id": "avgspo2baseline_f1t3",
+  "display_name": "Average oxygen saturation before sleep onset",
+  "description": "The EDF and XML annotation files from nuMoM2b sleep substudy were imported in Matlab for analysis of baseline SpO2 (oxygen saturation). First step involved identification of the initial sleep onset (stage=2). Sixty seconds of wake data preceding the initial sleep onset was identified as the baseline segment for calculation of average SpO2. If 60s of wake data was not present, 30s was used as the baseline segment. Average value of SpO2 signal was calculated at this baseline segment. If there was no usable SpO2 signal or baseline wake data before sleep onset, then baseline SpO2 is considered as missing. A few subjects had less than 90% SpO2 at baseline either due to signal distortion/artifacts or baseline desaturation events and hence were marked as missing.",
+  "type": "numeric"
+}

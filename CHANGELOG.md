@@ -1,6 +1,7 @@
 ## 0.2.0
 
 - Append PSG type suffix to variables
+- Add 'avgspo2baseline_f1t3' variable for oxygen saturation in wake before sleep onset
 
 ## 0.1.0 (April 9, 2020)
 

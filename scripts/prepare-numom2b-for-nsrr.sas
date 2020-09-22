@@ -57,6 +57,37 @@
     by SDB_StudyID stdydt stdyvis;
   run;
 
+  *import baseline spo2 data;
+  proc import datafile="\\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_source\numom_baseline_spo2.csv"
+    out=numom_baseline_spo2_in
+    dbms=csv
+    replace;
+  run;
+
+  data numom_baseline_spo2;
+    set numom_baseline_spo2_in;
+
+    SDB_StudyID = substr(numomid,1,8);
+    stdyvis = input(substr(numomid,10,1),8.);
+
+    if stdyvis = 5 then delete;
+
+    keep SDB_StudyID stdyvis avgspo2baseline;
+  run;
+
+  proc sort data=numom_baseline_spo2 nodupkey;
+    by SDB_StudyID stdyvis;
+  run;
+
+  *combine psg and baseline spo2;
+  data numompsg_spo2;
+    merge
+      numompsg_in
+      numom_baseline_spo2
+      ;
+    by SDB_StudyID stdyvis;
+  run;
+
   /*
 
   *look at subjects whose StudyID changed during study;
@@ -71,7 +102,7 @@
   data numom_nsrr;
     merge
       sdb_vars_in (in=a)
-      numompsg_in (in=b)
+      numompsg_spo2 (in=b)
       ;
     by SDB_StudyID stdydt stdyvis;
 
