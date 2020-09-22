@@ -1,7 +1,9 @@
-## 0.2.0
+## 0.2.0 (September 22, 2020)
 
 - Append PSG type suffix to variables
 - Add 'avgspo2baseline_f1t3' variable for oxygen saturation in wake before sleep onset
+- The CSV dataset is located here:
+    - \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases\0.2.0
 
 ## 0.1.0 (April 9, 2020)
 
