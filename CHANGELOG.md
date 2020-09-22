@@ -1,3 +1,7 @@
+## 0.2.0
+
+- Append PSG type suffix to variables
+
 ## 0.1.0 (April 9, 2020)
 
 - Add SAS script to process source datasets
