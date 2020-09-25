@@ -25,7 +25,7 @@
   libname numomi "\\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_ids";
 
   *set data dictionary version;
-  %let version = 0.1.0;
+  %let version = 0.2.0;
 
   *set nsrr csv release path;
   %let releasepath = \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases;
@@ -57,6 +57,37 @@
     by SDB_StudyID stdydt stdyvis;
   run;
 
+  *import baseline spo2 data;
+  proc import datafile="\\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_source\numom_baseline_spo2.csv"
+    out=numom_baseline_spo2_in
+    dbms=csv
+    replace;
+  run;
+
+  data numom_baseline_spo2;
+    set numom_baseline_spo2_in;
+
+    SDB_StudyID = substr(numomid,1,8);
+    stdyvis = input(substr(numomid,10,1),8.);
+
+    if stdyvis = 5 then delete;
+
+    keep SDB_StudyID stdyvis avgspo2baseline;
+  run;
+
+  proc sort data=numom_baseline_spo2 nodupkey;
+    by SDB_StudyID stdyvis;
+  run;
+
+  *combine psg and baseline spo2;
+  data numompsg_spo2;
+    merge
+      numompsg_in
+      numom_baseline_spo2
+      ;
+    by SDB_StudyID stdyvis;
+  run;
+
   /*
 
   *look at subjects whose StudyID changed during study;
@@ -71,7 +102,7 @@
   data numom_nsrr;
     merge
       sdb_vars_in (in=a)
-      numompsg_in (in=b)
+      numompsg_spo2 (in=b)
       ;
     by SDB_StudyID stdydt stdyvis;
 
@@ -152,63 +183,63 @@
       hmnbnbh = minlvlhr_pbd3
       smnbnoh = minlvlhr_pod0
       hmnbnoh = minlvlhr_pod3
-      avdnbp = avgdurds_pbd0
-      avdnbp2 = avgdurds_pbd2
-      avdnbp3 = avgdurds_pbd3
-      avdnbp4 = avgdurds_pbd4
-      avdnbp5 = avgdurds_pbd5
-      avdnop = avgdurds_pod0
-      avdnop2 = avgdurds_pod2
-      avdnop3 = avgdurds_pod3
-      avdnop4 = avgdurds_pod4
-      avdnop5 = avgdurds_pod5
+      avdnbp = avgdurds_pb_dsgt0
+      avdnbp2 = avgdurds_pb_dsge2
+      avdnbp3 = avgdurds_pb_dsge3
+      avdnbp4 = avgdurds_pb_dsge4
+      avdnbp5 = avgdurds_pb_dsge5
+      avdnop = avgdurds_po_dsgt0
+      avdnop2 = avgdurds_po_dsge2
+      avdnop3 = avgdurds_po_dsge3
+      avdnop4 = avgdurds_po_dsge4
+      avdnop5 = avgdurds_po_dsge5
       avgdsslp = avglvlds
       avgdsevent = avglvlds_ap0uhp3x0u
       saondnrem = avglvlnd
       saondcaslp = avglvlnd_ca0u
       saondoaslp = avglvlnd_oa0u
       avsao2nh = avglvlsa
-      mxdnbp = maxlvlds_pbd0
-      mxdnbp2 = maxlvlds_pbd2
-      mxdnbp3 = maxlvlds_pbd3
-      mxdnbp4 = maxlvlds_pbd4
-      mxdnbp5 = maxlvlds_pbd5
-      mxdnop = maxlvlds_pod0
-      mxdnop2 = maxlvlds_pod2
-      mxdnop3 = maxlvlds_pod3
-      mxdnop4 = maxlvlds_pod4
-      mxdnop5 = maxlvlds_pod5
+      mxdnbp = maxlvlds_pb_dsgt0
+      mxdnbp2 = maxlvlds_pb_dsge2
+      mxdnbp3 = maxlvlds_pb_dsge3
+      mxdnbp4 = maxlvlds_pb_dsge4
+      mxdnbp5 = maxlvlds_pb_dsge5
+      mxdnop = maxlvlds_po_dsgt0
+      mxdnop2 = maxlvlds_po_dsge2
+      mxdnop3 = maxlvlds_po_dsge3
+      mxdnop4 = maxlvlds_po_dsge4
+      mxdnop5 = maxlvlds_po_dsge5
       mxsao2nh = maxlvlsa
       minsaondnrem = minlvlnd
       minsaondcaslp = minlvlnd_ca0u
       minsaondoaslp = minlvlnd_oa0u
       lowsaoslp = minlvlsa
-      mndnbp = minlvlsa_pbd0
-      mndnbp2 = minlvlsa_pbd2
-      mndnbp3 = minlvlsa_pbd3
-      mndnbp4 = minlvlsa_pbd4
-      mndnbp5 = minlvlsa_pbd5
-      mndnop = minlvlsa_pod0
-      mndnop2 = minlvlsa_pod2
-      mndnop3 = minlvlsa_pod3
-      mndnop4 = minlvlsa_pod4
-      mndnop5 = minlvlsa_pod5
-      pctlt75 = pctdursp_o75
-      pctlt80 = pctdursp_o80
-      pctlt85 = pctdursp_o85
-      pctlt90 = pctdursp_o90
-      desati3 = phrnumds_d3
-      desati4 = phrnumds_d4
-      sao92slp = ttldursa_o92
-      sao90awk = ttldursa_swo90
-      sao92awk = ttldursa_swo92
-      ndesat3 = ttlnumds_d3
-      ndesat4 = ttlnumds_d4
-      ndes2ph = ttlnumds_d2prd
-      ndes3ph = ttlnumds_d3prd
-      ndes4ph = ttlnumds_d4prd
-      ndes5ph = ttlnumds_d5prd
-      dssao90 = ttlnumds_o90
+      mndnbp = minlvlsa_pb_dsgt0
+      mndnbp2 = minlvlsa_pb_dsge2
+      mndnbp3 = minlvlsa_pb_dsge3
+      mndnbp4 = minlvlsa_pb_dsge4
+      mndnbp5 = minlvlsa_pb_dsge5
+      mndnop = minlvlsa_po_dsgt0
+      mndnop2 = minlvlsa_po_dsge2
+      mndnop3 = minlvlsa_po_dsge3
+      mndnop4 = minlvlsa_po_dsge4
+      mndnop5 = minlvlsa_po_dsge5
+      pctlt75 = pctdursp_salt75
+      pctlt80 = pctdursp_salt80
+      pctlt85 = pctdursp_salt85
+      pctlt90 = pctdursp_salt90
+      desati3 = phrnumds_dsge3
+      desati4 = phrnumds_dsge4
+      sao92slp = ttldursa_sagt92
+      sao90awk = ttldursa_sw_salt90
+      sao92awk = ttldursa_sw_sagt92
+      ndesat3 = ttlnumds_dsge3
+      ndesat4 = ttlnumds_dsge4
+      ndes2ph = ttlnumds_prd_dsge2
+      ndes3ph = ttlnumds_prd_dsge3
+      ndes4ph = ttlnumds_prd_dsge4
+      ndes5ph = ttlnumds_prd_dsge5
+      dssao90 = ttlnumds_salt90
       hunrbp = hi_pb_hp5x0u
       hunrbp2 = hi_pb_hp5x2u
       hunrbp3 = hi_pb_hp5x3u
@@ -408,9 +439,9 @@
       supinep = pctdursp_pb
       nsupinep = pctdursp_po
       hslptawp = phrnumsf
-      slp_eff = slpeff
-      slplatp = slplatency
-      slp_maint_eff = slpmaineff
+      slp_eff = ttleffbd
+      slplatp = ttllatsp
+      slp_maint_eff = ttleffsp
       stloutp = begtimbd
       ststartp = begtimrd
       stonsetp = begtimsp
@@ -420,7 +451,7 @@
       time_bed = ttlprdbd
       stdurm = ttlprdrd
       slpprdm = ttlprdsp
-      duration = waso
+      waso = ttldurws
       pdb5slp = pctdursp_se
       soundi = phrnumsd
       nsound = ttlnumsd
@@ -458,7 +489,6 @@
       ahins_a4h4
       ahins_a5h5
       ahis_a0h0
-      ahis_a1h1
       ahis_a2h2
       ahis_a3h3
       ahis_a4h4
@@ -496,6 +526,37 @@
 
   proc sort data=numom_nsrr_censored nodupkey;
     by PublicID stdyvis;
+  run;
+
+*******************************************************************************;
+* rename variables with suffix ;
+*******************************************************************************;
+  proc sql noprint;
+     select cats(name,'=',name,'_f1t3')
+            into :list
+            separated by ' '
+            from dictionary.columns
+            where libname = 'WORK' and memname = 'NUMOM_NSRR_CENSORED';
+  quit;
+
+  proc datasets library = work nolist;
+     modify numom_nsrr_censored;
+     rename &list;
+  quit;
+
+  data numom_nsrr_censored;
+    set numom_nsrr_censored;
+
+    rename
+      stdyvis_f1t3 = stdyvis
+      height_f1t3 = height
+      age_at_stdydt_f1t3 = age_at_stdydt
+      bmi_f1t3 = bmi
+      crace_f1t3 = crace
+      ga_at_stdydt_f1t3 = ga_at_stdydt
+      publicid_f1t3 = publicid
+      weight_f1t3 = weight
+      ;
   run;
 
 *******************************************************************************;

@@ -1,6 +1,10 @@
 {
   "id": "avgdurds_pb_dsgt0_f1t3",
+<<<<<<< HEAD
   "display_name": "Average level of all oxygen desaturations in supine position from type III home sleep apnea test",
+=======
+  "display_name": "Average level of desaturation (supine, all desaturations) from type III home sleep apnea test",
+>>>>>>> d68d20432f2a42f72b0db2c030e720243e406543
   "description": "",
   "type": "integer",
   "labels": [
