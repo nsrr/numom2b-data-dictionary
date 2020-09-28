@@ -1,7 +1,7 @@
 {
   "id": "ttldursp_f1t3",
-  "display_name": "Estimated Sleep Duration: Manually edited recording time of which periods of probable wake were removed based on movement, heart rate and other non-EEG signals  from type III home sleep apnea test",
-  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)",
+  "display_name": "Total Sleep Duration: the interval between sleep onset time and lights on/out-bed time while the participant is asleep  from type III home sleep apnea test",
+  "description": "Conventionally this variable would be called total sleep time (TST).",
   "type": "integer",
   "units": "minutes",
   "labels": [

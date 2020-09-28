@@ -1,6 +1,6 @@
 {
   "id": "ttldurws_f1t3",
-  "display_name": "Estimated Wake After Sleep Onset: Periods of probable wake in bed based on movement, heart rate and other non-EEG signals from type III home sleep apnea test",
+  "display_name": "Wake After Sleep Onset: the total duration between sleep onset and lights-on/out-bed time while being awake  from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "labels": [

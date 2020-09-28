@@ -1,6 +1,6 @@
 {
   "id": "maxlvlds_po_dsge4_f1t3",
-  "display_name": "Maximum level of desaturation with >= 4% oxygen desaturation in non-supine position from type III home sleep apnea test",
+  "display_name": "Maximum level of desaturation (non-supine, >= 4% desaturation)  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "labels": [

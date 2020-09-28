@@ -1,6 +1,6 @@
 {
   "id": "minlvlsa_pb_dsge5_f1t3",
-  "display_name": "Minimum level of oxygen saturation with >= 5% desaturation in supine position from type III home sleep apnea test",
+  "display_name": "Minimum level of oxygen saturation (supine, >= 5% desaturation)  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "units": "percentage",
