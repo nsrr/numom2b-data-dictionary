@@ -1,3 +1,7 @@
+## 0.2.1
+
+- Fix AASM labels on some AHI variables
+
 ## 0.2.0 (September 22, 2020)
 
 - Append PSG type suffix to variables
