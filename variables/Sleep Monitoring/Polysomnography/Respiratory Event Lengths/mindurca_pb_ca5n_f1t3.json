@@ -1,0 +1,12 @@
+{
+  "id": "mindurca_pb_ca5n_f1t3",
+  "display_name": "Minimum Central Apnea length (Supine): Central apneas with >= 5% oxygen desaturation from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mindurca_pb_ca5u_f1t3",
+    "mindurca_pb_ca5u",
+    "mncanbp5"
+  ]
+}

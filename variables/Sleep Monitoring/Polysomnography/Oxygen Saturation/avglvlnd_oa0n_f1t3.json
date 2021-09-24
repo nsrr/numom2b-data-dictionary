@@ -1,0 +1,11 @@
+{
+  "id": "avglvlnd_oa0n_f1t3",
+  "display_name": "Average Oxygen Saturation (nadir) Associated with Obstructive Apneas: Obstructive apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "avglvlnd_oa0u_f1t3",
+    "avglvlnd_oa0u",
+    "saondoaslp"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "alertahi50_f1t3",
-  "display_name": "C1b1. Apnea-hypopnea index (AHI) > 50 (No/Yes)  from type III home sleep apnea test",
+  "display_name": "C1b1. Apnea-hypopnea index (AHI) > 50 (No/Yes) from type III home sleep apnea test",
   "description": "",
   "type": "choices",
   "domain": "noyes",

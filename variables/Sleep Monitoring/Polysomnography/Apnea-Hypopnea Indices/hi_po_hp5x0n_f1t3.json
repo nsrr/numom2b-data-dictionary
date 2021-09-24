@@ -1,0 +1,13 @@
+{
+  "id": "hi_po_hp5x0n_f1t3",
+  "display_name": "Hypopnea Index (Non-Supine): Hypopneas with > 50% flow reduction and no oxygen desaturation threshold used and with or witout arousal / hour of sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events. Hypopneas are defined based on American Academy of Sleep Medicine (AASM) Chicago 1999 standard. [Sleep 1999 (PubMed ID:10450601)]( https://www.ncbi.nlm.nih.gov/pubmed/10450601) <br><br>[Search for all AHI variables consistent with the same clinical guidelines within this dataset](https://sleepdata.org/datasets/numom2b/variables?search=chicago1999)",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "hi_po_hp5x0u_f1t3",
+    "hi_po_hp5x0u",
+    "hunrop",
+    "chicago1999"
+  ]
+}

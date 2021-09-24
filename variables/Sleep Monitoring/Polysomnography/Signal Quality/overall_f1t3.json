@@ -1,6 +1,6 @@
 {
   "id": "overall_f1t3",
-  "display_name": "B12. Overall Study Quality  from type III home sleep apnea test",
+  "display_name": "B12. Overall Study Quality from type III home sleep apnea test",
   "description": "",
   "type": "choices",
   "domain": "studyquality",

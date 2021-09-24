@@ -1,6 +1,6 @@
 {
   "id": "alerthypoyn_f1t3",
-  "display_name": "b2. Severe hypoxemia (No/Yes)  from type III home sleep apnea test",
+  "display_name": "b2. Severe hypoxemia (No/Yes) from type III home sleep apnea test",
   "description": "",
   "type": "choices",
   "domain": "noyes",
