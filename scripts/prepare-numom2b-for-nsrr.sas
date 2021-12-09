@@ -25,7 +25,7 @@
   libname numomi "\\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_ids";
 
   *set data dictionary version;
-  %let version = 0.4.0.pre;
+  %let version = 0.3.0.pre;
 
   *set nsrr csv release path;
   %let releasepath = \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases;
@@ -560,6 +560,108 @@
   run;
 
 *******************************************************************************;
+* create separate datasets for each visit ;
+*******************************************************************************;
+  data numom_nsrr_visit1 numom_nsrr_visit3;
+    set numom_nsrr_censored;
+
+    if stdyvis = 1 then output numom_nsrr_visit1;
+    else if stdyvis = 3 then output numom_nsrr_visit3;
+  run;
+
+*******************************************************************************;
+* create harmonized datasets ;
+*******************************************************************************;
+data numom_nsrr_visit1_harmonized;
+	set numom_nsrr_visit1;
+	where stdyvis=1;
+*demographics
+*age;
+*use age_at_stdydt;
+	format nsrr_age 8.2;
+ 	nsrr_age = age_at_stdydt;
+
+*age_gt89;
+*use age_at_stdydt;
+	format nsrr_age_gt89 $100.; 
+	if age_at_stdydt gt 89 then nsrr_age_gt89='yes';
+	else if age_at_stdydt le 89 then nsrr_age_gt89='no';
+
+*sex;
+*create nsrr_sex all female;
+	format nsrr_sex $100.;
+	nsrr_sex = 'female';
+
+*race;
+*use crace;
+    format nsrr_race $100.;
+    if crace = 1 then nsrr_race = 'white';
+    else if crace = 2 then nsrr_race = 'black or african american';
+    else if crace = 3 then nsrr_race = 'hispanic';
+  	else if crace = 4 then nsrr_race = 'asian';
+	else if crace = 5 then nsrr_race = 'other';
+	else  nsrr_race = 'not reported';
+
+*ethnicity;
+*use crace;
+	format nsrr_ethnicity $100.;
+    if crace = 3 then nsrr_ethnicity = 'hispanic or latino';
+    else if crace = 1 then nsrr_ethnicity = 'not hispanic or latino';
+	else if crace = 2  then nsrr_ethnicity = 'not hispanic or latino';
+	else if crace = 4   then nsrr_ethnicity = 'not hispanic or latino';
+	else if crace = 5  then nsrr_ethnicity = 'not hispanic or latino';
+	else if crace = . then nsrr_ethnicity = 'not reported';
+
+*anthropometry
+*bmi;
+*use bmi;
+	format nsrr_bmi 10.9;
+ 	nsrr_bmi = bmi;
+
+*clinical data/vital signs
+*bp_systolic;
+*bp_diastolic;
+	*not available;
+
+*lifestyle and behavioral health
+*current_smoker;
+*ever_smoker;
+	*not available;
+
+	keep 
+		publicid
+		stdyvis
+		nsrr_age
+		nsrr_age_gt89
+		nsrr_sex
+		nsrr_race
+		nsrr_ethnicity
+		nsrr_bmi
+		;
+run;
+
+*******************************************************************************;
+* checking harmonized datasets ;
+*******************************************************************************;
+
+/* Checking for extreme values for continuous variables */
+
+proc means data=numom_nsrr_visit1_harmonized;
+VAR 	nsrr_age
+		nsrr_bmi;
+run;
+
+/* Checking categorical variables */
+
+proc freq data=numom_nsrr_visit1_harmonized;
+table 	nsrr_age_gt89
+		nsrr_sex
+		nsrr_race
+		nsrr_ethnicity;
+run;
+
+
+*******************************************************************************;
 * make all variable names lowercase ;
 *******************************************************************************;
   options mprint;
@@ -578,6 +680,9 @@
   %mend lowcase;
 
   %lowcase(numom_nsrr_censored);
+  %lowcase(numom_nsrr_visit1);
+  %lowcase(numom_nsrr_visit3);
+  %lowcase(numom_nsrr_visit1_harmonized);
 
   /*
 
@@ -586,15 +691,7 @@
 
   */
 
-*******************************************************************************;
-* create separate datasets for each visit ;
-*******************************************************************************;
-  data numom_nsrr_visit1 numom_nsrr_visit3;
-    set numom_nsrr_censored;
 
-    if stdyvis = 1 then output numom_nsrr_visit1;
-    else if stdyvis = 3 then output numom_nsrr_visit3;
-  run;
 
 *******************************************************************************;
 * create permanent sas datasets ;
@@ -618,6 +715,12 @@
 
   proc export data=numom_nsrr_visit3
     outfile="&releasepath\&version\numom-visit3-dataset-&version..csv"
+    dbms=csv
+    replace;
+  run;
+
+    proc export data=numom_nsrr_visit1_harmonized
+    outfile="&releasepath\&version\numom-visit1-harmonized-&version..csv"
     dbms=csv
     replace;
   run;
