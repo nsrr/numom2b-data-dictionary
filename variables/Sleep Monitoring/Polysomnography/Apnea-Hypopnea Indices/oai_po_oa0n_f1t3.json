@@ -1,0 +1,12 @@
+{
+  "id": "oai_po_oa0n_f1t3",
+  "display_name": "Obstructive Apnea Index (Non-Supine): (Obstructive apneas with no oxygen desaturation threshold used) / hour of sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oai_po_oa0u_f1t3",
+    "oai_po_oa0u",
+    "oardnop"
+  ]
+}

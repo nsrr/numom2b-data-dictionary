@@ -1,0 +1,12 @@
+{
+  "id": "mindurhp_po_hp5x3n_f1t3",
+  "display_name": "Minimum Length of Hypopneas (Non-Supine): Hypopneas with > 50% flow reduction and with>= 3% oxygen desaturation threshold used from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "mindurhp_po_hp5x3u_f1t3",
+    "mindurhp_po_hp5x3u",
+    "sunrop3"
+  ]
+}

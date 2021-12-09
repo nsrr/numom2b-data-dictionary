@@ -1,10 +1,11 @@
 {
   "id": "pctdursp_salt80_f1t3",
-  "display_name": "Percentage of total sleep duration with < 80% oxygen saturation  from type III home sleep apnea test",
+  "display_name": "Percentage of total sleep duration with < 80% oxygen saturation from type III home sleep apnea test",
   "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
   "type": "numeric",
   "units": "percentage",
   "labels": [
+    "pctdursp_salt80_f1t3",
     "pctdursp_o80_f1t3",
     "pctdursp_o80",
     "pctlt80"

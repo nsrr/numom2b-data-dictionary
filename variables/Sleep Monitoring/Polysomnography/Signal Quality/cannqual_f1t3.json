@@ -1,6 +1,6 @@
 {
   "id": "cannqual_f1t3",
-  "display_name": "B8b. Cannula Flow (quality code)  from type III home sleep apnea test",
+  "display_name": "B8b. Cannula Flow (quality code) from type III home sleep apnea test",
   "description": "",
   "type": "choices",
   "domain": "signalquality",

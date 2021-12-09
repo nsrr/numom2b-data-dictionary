@@ -1,6 +1,6 @@
 {
   "id": "abdoqual_f1t3",
-  "display_name": "B10b. Abdomen (quality code)  from type III home sleep apnea test",
+  "display_name": "B10b. Abdomen (quality code) from type III home sleep apnea test",
   "description": "",
   "type": "choices",
   "domain": "signalquality",

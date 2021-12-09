@@ -1,0 +1,12 @@
+{
+  "id": "maxdurap_ap0n_f1t3",
+  "display_name": "Longest Apnea: Apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurap_ap0u_f1t3",
+    "maxdurap_ap0u",
+    "longap"
+  ]
+}

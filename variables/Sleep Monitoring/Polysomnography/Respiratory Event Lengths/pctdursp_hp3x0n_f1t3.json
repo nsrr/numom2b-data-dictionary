@@ -1,0 +1,11 @@
+{
+  "id": "pctdursp_hp3x0n_f1t3",
+  "display_name": "Percentage of sleep duration in hypopneas with > 30% flow reduction and no oxygen desaturation threshold used from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "pctdursp_hp3x0u_f1t3",
+    "pctdursp_hp3x0u",
+    "phbslp"
+  ]
+}

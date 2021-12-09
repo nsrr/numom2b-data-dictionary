@@ -1,0 +1,11 @@
+{
+  "id": "ttlnumca_po_ca5n_f1t3",
+  "display_name": "Number of Central Apnea (Non-Supine): Central apneas with >= 5% oxygen desaturation from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "ttlnumca_po_ca5u_f1t3",
+    "ttlnumca_po_ca5u",
+    "canop5"
+  ]
+}

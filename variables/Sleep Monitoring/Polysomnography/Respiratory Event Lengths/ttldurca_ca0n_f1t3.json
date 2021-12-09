@@ -1,0 +1,12 @@
+{
+  "id": "ttldurca_ca0n_f1t3",
+  "display_name": "Total Central Apnea Length: Central apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldurca_ca0u_f1t3",
+    "ttldurca_ca0u",
+    "ctdur"
+  ]
+}

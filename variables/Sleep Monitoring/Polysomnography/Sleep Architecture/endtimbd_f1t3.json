@@ -1,6 +1,6 @@
 {
   "id": "endtimbd_f1t3",
-  "display_name": "Clock time when the participant is out of bed or lights are on  from type III home sleep apnea test",
+  "display_name": "Clock time when the participant is out of bed or lights are on from type III home sleep apnea test",
   "description": "",
   "type": "time",
   "labels": [

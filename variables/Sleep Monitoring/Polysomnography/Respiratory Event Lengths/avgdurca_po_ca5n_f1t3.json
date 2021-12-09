@@ -1,0 +1,12 @@
+{
+  "id": "avgdurca_po_ca5n_f1t3",
+  "display_name": "Average Central Apnea Length (Non-Supine): Central apneas with >= 5% oxygen desaturation from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "units": "seconds",
+  "labels": [
+    "avgdurca_po_ca5u_f1t3",
+    "avgdurca_po_ca5u",
+    "avcanop5"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ttlduroa_oa0n_f1t3",
+  "display_name": "Total Obstructive Apnea Length: Obstructive apneas with no oxygen desaturation threshold used  from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttlduroa_oa0u_f1t3",
+    "ttlduroa_oa0u",
+    "ontdur"
+  ]
+}

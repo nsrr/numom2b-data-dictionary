@@ -1,0 +1,12 @@
+{
+  "id": "ttldurap_pb_ap0n_f1t3",
+  "display_name": "Total Apnea Length (Supine): Apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldurap_pb_ap0u_f1t3",
+    "ttldurap_pb_ap0u",
+    "apntdurbp"
+  ]
+}

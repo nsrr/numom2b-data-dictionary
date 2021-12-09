@@ -1,0 +1,11 @@
+{
+  "id": "ttlnumoa_pb_oa3n_f1t3",
+  "display_name": "Number of Obstructive Apnea (Supine): Obstructive apneas with >= 3% oxygen desaturation from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "ttlnumoa_pb_oa3u_f1t3",
+    "ttlnumoa_pb_oa3u",
+    "oanbp3"
+  ]
+}

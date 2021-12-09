@@ -1,6 +1,6 @@
 {
   "id": "alertecgsecond_f1t3",
-  "display_name": "b3d. Type 2 second degree AV block  from type III home sleep apnea test",
+  "display_name": "b3d. Type 2 second degree AV block from type III home sleep apnea test",
   "description": "",
   "type": "choices",
   "domain": "noyes",

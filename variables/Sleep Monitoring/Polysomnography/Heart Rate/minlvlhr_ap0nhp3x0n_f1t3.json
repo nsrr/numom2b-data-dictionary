@@ -1,0 +1,12 @@
+{
+  "id": "minlvlhr_ap0nhp3x0n_f1t3",
+  "display_name": "Minimum heart rate associated with apneas with no oxygen desaturation threshold used and hypopnea with > 30% flow reduction and no oxygen desaturation threshold used during total sleep duration from type III home sleep apnea test",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_ap0uhp3x0u_f1t3",
+    "minlvlhr_ap0uhp3x0u",
+    "mnhrahslp"
+  ]
+}

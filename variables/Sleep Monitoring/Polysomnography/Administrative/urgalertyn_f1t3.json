@@ -1,6 +1,6 @@
 {
   "id": "urgalertyn_f1t3",
-  "display_name": "C1. Did review result in urgent alerts?  from type III home sleep apnea test",
+  "display_name": "C1. Did review result in urgent alerts? from type III home sleep apnea test",
   "description": "",
   "type": "choices",
   "domain": "noyes",

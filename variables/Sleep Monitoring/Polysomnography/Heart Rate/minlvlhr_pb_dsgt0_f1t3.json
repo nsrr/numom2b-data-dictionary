@@ -1,0 +1,12 @@
+{
+  "id": "minlvlhr_pb_dsgt0_f1t3",
+  "display_name": "Minimum heart rate in supine position associated with > 0% oxygen desaturation during total sleep duration from type III home sleep apnea test",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_pbd0_f1t3",
+    "minlvlhr_pbd0",
+    "smnbnbh"
+  ]
+}

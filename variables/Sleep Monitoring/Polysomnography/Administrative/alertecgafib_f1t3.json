@@ -1,6 +1,6 @@
 {
   "id": "alertecgafib_f1t3",
-  "display_name": "b3f. Atrial fibrillation and/or flutter  from type III home sleep apnea test",
+  "display_name": "b3f. Atrial fibrillation and/or flutter from type III home sleep apnea test",
   "description": "",
   "type": "choices",
   "domain": "noyes",
