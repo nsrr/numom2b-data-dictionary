@@ -1,4 +1,4 @@
-## 0.3.0
+## 0.3.0 (Decemember 2021)
 
 - Fix AASM labels on some AHI variables
 
