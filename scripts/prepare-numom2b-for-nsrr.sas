@@ -119,70 +119,70 @@
 
     *rename variables;
     rename
-      ahi_a0h0 = ahi_ap0uhp3x0u
-      ahi_a0h3 = ahi_ap0uhp3x3u
-      ahi_a0h4 = ahi_ap0uhp3x4u
-      ahi_a0t4f3 = ahi_ap0uhp3x5x4uhp5x3u
-      ahi_a2h2 = ahi_ap2uhp3x2u
-      ahiu3 = ahi_ap3uhp3x3u
-      ahi_a4h4 = ahi_ap4uhp3x4u
-      ahi_a5h5 = ahi_ap5uhp3x5u
-      cai_c0 = cai_ca0u
-      cai_c4 = cai_ca4u
-      cardnbp = cai_pb_ca0u
-      cardnbp2 = cai_pb_ca2u
-      cardnbp3 = cai_pb_ca3u
-      cardnbp4 = cai_pb_ca4u
-      cardnbp5 = cai_pb_ca5u
-      cardnop = cai_po_ca0u
-      cardnop2 = cai_po_ca2u
-      cardnop3 = cai_po_ca3u
-      cardnop4 = cai_po_ca4u
-      cardnop5 = cai_po_ca5u
-      hypi = hi_hp3x5x0u
-      hypai = hi_hp5x0u
-      rdinbp = hi_pb_hp3x0u
-      rdinbp2 = hi_pb_hp3x2u
-      rdinbp3 = hi_pb_hp3x3u
-      rdinbp4 = hi_pb_hp3x4u
-      rdinbp5 = hi_pb_hp3x5u
-      rdinop = hi_po_hp3x0u
-      rdinop2 = hi_po_hp3x2u
-      rdinop3 = hi_po_hp3x3u
-      rdinop4 = hi_po_hp3x4u
-      rdinop5 = hi_po_hp3x5u
-      oahi_o0h3 = oahi_oa3uhp3x3u
-      oahi_o0h4 = oahi_oa4uhp3x4u
-      oai_o0 = oai_oa0u
-      oai_o4 = oai_oa4u
-      oardnbp = oai_pb_oa0u
-      oardnbp2 = oai_pb_oa2u
-      oardnbp3 = oai_pb_oa3u
-      oardnbp4 = oai_pb_oa4u
-      oardnbp5 = oai_pb_oa5u
-      oardnop = oai_po_oa0u
-      oardnop2 = oai_po_oa2u
-      oardnop3 = oai_po_oa3u
-      oardnop4 = oai_po_oa4u
-      oardnop5 = oai_po_oa5u
+      ahi_a0h0 = ahi_ap0nhp3x0n
+      ahi_a0h3 = ahi_ap0nhp3x3n
+      ahi_a0h4 = ahi_ap0nhp3x4n
+      ahi_a0t4f3 = ahi_ap0nhp3x5x4nhp5x3n
+      ahi_a2h2 = ahi_ap2nhp3x2n
+      ahiu3 = ahi_ap3nhp3x3n
+      ahi_a4h4 = ahi_ap4nhp3x4n
+      ahi_a5h5 = ahi_ap5nhp3x5n
+      cai_c0 = cai_ca0n
+      cai_c4 = cai_ca4n
+      cardnbp = cai_pb_ca0n
+      cardnbp2 = cai_pb_ca2n
+      cardnbp3 = cai_pb_ca3n
+      cardnbp4 = cai_pb_ca4n
+      cardnbp5 = cai_pb_ca5n
+      cardnop = cai_po_ca0n
+      cardnop2 = cai_po_ca2n
+      cardnop3 = cai_po_ca3n
+      cardnop4 = cai_po_ca4n
+      cardnop5 = cai_po_ca5n
+      hypi = hi_hp3x5x0n
+      hypai = hi_hp5x0n
+      rdinbp = hi_pb_hp3x0n
+      rdinbp2 = hi_pb_hp3x2n
+      rdinbp3 = hi_pb_hp3x3n
+      rdinbp4 = hi_pb_hp3x4n
+      rdinbp5 = hi_pb_hp3x5n
+      rdinop = hi_po_hp3x0n
+      rdinop2 = hi_po_hp3x2n
+      rdinop3 = hi_po_hp3x3n
+      rdinop4 = hi_po_hp3x4n
+      rdinop5 = hi_po_hp3x5n
+      oahi_o0h3 = oahi_oa0nhp3x3n
+      oahi_o0h4 = oahi_oa0nhp3x4n
+      oai_o0 = oai_oa0n
+      oai_o4 = oai_oa4n
+      oardnbp = oai_pb_oa0n
+      oardnbp2 = oai_pb_oa2n
+      oardnbp3 = oai_pb_oa3n
+      oardnbp4 = oai_pb_oa4n
+      oardnbp5 = oai_pb_oa5n
+      oardnop = oai_po_oa0n
+      oardnop2 = oai_po_oa2n
+      oardnop3 = oai_po_oa3n
+      oardnop4 = oai_po_oa4n
+      oardnop5 = oai_po_oa5n
       bpmavg = avglvlhr
-      avghrahslp = avglvlhr_ap0uhp3x0u
-      savbnbh = avglvlhr_pbd0
-      havbnbh = avglvlhr_pbd3
-      savbnoh = avglvlhr_pod0
-      havbnoh = avglvlhr_pod3
+      avghrahslp = avglvlhr_ap0nhp3x0n
+      savbnbh = avglvlhr_pb_dsgt0
+      havbnbh = avglvlhr_pb_dsge3
+      savbnoh = avglvlhr_po_dsgt0
+      havbnoh = avglvlhr_po_dsge3
       bpmmax = maxlvlhr
-      mxhrahslp = maxlvlhr_ap0uhp3x0u
-      smxbnbh = maxlvlhr_pbd0
-      hmxbnbh = maxlvlhr_pbd3
-      smxbnoh = maxlvlhr_pod0
-      hmxbnoh = maxlvlhr_pod3
+      mxhrahslp = maxlvlhr_ap0nhp3x0n
+      smxbnbh = maxlvlhr_pb_dsgt0
+      hmxbnbh = maxlvlhr_pb_dsge3
+      smxbnoh = maxlvlhr_po_dsgt0
+      hmxbnoh = maxlvlhr_po_dsge3
       bpmmin = minlvlhr
-      mnhrahslp = minlvlhr_ap0uhp3x0u
-      smnbnbh = minlvlhr_pbd0
-      hmnbnbh = minlvlhr_pbd3
-      smnbnoh = minlvlhr_pod0
-      hmnbnoh = minlvlhr_pod3
+      mnhrahslp = minlvlhr_ap0nhp3x0n
+      smnbnbh = minlvlhr_pb_dsgt0
+      hmnbnbh = minlvlhr_pb_dsge3
+      smnbnoh = minlvlhr_po_dsgt0
+      hmnbnoh = minlvlhr_po_dsge3
       avdnbp = avgdurds_pb_dsgt0
       avdnbp2 = avgdurds_pb_dsge2
       avdnbp3 = avgdurds_pb_dsge3
@@ -194,10 +194,10 @@
       avdnop4 = avgdurds_po_dsge4
       avdnop5 = avgdurds_po_dsge5
       avgdsslp = avglvlds
-      avgdsevent = avglvlds_ap0uhp3x0u
+      avgdsevent = avglvlds_ap0nhp3x0n
       saondnrem = avglvlnd
-      saondcaslp = avglvlnd_ca0u
-      saondoaslp = avglvlnd_oa0u
+      saondcaslp = avglvlnd_ca0n
+      saondoaslp = avglvlnd_oa0n
       avsao2nh = avglvlsa
       mxdnbp = maxlvlds_pb_dsgt0
       mxdnbp2 = maxlvlds_pb_dsge2
@@ -211,8 +211,8 @@
       mxdnop5 = maxlvlds_po_dsge5
       mxsao2nh = maxlvlsa
       minsaondnrem = minlvlnd
-      minsaondcaslp = minlvlnd_ca0u
-      minsaondoaslp = minlvlnd_oa0u
+      minsaondcaslp = minlvlnd_ca0n
+      minsaondoaslp = minlvlnd_oa0n
       lowsaoslp = minlvlsa
       mndnbp = minlvlsa_pb_dsgt0
       mndnbp2 = minlvlsa_pb_dsge2
@@ -233,207 +233,207 @@
       sao92slp = ttldursa_sagt92
       sao90awk = ttldursa_sw_salt90
       sao92awk = ttldursa_sw_sagt92
-      ndesat3 = ttlnumds_dsge3
-      ndesat4 = ttlnumds_dsge4
-      ndes2ph = ttlnumds_prd_dsge2
-      ndes3ph = ttlnumds_prd_dsge3
-      ndes4ph = ttlnumds_prd_dsge4
-      ndes5ph = ttlnumds_prd_dsge5
+      ndesat3 = ttlnumds_su_dsge3
+      ndesat4 = ttlnumds_su_dsge4
+      ndes2ph = ttlnumds_so_dsge2
+      ndes3ph = ttlnumds_so_dsge3
+      ndes4ph = ttlnumds_so_dsge4
+      ndes5ph = ttlnumds_so_dsge5
       dssao90 = ttlnumds_salt90
-      hunrbp = hi_pb_hp5x0u
-      hunrbp2 = hi_pb_hp5x2u
-      hunrbp3 = hi_pb_hp5x3u
-      hunrbp4 = hi_pb_hp5x4u
-      hunrbp5 = hi_pb_hp5x5u
-      hunrop = hi_po_hp5x0u
-      hunrop2 = hi_po_hp5x2u
-      hunrop3 = hi_po_hp5x3u
-      hunrop4 = hi_po_hp5x4u
-      hunrop5 = hi_po_hp5x5u
-      canbp = ttlnumca_pb_ca0u
-      canbp2 = ttlnumca_pb_ca2u
-      canbp3 = ttlnumca_pb_ca3u
-      canbp4 = ttlnumca_pb_ca4u
-      canbp5 = ttlnumca_pb_ca5u
-      canop = ttlnumca_po_ca0u
-      canop2 = ttlnumca_po_ca2u
-      canop3 = ttlnumca_po_ca3u
-      canop4 = ttlnumca_po_ca4u
-      canop5 = ttlnumca_po_ca5u
-      hnrbp = ttlnumhp_pb_hp3x5x0u
-      hnrbp2 = ttlnumhp_pb_hp3x5x2u
-      hnrbp3 = ttlnumhp_pb_hp3x5x3u
-      hnrbp4 = ttlnumhp_pb_hp3x5x4u
-      hnrbp5 = ttlnumhp_pb_hp3x5x5u
-      unrbp = ttlnumhp_pb_hp5x0u
-      unrbp2 = ttlnumhp_pb_hp5x2u
-      unrbp3 = ttlnumhp_pb_hp5x3u
-      unrbp4 = ttlnumhp_pb_hp5x4u
-      unrbp5 = ttlnumhp_pb_hp5x5u
-      hnrop = ttlnumhp_po_hp3x5x0u
-      hnrop2 = ttlnumhp_po_hp3x5x2u
-      hnrop3 = ttlnumhp_po_hp3x5x3u
-      hnrop4 = ttlnumhp_po_hp3x5x4u
-      hnrop5 = ttlnumhp_po_hp3x5x5u
-      unrop = ttlnumhp_po_hp5x0u
-      unrop2 = ttlnumhp_po_hp5x2u
-      unrop3 = ttlnumhp_po_hp5x3u
-      unrop4 = ttlnumhp_po_hp5x4u
-      unrop5 = ttlnumhp_po_hp5x5u
-      oanbp = ttlnumoa_pb_oa0u
-      oanbp2 = ttlnumoa_pb_oa2u
-      oanbp3 = ttlnumoa_pb_oa3u
-      oanbp4 = ttlnumoa_pb_oa4u
-      oanbp5 = ttlnumoa_pb_oa5u
-      oanop = ttlnumoa_po_oa0u
-      oanop2 = ttlnumoa_po_oa2u
-      oanop3 = ttlnumoa_po_oa3u
-      oanop4 = ttlnumoa_po_oa4u
-      oanop5 = ttlnumoa_po_oa5u
-      apavgdur = avgdurap_ap0u
-      cavgdur = avgdurca_ca0u
-      avcanbp = avgdurca_pb_ca0u
-      avcanbp2 = avgdurca_pb_ca2u
-      avcanbp3 = avgdurca_pb_ca3u
-      avcanbp4 = avgdurca_pb_ca4u
-      avcanbp5 = avgdurca_pb_ca5u
-      avcanop = avgdurca_po_ca0u
-      avcanop2 = avgdurca_po_ca2u
-      avcanop3 = avgdurca_po_ca3u
-      avcanop4 = avgdurca_po_ca4u
-      avcanop5 = avgdurca_po_ca5u
-      hbavgdur = avgdurhp_hp3x0u
-      avhnbp = avgdurhp_pb_hp3x5x0u
-      avhnbp2 = avgdurhp_pb_hp3x5x2u
-      avhnbp3 = avgdurhp_pb_hp3x5x3u
-      avhnbp4 = avgdurhp_pb_hp3x5x4u
-      avhnbp5 = avgdurhp_pb_hp3x5x5u
-      avunrbp = avgdurhp_pb_hp5x0u
-      avunrbp2 = avgdurhp_pb_hp5x2u
-      avunrbp3 = avgdurhp_pb_hp5x3u
-      avunrbp4 = avgdurhp_pb_hp5x4u
-      avunrbp5 = avgdurhp_pb_hp5x5u
-      avhnop = avgdurhp_po_hp3x5x0u
-      avhnop2 = avgdurhp_po_hp3x5x2u
-      avhnop3 = avgdurhp_po_hp3x5x3u
-      avhnop4 = avgdurhp_po_hp3x5x4u
-      avhnop5 = avgdurhp_po_hp3x5x5u
-      avunrop = avgdurhp_po_hp5x0u
-      avunrop2 = avgdurhp_po_hp5x2u
-      avunrop3 = avgdurhp_po_hp5x3u
-      avunrop4 = avgdurhp_po_hp5x4u
-      avunrop5 = avgdurhp_po_hp5x5u
-      oavgdur = avgduroa_oa0u
-      avoanbp = avgduroa_pb_oa0u
-      avoanbp2 = avgduroa_pb_oa2u
-      avoanbp3 = avgduroa_pb_oa3u
-      avoanbp4 = avgduroa_pb_oa4u
-      avoanbp5 = avgduroa_pb_oa5u
-      avoanop = avgduroa_po_oa0u
-      avoanop2 = avgduroa_po_oa2u
-      avoanop3 = avgduroa_po_oa3u
-      avoanop4 = avgduroa_po_oa4u
-      avoanop5 = avgduroa_po_oa5u
-      longap = maxdurap_ap0u
-      longhypb = maxdurap_hp3x0u
-      mxcanbp = maxdurca_pb_ca0u
-      mxcanbp2 = maxdurca_pb_ca2u
-      mxcanbp3 = maxdurca_pb_ca3u
-      mxcanbp4 = maxdurca_pb_ca4u
-      mxcanbp5 = maxdurca_pb_ca5u
-      mxcanop = maxdurca_po_ca0u
-      mxcanop2 = maxdurca_po_ca2u
-      mxcanop3 = maxdurca_po_ca3u
-      mxcanop4 = maxdurca_po_ca4u
-      mxcanop5 = maxdurca_po_ca5u
-      mxhnbp = maxdurhp_pb_hp3x5x0u
-      mxhnbp2 = maxdurhp_pb_hp3x5x2u
-      mxhnbp3 = maxdurhp_pb_hp3x5x3u
-      mxhnbp4 = maxdurhp_pb_hp3x5x4u
-      mxhnbp5 = maxdurhp_pb_hp3x5x5u
-      lunrbp = maxdurhp_pb_hp5x0u
-      lunrbp2 = maxdurhp_pb_hp5x2u
-      lunrbp3 = maxdurhp_pb_hp5x3u
-      lunrbp4 = maxdurhp_pb_hp5x4u
-      lunrbp5 = maxdurhp_pb_hp5x5u
-      mxhnop = maxdurhp_po_hp3x5x0u
-      mxhnop2 = maxdurhp_po_hp3x5x2u
-      mxhnop3 = maxdurhp_po_hp3x5x3u
-      mxhnop4 = maxdurhp_po_hp3x5x4u
-      mxhnop5 = maxdurhp_po_hp3x5x5u
-      lunrop = maxdurhp_po_hp5x0u
-      lunrop2 = maxdurhp_po_hp5x2u
-      lunrop3 = maxdurhp_po_hp5x3u
-      lunrop4 = maxdurhp_po_hp5x4u
-      lunrop5 = maxdurhp_po_hp5x5u
-      mxoanbp = maxduroa_pb_oa0u
-      mxoanbp2 = maxduroa_pb_oa2u
-      mxoanbp3 = maxduroa_pb_oa3u
-      mxoanbp4 = maxduroa_pb_oa4u
-      mxoanbp5 = maxduroa_pb_oa5u
-      mxoanop = maxduroa_po_oa0u
-      mxoanop2 = maxduroa_po_oa2u
-      mxoanop3 = maxduroa_po_oa3u
-      mxoanop4 = maxduroa_po_oa4u
-      mxoanop5 = maxduroa_po_oa5u
-      mncanbp = mindurca_pb_ca0u
-      mncanbp2 = mindurca_pb_ca2u
-      mncanbp3 = mindurca_pb_ca3u
-      mncanbp4 = mindurca_pb_ca4u
-      mncanbp5 = mindurca_pb_ca5u
-      mncanop = mindurca_po_ca0u
-      mncanop2 = mindurca_po_ca2u
-      mncanop3 = mindurca_po_ca3u
-      mncanop4 = mindurca_po_ca4u
-      mncanop5 = mindurca_po_ca5u
-      mnhnbp = mindurhp_pb_hp3x5x0u
-      mnhnbp2 = mindurhp_pb_hp3x5x2u
-      mnhnbp3 = mindurhp_pb_hp3x5x3u
-      mnhnbp4 = mindurhp_pb_hp3x5x4u
-      mnhnbp5 = mindurhp_pb_hp3x5x5u
-      sunrbp = mindurhp_pb_hp5x0u
-      sunrbp2 = mindurhp_pb_hp5x2u
-      sunrbp3 = mindurhp_pb_hp5x3u
-      sunrbp4 = mindurhp_pb_hp5x4u
-      sunrbp5 = mindurhp_pb_hp5x5u
-      mnhnop = mindurhp_po_hp3x5x0u
-      mnhnop2 = mindurhp_po_hp3x5x2u
-      mnhnop3 = mindurhp_po_hp3x5x3u
-      mnhnop4 = mindurhp_po_hp3x5x4u
-      mnhnop5 = mindurhp_po_hp3x5x5u
-      sunrop = mindurhp_po_hp5x0u
-      sunrop2 = mindurhp_po_hp5x2u
-      sunrop3 = mindurhp_po_hp5x3u
-      sunrop4 = mindurhp_po_hp5x4u
-      sunrop5 = mindurhp_po_hp5x5u
-      mnoanbp = minduroa_pb_oa0u
-      mnoanbp2 = minduroa_pb_oa2u
-      mnoanbp3 = minduroa_pb_oa3u
-      mnoanbp4 = minduroa_pb_oa4u
-      mnoanbp5 = minduroa_pb_oa5u
-      mnoanop = minduroa_po_oa0u
-      mnoanop2 = minduroa_po_oa2u
-      mnoanop3 = minduroa_po_oa3u
-      mnoanop4 = minduroa_po_oa4u
-      mnoanop5 = minduroa_po_oa5u
-      pcoslp = pctdursp_ap0u
-      pcohb3slp = pctdursp_ap3uhp3x3u
-      phbslp = pctdursp_hp3x0u
-      ahntdur = ttldurah_ap0uhp3x0u
-      ahntdurbp = ttldurah_pb_ap0uhp3x0u
-      ahntdurop = ttldurah_po_ap0uhp3x0u
-      apntdur = ttldurap_ap0u
-      apntdurbp = ttldurap_pb_ap0u
-      ctdur = ttldurca_ca0u
-      cntdurbp = ttldurca_pb_ca0u
-      cntdurop = ttldurca_po_ca0u
-      htdur = ttldurhp_hp3x5x0u
-      hntdurbp = ttldurhp_pb_hp3x5x0u
-      hntdurop = ttldurhp_po_hp3x5x0u
-      aptdur = ttldurma_ma0u
-      ontdur = ttlduroa_oa0u
-      ontdurbp = ttlduroa_pb_oa0u
-      ontdurop = ttlduroa_po_oa0u
+      hunrbp = hi_pb_hp5x0n
+      hunrbp2 = hi_pb_hp5x2n
+      hunrbp3 = hi_pb_hp5x3n
+      hunrbp4 = hi_pb_hp5x4n
+      hunrbp5 = hi_pb_hp5x5n
+      hunrop = hi_po_hp5x0n
+      hunrop2 = hi_po_hp5x2n
+      hunrop3 = hi_po_hp5x3n
+      hunrop4 = hi_po_hp5x4n
+      hunrop5 = hi_po_hp5x5n
+      canbp = ttlnumca_pb_ca0n
+      canbp2 = ttlnumca_pb_ca2n
+      canbp3 = ttlnumca_pb_ca3n
+      canbp4 = ttlnumca_pb_ca4n
+      canbp5 = ttlnumca_pb_ca5n
+      canop = ttlnumca_po_ca0n
+      canop2 = ttlnumca_po_ca2n
+      canop3 = ttlnumca_po_ca3n
+      canop4 = ttlnumca_po_ca4n
+      canop5 = ttlnumca_po_ca5n
+      hnrbp = ttlnumhp_pb_hp3x5x0n
+      hnrbp2 = ttlnumhp_pb_hp3x5x2n
+      hnrbp3 = ttlnumhp_pb_hp3x5x3n
+      hnrbp4 = ttlnumhp_pb_hp3x5x4n
+      hnrbp5 = ttlnumhp_pb_hp3x5x5n
+      unrbp = ttlnumhp_pb_hp5x0n
+      unrbp2 = ttlnumhp_pb_hp5x2n
+      unrbp3 = ttlnumhp_pb_hp5x3n
+      unrbp4 = ttlnumhp_pb_hp5x4n
+      unrbp5 = ttlnumhp_pb_hp5x5n
+      hnrop = ttlnumhp_po_hp3x5x0n
+      hnrop2 = ttlnumhp_po_hp3x5x2n
+      hnrop3 = ttlnumhp_po_hp3x5x3n
+      hnrop4 = ttlnumhp_po_hp3x5x4n
+      hnrop5 = ttlnumhp_po_hp3x5x5n
+      unrop = ttlnumhp_po_hp5x0n
+      unrop2 = ttlnumhp_po_hp5x2n
+      unrop3 = ttlnumhp_po_hp5x3n
+      unrop4 = ttlnumhp_po_hp5x4n
+      unrop5 = ttlnumhp_po_hp5x5n
+      oanbp = ttlnumoa_pb_oa0n
+      oanbp2 = ttlnumoa_pb_oa2n
+      oanbp3 = ttlnumoa_pb_oa3n
+      oanbp4 = ttlnumoa_pb_oa4n
+      oanbp5 = ttlnumoa_pb_oa5n
+      oanop = ttlnumoa_po_oa0n
+      oanop2 = ttlnumoa_po_oa2n
+      oanop3 = ttlnumoa_po_oa3n
+      oanop4 = ttlnumoa_po_oa4n
+      oanop5 = ttlnumoa_po_oa5n
+      apavgdur = avgdurap_ap0n
+      cavgdur = avgdurca_ca0n
+      avcanbp = avgdurca_pb_ca0n
+      avcanbp2 = avgdurca_pb_ca2n
+      avcanbp3 = avgdurca_pb_ca3n
+      avcanbp4 = avgdurca_pb_ca4n
+      avcanbp5 = avgdurca_pb_ca5n
+      avcanop = avgdurca_po_ca0n
+      avcanop2 = avgdurca_po_ca2n
+      avcanop3 = avgdurca_po_ca3n
+      avcanop4 = avgdurca_po_ca4n
+      avcanop5 = avgdurca_po_ca5n
+      hbavgdur = avgdurhp_hp3x0n
+      avhnbp = avgdurhp_pb_hp3x5x0n
+      avhnbp2 = avgdurhp_pb_hp3x5x2n
+      avhnbp3 = avgdurhp_pb_hp3x5x3n
+      avhnbp4 = avgdurhp_pb_hp3x5x4n
+      avhnbp5 = avgdurhp_pb_hp3x5x5n
+      avunrbp = avgdurhp_pb_hp5x0n
+      avunrbp2 = avgdurhp_pb_hp5x2n
+      avunrbp3 = avgdurhp_pb_hp5x3n
+      avunrbp4 = avgdurhp_pb_hp5x4n
+      avunrbp5 = avgdurhp_pb_hp5x5n
+      avhnop = avgdurhp_po_hp3x5x0n
+      avhnop2 = avgdurhp_po_hp3x5x2n
+      avhnop3 = avgdurhp_po_hp3x5x3n
+      avhnop4 = avgdurhp_po_hp3x5x4n
+      avhnop5 = avgdurhp_po_hp3x5x5n
+      avunrop = avgdurhp_po_hp5x0n
+      avunrop2 = avgdurhp_po_hp5x2n
+      avunrop3 = avgdurhp_po_hp5x3n
+      avunrop4 = avgdurhp_po_hp5x4n
+      avunrop5 = avgdurhp_po_hp5x5n
+      oavgdur = avgduroa_oa0n
+      avoanbp = avgduroa_pb_oa0n
+      avoanbp2 = avgduroa_pb_oa2n
+      avoanbp3 = avgduroa_pb_oa3n
+      avoanbp4 = avgduroa_pb_oa4n
+      avoanbp5 = avgduroa_pb_oa5n
+      avoanop = avgduroa_po_oa0n
+      avoanop2 = avgduroa_po_oa2n
+      avoanop3 = avgduroa_po_oa3n
+      avoanop4 = avgduroa_po_oa4n
+      avoanop5 = avgduroa_po_oa5n
+      longap = maxdurap_ap0n
+      longhypb = maxdurap_hp3x0n
+      mxcanbp = maxdurca_pb_ca0n
+      mxcanbp2 = maxdurca_pb_ca2n
+      mxcanbp3 = maxdurca_pb_ca3n
+      mxcanbp4 = maxdurca_pb_ca4n
+      mxcanbp5 = maxdurca_pb_ca5n
+      mxcanop = maxdurca_po_ca0n
+      mxcanop2 = maxdurca_po_ca2n
+      mxcanop3 = maxdurca_po_ca3n
+      mxcanop4 = maxdurca_po_ca4n
+      mxcanop5 = maxdurca_po_ca5n
+      mxhnbp = maxdurhp_pb_hp3x5x0n
+      mxhnbp2 = maxdurhp_pb_hp3x5x2n
+      mxhnbp3 = maxdurhp_pb_hp3x5x3n
+      mxhnbp4 = maxdurhp_pb_hp3x5x4n
+      mxhnbp5 = maxdurhp_pb_hp3x5x5n
+      lunrbp = maxdurhp_pb_hp5x0n
+      lunrbp2 = maxdurhp_pb_hp5x2n
+      lunrbp3 = maxdurhp_pb_hp5x3n
+      lunrbp4 = maxdurhp_pb_hp5x4n
+      lunrbp5 = maxdurhp_pb_hp5x5n
+      mxhnop = maxdurhp_po_hp3x5x0n
+      mxhnop2 = maxdurhp_po_hp3x5x2n
+      mxhnop3 = maxdurhp_po_hp3x5x3n
+      mxhnop4 = maxdurhp_po_hp3x5x4n
+      mxhnop5 = maxdurhp_po_hp3x5x5n
+      lunrop = maxdurhp_po_hp5x0n
+      lunrop2 = maxdurhp_po_hp5x2n
+      lunrop3 = maxdurhp_po_hp5x3n
+      lunrop4 = maxdurhp_po_hp5x4n
+      lunrop5 = maxdurhp_po_hp5x5n
+      mxoanbp = maxduroa_pb_oa0n
+      mxoanbp2 = maxduroa_pb_oa2n
+      mxoanbp3 = maxduroa_pb_oa3n
+      mxoanbp4 = maxduroa_pb_oa4n
+      mxoanbp5 = maxduroa_pb_oa5n
+      mxoanop = maxduroa_po_oa0n
+      mxoanop2 = maxduroa_po_oa2n
+      mxoanop3 = maxduroa_po_oa3n
+      mxoanop4 = maxduroa_po_oa4n
+      mxoanop5 = maxduroa_po_oa5n
+      mncanbp = mindurca_pb_ca0n
+      mncanbp2 = mindurca_pb_ca2n
+      mncanbp3 = mindurca_pb_ca3n
+      mncanbp4 = mindurca_pb_ca4n
+      mncanbp5 = mindurca_pb_ca5n
+      mncanop = mindurca_po_ca0n
+      mncanop2 = mindurca_po_ca2n
+      mncanop3 = mindurca_po_ca3n
+      mncanop4 = mindurca_po_ca4n
+      mncanop5 = mindurca_po_ca5n
+      mnhnbp = mindurhp_pb_hp3x5x0n
+      mnhnbp2 = mindurhp_pb_hp3x5x2n
+      mnhnbp3 = mindurhp_pb_hp3x5x3n
+      mnhnbp4 = mindurhp_pb_hp3x5x4n
+      mnhnbp5 = mindurhp_pb_hp3x5x5n
+      sunrbp = mindurhp_pb_hp5x0n
+      sunrbp2 = mindurhp_pb_hp5x2n
+      sunrbp3 = mindurhp_pb_hp5x3n
+      sunrbp4 = mindurhp_pb_hp5x4n
+      sunrbp5 = mindurhp_pb_hp5x5n
+      mnhnop = mindurhp_po_hp3x5x0n
+      mnhnop2 = mindurhp_po_hp3x5x2n
+      mnhnop3 = mindurhp_po_hp3x5x3n
+      mnhnop4 = mindurhp_po_hp3x5x4n
+      mnhnop5 = mindurhp_po_hp3x5x5n
+      sunrop = mindurhp_po_hp5x0n
+      sunrop2 = mindurhp_po_hp5x2n
+      sunrop3 = mindurhp_po_hp5x3n
+      sunrop4 = mindurhp_po_hp5x4n
+      sunrop5 = mindurhp_po_hp5x5n
+      mnoanbp = minduroa_pb_oa0n
+      mnoanbp2 = minduroa_pb_oa2n
+      mnoanbp3 = minduroa_pb_oa3n
+      mnoanbp4 = minduroa_pb_oa4n
+      mnoanbp5 = minduroa_pb_oa5n
+      mnoanop = minduroa_po_oa0n
+      mnoanop2 = minduroa_po_oa2n
+      mnoanop3 = minduroa_po_oa3n
+      mnoanop4 = minduroa_po_oa4n
+      mnoanop5 = minduroa_po_oa5n
+      pcoslp = pctdursp_ap0n
+      pcohb3slp = pctdursp_ap3nhp3x3n
+      phbslp = pctdursp_hp3x0n
+      ahntdur = ttldurah_ap0nhp3x0n
+      ahntdurbp = ttldurah_pb_ap0nhp3x0n
+      ahntdurop = ttldurah_po_ap0nhp3x0n
+      apntdur = ttldurap_ap0n
+      apntdurbp = ttldurap_pb_ap0n
+      ctdur = ttldurca_ca0n
+      cntdurbp = ttldurca_pb_ca0n
+      cntdurop = ttldurca_po_ca0n
+      htdur = ttldurhp_hp3x5x0n
+      hntdurbp = ttldurhp_pb_hp3x5x0n
+      hntdurop = ttldurhp_po_hp3x5x0n
+      aptdur = ttldurma_ma0n
+      ontdur = ttlduroa_oa0n
+      ontdurbp = ttlduroa_pb_oa0n
+      ontdurop = ttlduroa_po_oa0n
       stlonp = endtimbd
       stendp = endtimrd
       supinep = pctdursp_pb
@@ -573,24 +573,24 @@
 * create harmonized datasets ;
 *******************************************************************************;
 data numom_nsrr_visit1_harmonized;
-	set numom_nsrr_visit1;
-	where stdyvis=1;
+  set numom_nsrr_visit1;
+  where stdyvis=1;
 *demographics
 *age;
 *use age_at_stdydt;
-	format nsrr_age 8.2;
- 	nsrr_age = age_at_stdydt;
+  format nsrr_age 8.2;
+  nsrr_age = age_at_stdydt;
 
 *age_gt89;
 *use age_at_stdydt;
-	format nsrr_age_gt89 $100.; 
-	if age_at_stdydt gt 89 then nsrr_age_gt89='yes';
-	else if age_at_stdydt le 89 then nsrr_age_gt89='no';
+  format nsrr_age_gt89 $100.; 
+  if age_at_stdydt gt 89 then nsrr_age_gt89='yes';
+  else if age_at_stdydt le 89 then nsrr_age_gt89='no';
 
 *sex;
 *create nsrr_sex all female;
-	format nsrr_sex $100.;
-	nsrr_sex = 'female';
+  format nsrr_sex $100.;
+  nsrr_sex = 'female';
 
 *race;
 *use crace;
@@ -598,46 +598,46 @@ data numom_nsrr_visit1_harmonized;
     if crace = 1 then nsrr_race = 'white';
     else if crace = 2 then nsrr_race = 'black or african american';
     else if crace = 3 then nsrr_race = 'hispanic';
-  	else if crace = 4 then nsrr_race = 'asian';
-	else if crace = 5 then nsrr_race = 'other';
-	else  nsrr_race = 'not reported';
+    else if crace = 4 then nsrr_race = 'asian';
+  else if crace = 5 then nsrr_race = 'other';
+  else  nsrr_race = 'not reported';
 
 *ethnicity;
 *use crace;
-	format nsrr_ethnicity $100.;
+  format nsrr_ethnicity $100.;
     if crace = 3 then nsrr_ethnicity = 'hispanic or latino';
     else if crace = 1 then nsrr_ethnicity = 'not hispanic or latino';
-	else if crace = 2  then nsrr_ethnicity = 'not hispanic or latino';
-	else if crace = 4   then nsrr_ethnicity = 'not hispanic or latino';
-	else if crace = 5  then nsrr_ethnicity = 'not hispanic or latino';
-	else if crace = . then nsrr_ethnicity = 'not reported';
+  else if crace = 2  then nsrr_ethnicity = 'not hispanic or latino';
+  else if crace = 4   then nsrr_ethnicity = 'not hispanic or latino';
+  else if crace = 5  then nsrr_ethnicity = 'not hispanic or latino';
+  else if crace = . then nsrr_ethnicity = 'not reported';
 
 *anthropometry
 *bmi;
 *use bmi;
-	format nsrr_bmi 10.9;
- 	nsrr_bmi = bmi;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = bmi;
 
 *clinical data/vital signs
 *bp_systolic;
 *bp_diastolic;
-	*not available;
+  *not available;
 
 *lifestyle and behavioral health
 *current_smoker;
 *ever_smoker;
-	*not available;
+  *not available;
 
-	keep 
-		publicid
-		stdyvis
-		nsrr_age
-		nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_bmi
-		;
+  keep 
+    publicid
+    stdyvis
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_bmi
+    ;
 run;
 
 *******************************************************************************;
@@ -647,17 +647,17 @@ run;
 /* Checking for extreme values for continuous variables */
 
 proc means data=numom_nsrr_visit1_harmonized;
-VAR 	nsrr_age
-		nsrr_bmi;
+VAR   nsrr_age
+    nsrr_bmi;
 run;
 
 /* Checking categorical variables */
 
 proc freq data=numom_nsrr_visit1_harmonized;
-table 	nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity;
+table   nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity;
 run;
 
 
