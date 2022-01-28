@@ -1,5 +1,6 @@
 ## 0.3.0 (Decemember 2021)
 
+- Add harmonized covariates and PSG variables
 - Fix AASM labels on some AHI variables
 
 ## 0.2.0 (September 22, 2020)
