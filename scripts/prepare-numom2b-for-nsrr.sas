@@ -634,10 +634,10 @@ data numom_nsrr_visit1_harmonized;
   format nsrr_ahi_hp3u 8.2;
   nsrr_ahi_hp3u = ahi_ap0nhp3x3n_f1t3;
   
-*nsrr_ahi_hp4u;
+*nsrr_ahi_hp4u_aasm15;
 *use ahi_ap0nhp3x4n_f1t3;
-  format nsrr_ahi_hp4u 8.2;
-  nsrr_ahi_hp4u = ahi_ap0nhp3x4n_f1t3;
+  format nsrr_ahi_hp4u_aasm15 8.2;
+  nsrr_ahi_hp4u_aasm15 = ahi_ap0nhp3x4n_f1t3;
 
 *nsrr_ttldursp_f1;
 *use ttldursp_f1t3;
@@ -654,7 +654,7 @@ data numom_nsrr_visit1_harmonized;
     nsrr_ethnicity
     nsrr_bmi
 	nsrr_ahi_hp3u
-	nsrr_ahi_hp4u
+	nsrr_ahi_hp4u_aasm15
 	nsrr_ttldursp_f1
     ;
 run;
@@ -669,7 +669,7 @@ proc means data=numom_nsrr_visit1_harmonized;
 VAR   nsrr_age
     nsrr_bmi
 	nsrr_ahi_hp3u
-	nsrr_ahi_hp4u
+	nsrr_ahi_hp4u_aasm15
 	nsrr_ttldursp_f1
 	;
 run;
