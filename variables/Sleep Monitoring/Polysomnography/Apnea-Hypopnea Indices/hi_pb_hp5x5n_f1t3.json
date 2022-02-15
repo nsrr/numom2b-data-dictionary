@@ -1,0 +1,12 @@
+{
+  "id": "hi_pb_hp5x5n_f1t3",
+  "display_name": "Hypopnea Index (Supine): (Hypopneas with > 50% flow reduction and >= 5% oxygen desaturation) / hour of sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "hi_pb_hp5x5u_f1t3",
+    "hi_pb_hp5x5u",
+    "hunrbp5"
+  ]
+}

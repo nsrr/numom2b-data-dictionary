@@ -1,6 +1,6 @@
 {
   "id": "maxlvlds_pb_dsge2_f1t3",
-  "display_name": "Maximum level of desaturation (supine, >= 2% desaturation)  from type III home sleep apnea test",
+  "display_name": "Maximum level of desaturation (supine, >= 2% desaturation) from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "labels": [

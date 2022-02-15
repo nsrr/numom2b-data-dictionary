@@ -1,0 +1,12 @@
+{
+  "id": "cai_ca0n_f1t3",
+  "display_name": "Central Apnea Index: (Central apneas with no oxygen desaturation threshold used) / hour of sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cai_ca0u_f1t3",
+    "cai_ca0u",
+    "cai_c0"
+  ]
+}

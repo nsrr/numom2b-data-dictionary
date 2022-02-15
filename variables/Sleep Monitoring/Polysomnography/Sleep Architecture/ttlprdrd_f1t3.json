@@ -1,6 +1,6 @@
 {
   "id": "ttlprdrd_f1t3",
-  "display_name": "Total Recording Period: the interval between recording start and end time  from type III home sleep apnea test",
+  "display_name": "Total Recording Period: the interval between recording start and end time from type III home sleep apnea test",
   "description": "Study length (epoch 1 to last epoch- minutes)",
   "type": "numeric",
   "units": "minutes",

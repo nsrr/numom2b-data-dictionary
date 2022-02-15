@@ -1,0 +1,11 @@
+{
+  "id": "avglvlnd_ca0n_f1t3",
+  "display_name": "Average Oxygen Saturation (nadir) Associated with Central Apneas: Central apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "avglvlnd_ca0u_f1t3",
+    "avglvlnd_ca0u",
+    "saondcaslp"
+  ]
+}

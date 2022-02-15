@@ -1,3 +1,11 @@
+## 0.3.0 (February 15, 2022)
+
+- Add harmonized core covariates 
+- Add harmonized core PSG variables
+- Fix AASM labels on some AHI variables
+- The CSV dataset is located here:
+    - \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases\0.3.0
+
 ## 0.2.0 (September 22, 2020)
 
 - Append PSG type suffix to variables

@@ -1,0 +1,11 @@
+{
+  "id": "pctdursp_ap3nhp3x3n_f1t3",
+  "display_name": "Percentage of sleep duration in central and obstructive apneas with >= 3% oxygen desaturation or hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "pctdursp_ap3uhp3x3u_f1t3",
+    "pctdursp_ap3uhp3x3u",
+    "pcohb3slp"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "ttlnumds_salt90_f1t3",
-  "display_name": "Number of desaturations that drop below 90% oxygen saturation in total sleep duration  from type III home sleep apnea test",
+  "display_name": "Number of desaturations that drop below 90% oxygen saturation in total sleep duration from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "labels": [
