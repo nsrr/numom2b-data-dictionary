@@ -743,7 +743,7 @@ run;
   run;
 
     proc export data=numom_nsrr_visit1_harmonized
-    outfile="&releasepath\&version\numom-visit1-harmonized-&version..csv"
+    outfile="&releasepath\&version\numom-visit1-harmonized-dataset-&version..csv"
     dbms=csv
     replace;
   run;
