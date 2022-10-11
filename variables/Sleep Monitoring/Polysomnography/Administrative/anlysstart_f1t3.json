@@ -1,6 +1,6 @@
 {
   "id": "anlysstart_f1t3",
-  "display_name": "B4. Analysis Start (0-1159) from type III home sleep apnea test",
+  "display_name": "B4. Analysis Start (0-1159)",
   "description": "",
   "type": "integer",
   "units": "hh:mm",

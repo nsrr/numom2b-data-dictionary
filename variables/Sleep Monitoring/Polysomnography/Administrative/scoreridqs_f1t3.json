@@ -1,6 +1,6 @@
 {
   "id": "scoreridqs_f1t3",
-  "display_name": "Scorer ID from type III home sleep apnea test",
+  "display_name": "Scorer ID",
   "description": "",
   "type": "choices",
   "domain": "scorer",

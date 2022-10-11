@@ -1,3 +1,10 @@
+## 0.3.1 
+
+- Revise metadata for many PSG variables
+- Add references to estimated sleep duration without EEG signal
+- The CSV dataset is located here:
+    - \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases\0.3.1
+
 ## 0.3.0 (February 15, 2022)
 
 - Add harmonized core covariates 
