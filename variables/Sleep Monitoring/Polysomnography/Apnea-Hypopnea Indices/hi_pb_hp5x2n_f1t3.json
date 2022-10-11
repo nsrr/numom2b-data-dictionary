@@ -1,7 +1,7 @@
 {
   "id": "hi_pb_hp5x2n_f1t3",
-  "display_name": "Hypopnea Index (Supine): (Hypopneas with > 50% flow reduction and >= 2% oxygen desaturation) / hour of sleep from type III home sleep apnea test",
-  "description": "Calculated - Summary metric of sleep disordered breathing events",
+  "display_name": "Hypopnea Index (Supine): (Hypopneas with > 50% flow reduction and >= 2% oxygen desaturation) / hour of estimated sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.<br><br>Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

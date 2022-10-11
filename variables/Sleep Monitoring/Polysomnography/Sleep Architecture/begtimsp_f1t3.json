@@ -1,7 +1,7 @@
 {
   "id": "begtimsp_f1t3",
   "display_name": "Sleep Onset: Clock time when the participant falls asleep from type III home sleep apnea test",
-  "description": "Conventionally this variable would be called the start of total sleep time (TST).",
+  "description": "",
   "type": "time",
   "labels": [
     "stonsetp",

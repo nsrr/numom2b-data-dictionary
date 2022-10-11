@@ -1,6 +1,6 @@
 {
   "id": "ttlnumds_su_dsge4_f1t3",
-  "display_name": "Number of desaturations with >= 4% oxygen desaturation in total sleep duration from type III home sleep apnea test",
+  "display_name": "Number of desaturations with >= 4% oxygen desaturation in total estimated sleep duration from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "labels": [

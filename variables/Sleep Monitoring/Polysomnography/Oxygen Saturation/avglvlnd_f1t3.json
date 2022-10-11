@@ -1,7 +1,7 @@
 {
   "id": "avglvlnd_f1t3",
-  "display_name": "Average oxygen saturation (nadir) in total sleep duration from type III home sleep apnea test",
-  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
+  "display_name": "Average oxygen saturation (nadir) in total estimated sleep duration from type III home sleep apnea test",
+  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)",
   "type": "integer",
   "labels": [
     "avglvlnd",

@@ -1,6 +1,6 @@
 {
   "id": "avglvlsa_f1t3",
-  "display_name": "Average oxygen saturation during in total sleep duration from type III home sleep apnea test",
+  "display_name": "Average oxygen saturation during in total estimated sleep duration from type III home sleep apnea test",
   "description": "",
   "type": "integer",
   "labels": [
