@@ -1,7 +1,7 @@
-## 0.3.1 
+## 0.3.1 (October 11, 2022)
 
 - Revise metadata for many PSG variables
-- Add references to estimated sleep duration without EEG signal
+- Add references to variables using estimated sleep duration
 - The CSV dataset is located here:
     - \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases\0.3.1
 
