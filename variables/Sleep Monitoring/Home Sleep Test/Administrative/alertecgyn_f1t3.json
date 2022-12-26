@@ -1,0 +1,10 @@
+{
+  "id": "alertecgyn_f1t3",
+  "display_name": "b3. Specific heart rate and/or ECG finding (No/Yes) from type III home sleep apnea test",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "alertecgyn"
+  ]
+}

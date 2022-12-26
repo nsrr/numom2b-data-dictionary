@@ -1,9 +1,0 @@
-{
-  "id": "ahiq_f1t3",
-  "display_name": "B3. AHI entered on QS Form. All apneas and hypopneas per hour of sleep.",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "ahiq"
-  ]
-}

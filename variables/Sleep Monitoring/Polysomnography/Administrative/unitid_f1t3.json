@@ -1,9 +1,0 @@
-{
-  "id": "unitid_f1t3",
-  "display_name": "A5. Unit ID",
-  "description": "",
-  "type": "integer",
-  "labels": [
-    "unitid"
-  ]
-}

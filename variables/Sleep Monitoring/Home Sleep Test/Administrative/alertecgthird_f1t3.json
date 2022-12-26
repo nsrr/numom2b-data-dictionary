@@ -1,0 +1,10 @@
+{
+  "id": "alertecgthird_f1t3",
+  "display_name": "b3e. Third degree AV block from type III home sleep apnea test",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "alertecgthird"
+  ]
+}

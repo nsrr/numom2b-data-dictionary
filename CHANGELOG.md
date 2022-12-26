@@ -1,3 +1,12 @@
+## 0.3.2
+
+- Change all Apnea-Hypopnea Index (AHI) references to Respiratory Event Index (REI) to better match current sleep terminology
+- Add harmonzied sleep architecture variables
+- Add harmonzied variables for follow up visits
+- The CSV dataset is located here:
+    - \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases\0.3.2
+
+
 ## 0.3.1 (October 11, 2022)
 
 - Revise metadata for many PSG variables

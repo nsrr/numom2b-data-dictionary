@@ -25,7 +25,7 @@
   libname numomi "\\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_ids";
 
   *set data dictionary version;
-  %let version = 0.3.1;
+  %let version = 0.3.2.pre;
 
   *set nsrr csv release path;
   %let releasepath = \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases;
@@ -119,14 +119,14 @@
 
     *rename variables;
     rename
-      ahi_a0h0 = ahi_ap0nhp3x0n
-      ahi_a0h3 = ahi_ap0nhp3x3n
-      ahi_a0h4 = ahi_ap0nhp3x4n
-      ahi_a0t4f3 = ahi_ap0nhp3x5x4nhp5x3n
-      ahi_a2h2 = ahi_ap2nhp3x2n
-      ahiu3 = ahi_ap3nhp3x3n
-      ahi_a4h4 = ahi_ap4nhp3x4n
-      ahi_a5h5 = ahi_ap5nhp3x5n
+      ahi_a0h0 = rei_ap0nhp3x0n
+      ahi_a0h3 = rei_ap0nhp3x3n
+      ahi_a0h4 = rei_ap0nhp3x4n
+      ahi_a0t4f3 = rei_ap0nhp3x5x4nhp5x3n
+      ahi_a2h2 = rei_ap2nhp3x2n
+      ahiu3 = rei_ap3nhp3x3n
+      ahi_a4h4 = rei_ap4nhp3x4n
+      ahi_a5h5 = rei_ap5nhp3x5n
       cai_c0 = cai_ca0n
       cai_c4 = cai_ca4n
       cardnbp = cai_pb_ca0n
@@ -430,7 +430,7 @@
       htdur = ttldurhp_hp3x5x0n
       hntdurbp = ttldurhp_pb_hp3x5x0n
       hntdurop = ttldurhp_po_hp3x5x0n
-      aptdur = ttldurma_ma0n
+      aptdur = ttldurap_ca0noa0n
       ontdur = ttlduroa_oa0n
       ontdurbp = ttlduroa_pb_oa0n
       ontdurop = ttlduroa_po_oa0n
@@ -439,9 +439,9 @@
       supinep = pctdursp_pb
       nsupinep = pctdursp_po
       hslptawp = phrnumsf
-      slp_eff = ttleffbd
+      slp_eff = ttleffsp
       slplatp = ttllatsp
-      slp_maint_eff = ttleffsp
+      slp_maint_eff = ttlmefsp
       stloutp = begtimbd
       ststartp = begtimrd
       stonsetp = begtimsp
@@ -572,9 +572,8 @@
 *******************************************************************************;
 * create harmonized datasets ;
 *******************************************************************************;
-data numom_nsrr_visit1_harmonized;
-  set numom_nsrr_visit1;
-  where stdyvis=1;
+data numom_nsrr_harmonized;
+ set numom_nsrr_censored;
 *demographics
 *age;
 *use age_at_stdydt;
@@ -629,20 +628,45 @@ data numom_nsrr_visit1_harmonized;
   *not available;
 
 *polysomnography;
-*nsrr_ahi_hp3u;
-*use ahi_ap0nhp3x3n_f1t3;
-  format nsrr_ahi_hp3u 8.2;
-  nsrr_ahi_hp3u = ahi_ap0nhp3x3n_f1t3;
+*nsrr_rei_hp3n;
+*use rei_ap0nhp3x3n_f1t3;
+  format nsrr_rei_hp3n 8.2;
+  nsrr_rei_hp3n = rei_ap0nhp3x3n_f1t3;
   
-*nsrr_ahi_hp4u_aasm15;
-*use ahi_ap0nhp3x4n_f1t3;
-  format nsrr_ahi_hp4u_aasm15 8.2;
-  nsrr_ahi_hp4u_aasm15 = ahi_ap0nhp3x4n_f1t3;
+*nsrr_rei_hp4n_aasm15;
+*use rei_ap0nhp3x4n_f1t3;
+  format nsrr_rei_hp4n_aasm15 8.2;
+  nsrr_rei_hp4n_aasm15 = rei_ap0nhp3x4n_f1t3;
 
 *nsrr_ttldursp_f1;
 *use ttldursp_f1t3;
   format nsrr_ttldursp_f1 8.2;
   nsrr_ttldursp_f1 = ttldursp_f1t3;
+
+*nsrr_ttlmefsp_f1;
+*use ttlmefsp_f1t3;
+  format nsrr_ttlmefsp_f1 8.2;
+  nsrr_ttlmefsp_f1 = ttlmefsp_f1t3;
+
+*nsrr_ttleffsp_f1;
+*use ttleffsp_f1t3;
+  format nsrr_ttleffsp_f1 8.2;
+  nsrr_ttleffsp_f1 = ttleffsp_f1t3;
+
+*nsrr_ttlprdbd_f1;
+*use ttlprdbd_f1t3;
+  format nsrr_ttlprdbd_f1 8.2;
+  nsrr_ttlprdbd_f1 = ttlprdbd_f1t3;
+
+*nsrr_ttldurws_f1;
+*use ttldurws_f1t3;
+  format nsrr_ttldurws_f1 8.2;
+  nsrr_ttldurws_f1 = ttldurws_f1t3;
+
+*nsrr_ttllatsp_f1;
+*use ttllatsp_f1t3;
+  format nsrr_ttllatsp_f1 8.2;
+  nsrr_ttllatsp_f1 = ttllatsp_f1t3;
   
   keep 
     publicid
@@ -653,9 +677,14 @@ data numom_nsrr_visit1_harmonized;
     nsrr_race
     nsrr_ethnicity
     nsrr_bmi
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp4u_aasm15
+	nsrr_rei_hp3n
+	nsrr_rei_hp4n_aasm15
 	nsrr_ttldursp_f1
+	nsrr_ttlmefsp_f1
+    nsrr_ttleffsp_f1
+    nsrr_ttlprdbd_f1
+    nsrr_ttldurws_f1
+    nsrr_ttllatsp_f1
     ;
 run;
 
@@ -665,22 +694,28 @@ run;
 
 /* Checking for extreme values for continuous variables */
 
-proc means data=numom_nsrr_visit1_harmonized;
+proc means data=numom_nsrr_harmonized;
 VAR   nsrr_age
     nsrr_bmi
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp4u_aasm15
+	nsrr_rei_hp3n
+	nsrr_rei_hp4n_aasm15
 	nsrr_ttldursp_f1
+	nsrr_ttlmefsp_f1
+    nsrr_ttleffsp_f1
+    nsrr_ttlprdbd_f1
+    nsrr_ttldurws_f1
+    nsrr_ttllatsp_f1 
 	;
 run;
 
 /* Checking categorical variables */
 
-proc freq data=numom_nsrr_visit1_harmonized;
+proc freq data=numom_nsrr_harmonized;
 table   nsrr_age_gt89
     nsrr_sex
     nsrr_race
-    nsrr_ethnicity;
+    nsrr_ethnicity
+	stdyvis;
 run;
 
 
@@ -705,7 +740,7 @@ run;
   %lowcase(numom_nsrr_censored);
   %lowcase(numom_nsrr_visit1);
   %lowcase(numom_nsrr_visit3);
-  %lowcase(numom_nsrr_visit1_harmonized);
+  %lowcase(numom_nsrr_harmonized);
 
   /*
 
@@ -742,8 +777,8 @@ run;
     replace;
   run;
 
-    proc export data=numom_nsrr_visit1_harmonized
-    outfile="&releasepath\&version\numom-visit1-harmonized-dataset-&version..csv"
+    proc export data=numom_nsrr_harmonized
+    outfile="&releasepath\&version\numom-harmonized-dataset-&version..csv"
     dbms=csv
     replace;
   run;

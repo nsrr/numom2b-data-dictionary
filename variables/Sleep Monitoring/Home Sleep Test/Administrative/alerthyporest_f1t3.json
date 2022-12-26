@@ -1,0 +1,10 @@
+{
+  "id": "alerthyporest_f1t3",
+  "display_name": "b2a. Baseline O2 sat < 88% from type III home sleep apnea test",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "alerthyporest"
+  ]
+}

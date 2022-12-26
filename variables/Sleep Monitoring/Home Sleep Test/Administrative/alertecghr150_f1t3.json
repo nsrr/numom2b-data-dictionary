@@ -1,0 +1,10 @@
+{
+  "id": "alertecghr150_f1t3",
+  "display_name": "b3b. HR for >2 continuous minutes is >150 bpm from type III home sleep apnea test",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "alertecghr150"
+  ]
+}

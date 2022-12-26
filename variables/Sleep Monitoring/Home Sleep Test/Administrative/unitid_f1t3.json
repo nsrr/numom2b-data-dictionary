@@ -1,0 +1,9 @@
+{
+  "id": "unitid_f1t3",
+  "display_name": "A5. Unit ID from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "unitid"
+  ]
+}

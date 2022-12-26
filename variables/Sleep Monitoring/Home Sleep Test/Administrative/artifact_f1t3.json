@@ -1,0 +1,10 @@
+{
+  "id": "artifact_f1t3",
+  "display_name": "Total Artifact Time (Unscorable)  from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "artifact"
+  ]
+}

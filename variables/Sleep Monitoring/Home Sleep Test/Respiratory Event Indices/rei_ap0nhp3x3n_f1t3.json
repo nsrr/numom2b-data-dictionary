@@ -1,0 +1,13 @@
+{
+  "id": "rei_ap0nhp3x3n_f1t3",
+  "display_name": "Respiratory Event Index: (All apneas with no oxygen desaturation threshold used + hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation) / hour of estimated sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.<br><br>Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_ap0uhp3x3u_f1t3",
+    "ahi_ap0uhp3x3u",
+    "ahi_a0h3"
+  ],
+  "commonly_used": true
+}

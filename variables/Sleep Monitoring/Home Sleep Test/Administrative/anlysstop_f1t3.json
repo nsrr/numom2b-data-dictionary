@@ -1,0 +1,10 @@
+{
+  "id": "anlysstop_f1t3",
+  "display_name": "B5. Analysis Stop (0-1159) from type III home sleep apnea test",
+  "description": "",
+  "type": "integer",
+  "units": "hh:mm",
+  "labels": [
+    "anlysstop"
+  ]
+}
