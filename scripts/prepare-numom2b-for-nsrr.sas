@@ -25,7 +25,7 @@
   libname numomi "\\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_ids";
 
   *set data dictionary version;
-  %let version = 0.3.2.pre;
+  %let version = 0.4.0.pre;
 
   *set nsrr csv release path;
   %let releasepath = \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases;
