@@ -6,5 +6,8 @@
   "units": "hours",
   "labels": [
     "abdohrs"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

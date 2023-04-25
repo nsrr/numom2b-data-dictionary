@@ -6,5 +6,8 @@
   "domain": "signalquality",
   "labels": [
     "abdoqual"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

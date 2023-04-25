@@ -6,5 +6,8 @@
   "units": "minutes",
   "labels": [
     "totalmin"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

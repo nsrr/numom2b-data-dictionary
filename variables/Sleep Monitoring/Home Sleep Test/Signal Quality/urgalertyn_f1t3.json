@@ -6,5 +6,8 @@
   "domain": "noyes",
   "labels": [
     "urgalertyn"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

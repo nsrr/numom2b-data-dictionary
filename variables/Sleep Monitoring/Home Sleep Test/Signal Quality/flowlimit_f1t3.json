@@ -6,5 +6,8 @@
   "domain": "snoringflowlimit",
   "labels": [
     "flowlimit"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

@@ -5,5 +5,8 @@
   "type": "numeric",
   "labels": [
     "ahiq"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

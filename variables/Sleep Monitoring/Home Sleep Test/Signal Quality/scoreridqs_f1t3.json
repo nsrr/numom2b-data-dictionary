@@ -6,5 +6,8 @@
   "domain": "scorer",
   "labels": [
     "scoreridqs"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

@@ -6,5 +6,8 @@
   "domain": "noyes",
   "labels": [
     "alertahi50"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

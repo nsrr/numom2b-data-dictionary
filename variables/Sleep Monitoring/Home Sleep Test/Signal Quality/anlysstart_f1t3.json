@@ -6,5 +6,8 @@
   "units": "hh:mm",
   "labels": [
     "anlysstart"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

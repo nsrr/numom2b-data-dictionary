@@ -6,5 +6,8 @@
   "domain": "signalquality",
   "labels": [
     "thorqual"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "nsrr_age_gt89",
   "labels": [
-    "age_at_index_gt89"
+    "age_gt89"
   ],
   "commonly_used": true
 }

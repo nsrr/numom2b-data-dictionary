@@ -6,5 +6,8 @@
   "units": "hours",
   "labels": [
     "oxihrs"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }

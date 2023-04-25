@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [
-    "ttldurws_f1t3"
+    "ttldurws_f1t3",
+    "waso"
   ]
 }

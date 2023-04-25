@@ -6,5 +6,8 @@
   "domain": "noyes",
   "labels": [
     "alertecghr40"
+  ],
+  "forms": [
+    "numom2b_qs_forms"
   ]
 }
