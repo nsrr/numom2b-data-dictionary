@@ -3,7 +3,7 @@
   "display_name": "Minimum level of oxygen saturation (non-supine, >= 2% desaturation) from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "percentage",
+  "units": "percent (%)",
   "labels": [
     "minlvlsa_po_dsge2_f1t3",
     "minlvlsa_pod2_f1t3",

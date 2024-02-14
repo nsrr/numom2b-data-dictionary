@@ -3,7 +3,7 @@
   "display_name": "Average Length of Hypopneas (Supine): Hypopneas with 30 - 50% flow reduction and with >= 4% oxygen desaturation threshold used  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "avgdurhp_pb_hp3x5x4u_f1t3",
     "avgdurhp_pb_hp3x5x4u",

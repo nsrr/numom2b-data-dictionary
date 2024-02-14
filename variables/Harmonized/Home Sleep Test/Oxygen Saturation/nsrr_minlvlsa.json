@@ -1,0 +1,11 @@
+{
+  "id": "nsrr_minlvlsa",
+  "display_name": "Minimum oxygen saturation in sleep",
+  "description": "Harmonized by the NSRR team. Source: :minlvlsa_f1t3:",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_f1t3"
+  ],
+  "commonly_used": true
+}

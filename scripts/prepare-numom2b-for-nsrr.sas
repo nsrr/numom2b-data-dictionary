@@ -456,7 +456,7 @@
       soundi = phrnumsd
       nsound = ttlnumsd
       ;
-
+	  
     *censor variables;
     drop
       SDB_StudyID /* private identifier */
@@ -480,6 +480,11 @@
       STDATEP /* date of psg study - no dates */
       SCOREDT /* date psg scored - no dates */
       consentflag /* all subjects retained have consentflag = 1 */
+	  anlysstart_f1t3 /* better variables available*/
+	  anlysstop_f1t3  /* better variables available*/
+	  anlysstartap_f1t3 /* better variables available*/
+	  anlysstopap_f1t3 /* better variables available*/
+	  ahiq_f1t3 /*redundant with report variable*/
 
       /* remaining variables redundant or extraneous */
       ahi_a3h3
@@ -557,6 +562,18 @@
       publicid_f1t3 = publicid
       weight_f1t3 = weight
       ;
+	*create decimal hours variables for HSAT lights/onset;
+	format begtimbd_dec_f1t3 begtimsp_dec_f1t3 endtimbd_dec_f1t3 begtimrd_dec_f1t3 endtimrd_dec_f1t3 8.2;
+	if begtimbd_f1t3 < 43200 then begtimbd_dec_f1t3 = begtimbd_f1t3/3600 + 24;
+	else begtimbd_dec_f1t3 = begtimbd_f1t3/3600;
+	if begtimsp_f1t3 < 43200 then begtimsp_dec_f1t3 = begtimsp_f1t3/3600 + 24;
+	else begtimsp_dec_f1t3 = begtimsp_f1t3/3600;
+	if endtimbd_f1t3 < 43200 then endtimbd_dec_f1t3 = endtimbd_f1t3/3600 + 24;
+	else endtimbd_dec_f1t3 = endtimbd_f1t3/3600;
+	if begtimrd_f1t3 < 43200 then begtimrd_dec_f1t3 = begtimrd_f1t3/3600 + 24;
+	else begtimrd_dec_f1t3 = begtimrd_f1t3/3600;
+	if endtimrd_f1t3 < 43200 then endtimrd_dec_f1t3 = endtimrd_f1t3/3600 + 24;
+	else endtimrd_dec_f1t3 = endtimrd_f1t3/3600;	
   run;
 
 *******************************************************************************;
@@ -638,10 +655,10 @@ data numom_nsrr_harmonized;
   format nsrr_rei_hp4n_aasm15 8.2;
   nsrr_rei_hp4n_aasm15 = rei_ap0nhp3x4n_f1t3;
 
-*nsrr_ttldursp_f1;
+*nsrr_tst_f1;
 *use ttldursp_f1t3;
-  format nsrr_ttldursp_f1 8.2;
-  nsrr_ttldursp_f1 = ttldursp_f1t3;
+  format nsrr_tst_f1 8.2;
+  nsrr_tst_f1 = ttldursp_f1t3;
 
 *nsrr_ttlmefsp_f1;
 *use ttlmefsp_f1t3;
@@ -653,20 +670,50 @@ data numom_nsrr_harmonized;
   format nsrr_ttleffsp_f1 8.2;
   nsrr_ttleffsp_f1 = ttleffsp_f1t3;
 
-*nsrr_ttlprdbd_f1;
+*nsrr_tib_f1;
 *use ttlprdbd_f1t3;
-  format nsrr_ttlprdbd_f1 8.2;
-  nsrr_ttlprdbd_f1 = ttlprdbd_f1t3;
+  format nsrr_tib_f1 8.2;
+  nsrr_tib_f1 = ttlprdbd_f1t3;
 
-*nsrr_ttldurws_f1;
+*nsrr_waso_f1;
 *use ttldurws_f1t3;
-  format nsrr_ttldurws_f1 8.2;
-  nsrr_ttldurws_f1 = ttldurws_f1t3;
+  format nsrr_waso_f1 8.2;
+  nsrr_waso_f1 = ttldurws_f1t3;
 
 *nsrr_ttllatsp_f1;
 *use ttllatsp_f1t3;
   format nsrr_ttllatsp_f1 8.2;
   nsrr_ttllatsp_f1 = ttllatsp_f1t3;
+
+*nsrr_cai;
+*use cai_ca0n_f1t3;
+  format nsrr_cai 8.2;
+  nsrr_cai = cai_ca0n_f1t3;
+
+*nsrr_oai;
+*use oai_oa0n_f1t3;
+  format nsrr_oai 8.2;
+  nsrr_oai = oai_oa0n_f1t3;
+
+*nsrr_oahi_hp4u;
+*use oahi_oa0nhp3x4n_f1t3;
+  format nsrr_oahi_hp4u 8.2;
+  nsrr_oahi_hp4u = oahi_oa0nhp3x4n_f1t3;
+
+*nsrr_oahi_hp3u;
+*use oahi_oa0nhp3x3n_f1t3;
+  format nsrr_oahi_hp3u 8.2;
+  nsrr_oahi_hp3u = oahi_oa0nhp3x3n_f1t3;
+
+*nsrr_avglvlsa;
+*use avglvlsa_f1t3;
+  format nsrr_avglvlsa 8.2;
+  nsrr_avglvlsa = avglvlsa_f1t3;
+
+*nsrr_minlvlsa;
+*use minlvlsa_f1t3;
+  format nsrr_minlvlsa 8.2;
+  nsrr_minlvlsa = minlvlsa_f1t3;
   
   keep 
     publicid
@@ -679,12 +726,18 @@ data numom_nsrr_harmonized;
     nsrr_bmi
 	nsrr_rei_hp3n
 	nsrr_rei_hp4n_aasm15
-	nsrr_ttldursp_f1
+	nsrr_tst_f1
 	nsrr_ttlmefsp_f1
     nsrr_ttleffsp_f1
-    nsrr_ttlprdbd_f1
-    nsrr_ttldurws_f1
+    nsrr_tib_f1
+    nsrr_waso_f1
     nsrr_ttllatsp_f1
+	nsrr_cai
+	nsrr_oai
+	nsrr_oahi_hp4u
+	nsrr_oahi_hp3u
+	nsrr_avglvlsa
+	nsrr_minlvlsa
     ;
 run;
 
@@ -699,12 +752,18 @@ VAR   nsrr_age
     nsrr_bmi
 	nsrr_rei_hp3n
 	nsrr_rei_hp4n_aasm15
-	nsrr_ttldursp_f1
+	nsrr_tst_f1
 	nsrr_ttlmefsp_f1
     nsrr_ttleffsp_f1
-    nsrr_ttlprdbd_f1
-    nsrr_ttldurws_f1
+    nsrr_tib_f1
+    nsrr_waso_f1
     nsrr_ttllatsp_f1 
+	nsrr_cai
+	nsrr_oai
+	nsrr_oahi_hp4u
+	nsrr_oahi_hp3u
+	nsrr_avglvlsa
+	nsrr_minlvlsa
 	;
 run;
 

@@ -3,7 +3,7 @@
   "display_name": "Minimum level of oxygen saturation (nadir) associated with central apneas in total estimated sleep duration from type III home sleep apnea test",
   "description": "\"Nadir\" refers to the lowest oxygen saturation reading",
   "type": "integer",
-  "units": "percentage",
+  "units": "percent (%)",
   "labels": [
     "minlvlnd_ca0u_f1t3",
     "minlvlnd_ca0u",

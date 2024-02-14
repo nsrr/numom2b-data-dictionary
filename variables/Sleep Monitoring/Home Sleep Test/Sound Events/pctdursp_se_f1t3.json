@@ -3,6 +3,7 @@
   "display_name": "Percentage of estimated sleep duration with snore events (dB level 5) from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
+  "units": "percent (%)",
   "labels": [
     "pctdursp_se",
     "pdb5slp"

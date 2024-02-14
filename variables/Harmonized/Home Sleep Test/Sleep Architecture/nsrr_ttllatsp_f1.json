@@ -3,8 +3,9 @@
   "display_name": "Sleep Latency: the interval between lights-out/in-bed time and sleep onset from home sleep apnea test",
   "description": "Harmonized by the NSRR team. Source: :ttllatsp_f1t3:",
   "type": "integer",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttllatsp_f1t3"
-  ]
+  ],
+  "commonly_used": true
 }

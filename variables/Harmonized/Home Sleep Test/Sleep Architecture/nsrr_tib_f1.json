@@ -1,0 +1,12 @@
+{
+  "id": "nsrr_tib_f1",
+  "display_name": "Total In-bed Period: the interval between lights off/in-bed time and lights on/out-bed time from home sleep apnea test",
+  "description": "Harmonized by the NSRR team. Source: :ttlprdbd_f1t3:",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttlprdbd_f1t3",
+    "tib"
+  ],
+  "commonly_used": true
+}

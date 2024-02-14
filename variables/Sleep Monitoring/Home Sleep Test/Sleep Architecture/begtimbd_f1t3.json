@@ -1,8 +1,9 @@
 {
   "id": "begtimbd_f1t3",
   "display_name": "Clock time when the participant is in bed or lights are out from type III home sleep apnea test",
-  "description": "",
+  "description": "Conventionally, this variable would be called the start of time in bed (TIB).",
   "type": "time",
+  "units": "H:mm:ss",
   "labels": [
     "stloutp",
     "startbd",

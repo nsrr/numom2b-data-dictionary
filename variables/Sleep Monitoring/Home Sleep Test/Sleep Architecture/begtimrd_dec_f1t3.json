@@ -1,0 +1,12 @@
+{
+  "id": "begtimrd_dec_f1t3",
+  "display_name": "Decimal time when the recording (study) starts from type III home sleep apnea test",
+  "description": "24 hours were added to the original values that occurred after midnight.",
+  "type": "numeric",
+  "units": "hours (hr)",
+  "labels": [
+    "ststartp",
+    "startrd",
+    "begtimrd"
+  ]
+}

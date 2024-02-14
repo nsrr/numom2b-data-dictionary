@@ -3,7 +3,7 @@
   "display_name": "Total Sleep Period: the interval between sleep onset time and lights on/out-bed time from type III home sleep apnea test",
   "description": "Total sleep period = total estimated sleep duration + wake after sleep onset",
   "type": "integer",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "lpprdm",
     "ttlprdsp"

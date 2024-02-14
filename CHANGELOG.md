@@ -1,8 +1,10 @@
 ## 0.4.0
 
 - Change all Apnea-Hypopnea Index (AHI) references to Respiratory Event Index (REI) to better match current sleep terminology
-- Add harmonzied sleep architecture variables
+- Add harmonzied sleep architecture and oxygen saturation variables
 - Add harmonzied variables for follow up visits
+- Revise units for numeric variables
+- Add sleep timing variables in the alternative format (i.e., decimal time)
 - Add annotated QS forms
 - The CSV dataset is located here:
     - \\rfawin\bwh-sleepepi-numom2b\nsrr-prep\_releases\0.4.0

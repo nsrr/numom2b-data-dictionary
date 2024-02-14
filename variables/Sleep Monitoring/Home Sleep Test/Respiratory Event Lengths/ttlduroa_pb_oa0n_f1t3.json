@@ -3,7 +3,7 @@
   "display_name": "Total Obstructive Apnea Length (Supine): Obstructive apneas with no oxygen desaturation threshold used  from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttlduroa_pb_oa0u_f1t3",
     "ttlduroa_pb_oa0u",

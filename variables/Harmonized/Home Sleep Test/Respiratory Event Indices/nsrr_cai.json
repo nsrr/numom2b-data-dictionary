@@ -1,0 +1,11 @@
+{
+  "id": "nsrr_cai",
+  "display_name": "Central Apnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal) / hour of estimated sleep",
+  "description": "Harmonized by the NSRR team.<br><br> Data collected with no EEGs. Refer to the source for detailed definition for respiratory events: :cai_ca0n_f1t3:",
+  "type": null,
+  "units": "number of events per hour",
+  "labels": [
+    "cai_ca0n_f1t3"
+  ],
+  "commonly_used": true
+}

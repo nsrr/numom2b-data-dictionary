@@ -3,7 +3,7 @@
   "display_name": "Maximum Length of Hypopneas (Non-Supine): Hypopneas with > 50% flow reduction and with >= 3% oxygen desaturation threshold used  from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "maxdurhp_po_hp5x4u_f1t3",
     "maxdurhp_po_hp5x4u",

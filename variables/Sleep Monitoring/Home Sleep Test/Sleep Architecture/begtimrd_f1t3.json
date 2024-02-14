@@ -3,6 +3,7 @@
   "display_name": "Clock time when the recording (study) starts from type III home sleep apnea test",
   "description": "",
   "type": "time",
+  "units": "H:mm:ss",
   "labels": [
     "ststartp",
     "startrd",

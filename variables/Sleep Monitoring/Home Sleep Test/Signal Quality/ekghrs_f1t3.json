@@ -3,7 +3,7 @@
   "display_name": "B7a. EKG (hours usable) from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "ekghrs"
   ],

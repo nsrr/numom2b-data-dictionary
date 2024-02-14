@@ -3,7 +3,7 @@
   "display_name": "Number of sleep to awake shifts per hour from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "hslptawp"
   ]

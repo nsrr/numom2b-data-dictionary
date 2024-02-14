@@ -3,7 +3,7 @@
   "display_name": "Minimum Length of Hypopneas (Supine): Hypopneas with 30 - 50% flow reduction and with>= 2% oxygen desaturation threshold used from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "mindurhp_pb_hp3x5x2u_f1t3",
     "mindurhp_pb_hp3x5x2u",

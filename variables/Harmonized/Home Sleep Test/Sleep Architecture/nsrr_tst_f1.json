@@ -1,9 +1,9 @@
 {
-  "id": "nsrr_ttldursp_f1",
-  "display_name": "Total Estimated Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from polysomnography",
+  "id": "nsrr_tst_f1",
+  "display_name": "Total Estimated Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from home sleep apnea test",
   "description": "Conventionally, this would be called total sleep time (TST) (i.e. total time spent in stage 1 or greater).<br><br>Harmonized by the NSRR team. <br><br>Data collected with no EEGs. Source: :ttldursp_f1t3:",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldursp_f1t3",
     "tst"

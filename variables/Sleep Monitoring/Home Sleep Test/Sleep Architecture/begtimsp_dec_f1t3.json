@@ -1,0 +1,12 @@
+{
+  "id": "begtimsp_dec_f1t3",
+  "display_name": "Sleep Onset: Decimal time when the participant falls asleep from type III home sleep apnea test",
+  "description": "24 hours were added to the original values that occurred after midnight.",
+  "type": "numeric",
+  "units": "hours (hr)",
+  "labels": [
+    "stonsetp",
+    "startsp",
+    "begtimsp"
+  ]
+}

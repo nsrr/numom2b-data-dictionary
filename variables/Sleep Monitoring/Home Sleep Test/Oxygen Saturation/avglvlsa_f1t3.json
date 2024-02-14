@@ -3,6 +3,7 @@
   "display_name": "Average oxygen saturation during in total estimated sleep duration from type III home sleep apnea test",
   "description": "",
   "type": "integer",
+  "units": "percent (%)",
   "labels": [
     "avglvlsa",
     "avsao2nh"

@@ -3,7 +3,7 @@
   "display_name": "Total Central and Obstructive Apneas Length: central and obstructive apneas with no oxygen desaturation threshold used  from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldurma_ma0u_f1t3",
     "ttldurma_ma0u",
