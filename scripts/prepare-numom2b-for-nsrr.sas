@@ -480,11 +480,11 @@
       STDATEP /* date of psg study - no dates */
       SCOREDT /* date psg scored - no dates */
       consentflag /* all subjects retained have consentflag = 1 */
-	  anlysstart_f1t3 /* better variables available*/
-	  anlysstop_f1t3  /* better variables available*/
-	  anlysstartap_f1t3 /* better variables available*/
-	  anlysstopap_f1t3 /* better variables available*/
-	  ahiq_f1t3 /*redundant with report variable*/
+	  anlysstart /* better variables available*/
+	  anlysstop  /* better variables available*/
+	  anlysstartap /* better variables available*/
+	  anlysstopap /* better variables available*/
+	  ahiq /*redundant with report variable*/
 
       /* remaining variables redundant or extraneous */
       ahi_a3h3
