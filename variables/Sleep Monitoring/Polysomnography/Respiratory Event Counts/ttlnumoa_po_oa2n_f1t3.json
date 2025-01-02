@@ -3,6 +3,7 @@
   "display_name": "Number of Obstructive Apnea (Non-Supine): Obstructive apneas with >= 2% oxygen desaturation from type III home sleep apnea test",
   "description": "",
   "type": "integer",
+  "units": "number of events",
   "labels": [
     "ttlnumoa_po_oa2u_f1t3",
     "ttlnumoa_po_oa2u",

@@ -3,6 +3,7 @@
   "display_name": "Average level of desaturation (supine, >= 4% desaturation) from type III home sleep apnea test",
   "description": "",
   "type": "integer",
+  "units": "percent (%)",
   "labels": [
     "avgdurds_pbd4_f1t3",
     "avgdurds_pbd4",

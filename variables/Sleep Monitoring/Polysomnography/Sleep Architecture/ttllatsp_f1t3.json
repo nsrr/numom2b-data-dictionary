@@ -3,7 +3,7 @@
   "display_name": "Sleep Latency: the interval between lights-out/in-bed time and sleep onset from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "slplatp",
     "slplatency"

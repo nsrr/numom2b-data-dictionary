@@ -3,7 +3,7 @@
   "display_name": "Total Artifact Time (Unscorable)",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "artifact"
   ]

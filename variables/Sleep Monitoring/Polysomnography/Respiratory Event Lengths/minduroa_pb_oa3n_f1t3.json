@@ -3,7 +3,7 @@
   "display_name": "Minimum Obstructive Apnea Length (Supine): Obstructive apneas with >= 3% oxygen desaturation from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "minduroa_pb_oa3u_f1t3",
     "minduroa_pb_oa3u",

@@ -3,6 +3,6 @@
   "display_name": "Gestational age (weeks) at sleep study visit date",
   "description": "",
   "type": "numeric",
-  "units": "weeks",
+  "units": "number of weeks",
   "commonly_used": true
 }

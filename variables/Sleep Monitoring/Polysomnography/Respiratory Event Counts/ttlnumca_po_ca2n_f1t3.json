@@ -3,6 +3,7 @@
   "display_name": "Number of Central Apnea (Non-Supine): Central apneas with >= 2% oxygen desaturation from type III home sleep apnea test",
   "description": "",
   "type": "integer",
+  "units": "number of events",
   "labels": [
     "ttlnumca_po_ca2u_f1t3",
     "ttlnumca_po_ca2u",

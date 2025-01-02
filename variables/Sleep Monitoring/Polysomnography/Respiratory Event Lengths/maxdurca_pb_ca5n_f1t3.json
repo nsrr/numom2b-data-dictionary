@@ -3,7 +3,7 @@
   "display_name": "Maximum Central Apnea length (Supine): Central apneas with >= 5% oxygen desaturation from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "maxdurca_pb_ca5u_f1t3",
     "maxdurca_pb_ca5u",

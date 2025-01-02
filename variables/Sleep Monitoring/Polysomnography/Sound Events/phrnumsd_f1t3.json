@@ -3,7 +3,7 @@
   "display_name": "Number of sound events per hour of estimated sleep from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumsd",
     "soundi"

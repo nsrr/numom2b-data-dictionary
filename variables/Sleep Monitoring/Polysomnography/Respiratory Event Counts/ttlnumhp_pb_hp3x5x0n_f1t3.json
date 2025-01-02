@@ -3,6 +3,7 @@
   "display_name": "Number of Hypopnea (Supine): Hypopneas with 30 - 50% flow reduction and no oxygen desaturation threshold used from type III home sleep apnea test",
   "description": "",
   "type": "integer",
+  "units": "number of events",
   "labels": [
     "ttlnumhp_pb_hp3x5x0u_f1t3",
     "ttlnumhp_pb_hp3x5x0u",

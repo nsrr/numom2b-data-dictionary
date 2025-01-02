@@ -3,6 +3,7 @@
   "display_name": "Sleep Onset: Clock time when the participant falls asleep from type III home sleep apnea test",
   "description": "",
   "type": "time",
+  "units": "H:mm:ss",
   "labels": [
     "stonsetp",
     "startsp",

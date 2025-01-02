@@ -3,6 +3,7 @@
   "display_name": "Average Level of Desaturation Associated with Respiratory Events: All apneas with no oxygen desaturation threshold used and hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used from type III home sleep apnea test",
   "description": "",
   "type": "integer",
+  "units": "percent (%)",
   "labels": [
     "avglvlds_ap0uhp3x0u_f1t3",
     "avglvlds_ap0uhp3x0u",

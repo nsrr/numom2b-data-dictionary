@@ -3,6 +3,7 @@
   "display_name": "Maximum level of desaturation (supine, >= 5% desaturation) from type III home sleep apnea test",
   "description": "",
   "type": "integer",
+  "units": "percent (%)",
   "labels": [
     "maxlvlds_pbd5_f1t3",
     "maxlvlds_pbd5",

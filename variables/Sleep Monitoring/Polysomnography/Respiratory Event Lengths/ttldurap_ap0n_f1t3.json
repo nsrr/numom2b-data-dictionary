@@ -3,7 +3,7 @@
   "display_name": "Total Apnea Length: Apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldurap_ap0u_f1t3",
     "ttldurap_ap0u",

@@ -3,7 +3,7 @@
   "display_name": "Maximum level of oxygen saturation in total estimated sleep duration from type III home sleep apnea test",
   "description": "",
   "type": "integer",
-  "units": "percentage",
+  "units": "percent (%)",
   "labels": [
     "maxlvlsa",
     "mxsao2nh"
