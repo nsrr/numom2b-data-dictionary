@@ -1,0 +1,26 @@
+                                                   The FREQ Procedure
+
+                                           Cumulative    Cumulative
+nsrr_age_gt89    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------
+no                      12    100.00           12       100.00
+
+                                      Cumulative    Cumulative
+nsrr_sex    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+female             12    100.00           12       100.00
+
+                                                       Cumulative    Cumulative
+nsrr_race                    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------------------
+asian                                2     16.67            2        16.67
+black or african american            3     25.00            5        41.67
+hispanic                             2     16.67            7        58.33
+other                                2     16.67            9        75.00
+white                                3     25.00           12       100.00
+
+                                                    Cumulative    Cumulative
+nsrr_ethnicity            Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------------------
+hispanic or latino                2     16.67            2        16.67
+not hispanic or latino           10     83.33           12       100.00

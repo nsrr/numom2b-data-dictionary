@@ -1,0 +1,23 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA numom_nsrr_visit1
+
+NOTE: Processing inline DATALINES (12 lines)
+
+NOTE: Read 12 rows from DATALINES.
+NOTE: Wrote numom_nsrr_visit1 (12 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA numom_nsrr_visit1_harmonized
+
+
+NOTE: Read 12 rows from numom_nsrr_visit1.
+NOTE: Wrote numom_nsrr_visit1_harmonized (12 rows, 11 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: PROC MEANS statement used.

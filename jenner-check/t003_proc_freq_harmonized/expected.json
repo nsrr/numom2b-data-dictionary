@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-06-13T18:15:18.772669+00:00",
+  "_captured_run_id": "r_019ec23175197ad2be66d19991c16359",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "The FREQ Procedure",
+    "NOTE: Wrote numom_nsrr_visit1_harmonized (12 rows, 11 columns)."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

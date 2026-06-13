@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-06-13T18:15:18.603683+00:00",
+  "_captured_run_id": "r_019ec23166407a00a54c0e72810c12a5",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote numom_nsrr_visit1_harmonized (12 rows, 11 columns).",
+    "NOTE: PROC PRINT completed: 12 observations printed, 11 variables",
+    "NOTE: Read 12 rows from DATALINES."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

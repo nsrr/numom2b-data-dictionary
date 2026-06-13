@@ -1,0 +1,31 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA sdb_vars_to_append
+
+NOTE: Processing inline DATALINES (12 lines)
+
+NOTE: Read 12 rows from DATALINES.
+NOTE: Wrote sdb_vars_to_append (12 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA sdb_vars_in
+
+
+NOTE: Read 12 rows from sdb_vars_to_append.
+NOTE: Wrote sdb_vars_in (12 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=sdb_vars_in
+
+NOTE: Unlicensed mode - input limited to 100 observations.
+NOTE: 2 duplicate observations were deleted.
+NOTE: Read 12 rows from sdb_vars_in.
+NOTE: Wrote sdb_vars_in (10 rows, 9 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC PRINT data=sdb_vars_in
+
+NOTE: PROC PRINT completed: 10 observations printed, 5 variables

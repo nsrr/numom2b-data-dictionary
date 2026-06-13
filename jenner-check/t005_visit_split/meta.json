@@ -1,0 +1,8 @@
+{
+  "bundle": "t005_visit_split",
+  "source_file": "scripts/prepare-numom2b-for-nsrr.sas",
+  "source_blob_sha": "c11fe745eada42eb5194d96c8cbca315cb5a0f20",
+  "source_commit": "7a4cfa620b44076a0ddea1101e32f1c2e835e3a2",
+  "tier": "real_data",
+  "notes": "Per-visit split DATA step (lines 565-570): one DATA step with two output datasets, routing rows to numom_nsrr_visit1 or numom_nsrr_visit3 by stdyvis via conditional OUTPUT. Mock censored input (10 rows inline: 6 visit1, 4 visit3)."
+}
