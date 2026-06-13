@@ -1,0 +1,8 @@
+{
+  "bundle": "t004_bmi_sort_nodupkey",
+  "source_file": "scripts/prepare-numom2b-for-nsrr.sas",
+  "source_blob_sha": "c11fe745eada42eb5194d96c8cbca315cb5a0f20",
+  "source_commit": "7a4cfa620b44076a0ddea1101e32f1c2e835e3a2",
+  "tier": "real_data",
+  "notes": "BMI derivation + PROC SORT NODUPKEY step (lines 50-58): computes bmi = Weight/(Height/100)**2 then de-duplicates by SDB_StudyID/stdydt/stdyvis. Mock sdb_vars_to_append (12 rows inline, two deliberately duplicated) so NODUPKEY removes 2 records (12 -> 10)."
+}

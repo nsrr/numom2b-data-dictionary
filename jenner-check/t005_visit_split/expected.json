@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-06-13T18:15:19.029446+00:00",
+  "_captured_run_id": "r_019ec2318d6272709a41aeb0f965f862",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote numom_nsrr_visit1 (10 rows, 7 columns).",
+    "NOTE: PROC PRINT completed: 6 observations printed, 4 variables",
+    "NOTE: PROC PRINT completed: 4 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

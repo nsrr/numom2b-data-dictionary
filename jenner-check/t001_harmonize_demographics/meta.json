@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_harmonize_demographics",
+  "source_file": "scripts/prepare-numom2b-for-nsrr.sas",
+  "source_blob_sha": "c11fe745eada42eb5194d96c8cbca315cb5a0f20",
+  "source_commit": "7a4cfa620b44076a0ddea1101e32f1c2e835e3a2",
+  "tier": "real_data",
+  "notes": "Verbatim NSRR harmonization DATA step (lines 575-660): derives nsrr_race/ethnicity/sex/age_gt89 via if-then-else from crace and age, copies nsrr_age/bmi/ahi indices/sleep duration, KEEPs the harmonized columns. Mock numom_nsrr_visit1 (12 rows, inline DATALINES) built from the columns the step reads."
+}

@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-06-13T18:15:18.690432+00:00",
+  "_captured_run_id": "r_019ec2316d95760397592be2ce295edf",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "The MEANS Procedure",
+    "NOTE: Wrote numom_nsrr_visit1_harmonized (12 rows, 11 columns)."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_proc_means_harmonized",
+  "source_file": "scripts/prepare-numom2b-for-nsrr.sas",
+  "source_blob_sha": "c11fe745eada42eb5194d96c8cbca315cb5a0f20",
+  "source_commit": "7a4cfa620b44076a0ddea1101e32f1c2e835e3a2",
+  "tier": "real_data",
+  "notes": "PROC MEANS QC step (lines 668-675) summarizing the five continuous harmonized variables (nsrr_age, nsrr_bmi, two AHI indices, total sleep duration). Autoexec builds a 12-row mock visit1 sample and runs the upstream harmonization DATA step to produce numom_nsrr_visit1_harmonized."
+}
